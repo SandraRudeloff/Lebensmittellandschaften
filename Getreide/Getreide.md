@@ -1,5 +1,3 @@
 # Dies ist die Übersichtseite zu Getreide
+<iframe src="Getreide-Schaubild.pdf?version=1" class="pdf-viewer"></iframe>
 
-<div class="pdf-container">
-  <iframe src="Getreide-Schaubild.pdf?version=1" class="pdf-viewer"></iframe>
-</div>
