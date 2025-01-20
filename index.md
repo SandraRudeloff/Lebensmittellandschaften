@@ -2,12 +2,8 @@
 title: ""
 ---
 
-# Willkommen auf der Website über Lebensmittellandschaften
-
 Dies ist eine Website über Lebensmittellandschaften.
 
-## Abschnitt 1
+## Lebensmittell Landschaften
 
-<a href="Getreide/Getreide.html">Getreide</a>
-
-[Mehr erfahren](details.md)
+- <a href="Getreide/Getreide.html">Getreide</a>
