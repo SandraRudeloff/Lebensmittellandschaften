@@ -7,7 +7,7 @@ title: ""
 Dies ist eine Website über Lebensmittellandschaften.
 
 ## Abschnitt 1
-<a href="Getreide/">Getreide/Getreide.html</a>
+<a href="Getreide/Getreide.html">Getreide</a>
 - Thema 2
 
 [Mehr erfahren](details.md)
