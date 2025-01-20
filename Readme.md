@@ -1,18 +1,20 @@
+Diese Website basiert auf Markdown-Dateien, die mit [Jekyll](https://jekyllrb.com/) in HTML-Seiten umgewandelt werden.
+
 # **Neue Inhalte hinzufügen**
 
-## Zum Ordner navigieren
+## 1. Zum Ordner navigieren
 
 Gehe zu dem Ordner, in dem du die neue Seite speichern möchtest (z. B. `Getreide/`).
 
-## Datei erstellen
+## 2. Datei erstellen
 
 Klicke auf den Button **"Add file"** und wähle **"Create new file"** aus.
 
-## Datei benennen
+## 3. Datei benennen
 
 Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`).
 
-## Struktur hinzufügen
+## 4. Struktur hinzufügen
 
 Füge oben in der Datei die folgende Struktur ein:
 
@@ -22,12 +24,16 @@ title: ""
 ---
 ```
 
-## Schaubild
+## 5. Arten von Seiten
 
-Wenn es sich um ein Schaubild handelt
+Je nachdem, welche Art von Seite du anlegst, beachte bitte die folgenden Schritte:
+
+### 5a. Schaubild
+
+Wenn es sich um ein Lebensmittel-Schaubild handelt:
 
 1. Lade das Schaubild als PDF in den entsprechenden Ordner hoch.
-2. Hinterlege in der .md-Datei folgenden Code, um das Schaubild einzubinden:
+2. Hinterlege in der `.md-Datei` folgenden Code, um das Schaubild einzubinden:
 
 ```html
 <iframe
@@ -36,16 +42,16 @@ Wenn es sich um ein Schaubild handelt
 ></iframe>
 ```
 
-Hinweis: Ersetze Pfad-zum-Schaubild.pdf durch den tatsächlichen relativen Pfad zur PDF-Datei. Beispiel:
+Hinweis: Ersetze `Pfad-zum-Schaubild.pdf` durch den tatsächlichen relativen Pfad zur PDF-Datei. Beispiel:
 
 ```html
 <iframe
-  src="Getreide/Getreide-Schaubild.pdf"
+  src="Getreide-Schaubild.pdf"
   style="width: 100%; height: 500px; border: none;"
 ></iframe>
 ```
 
-## Unterseite
+### 5b. Erklärende Unterseite zu einem Schaubild
 
 Wenn es sich um eine Unterseite handelt 1. Füge am Ende der .md-Datei den folgenden Code hinzu, um das Literaturverzeichnis einzubinden:
 
@@ -57,6 +63,6 @@ Wenn es sich um eine Unterseite handelt 1. Füge am Ende der .md-Datei den folge
 {%endcapture %} {{ literaturverzeichnis | markdownify }}
 ```
 
-## Literaturverzeichnis bearbeiten
+## 6. Literaturverzeichnis bearbeiten
 
-Wenn du etwas zum Literaturverzeichnis hinzufügen möchtest, findest du es im Ordner "\_includes".
+Das Literaturverzeichnis findest du im Ordner `\_includes`. Ergänze dort neue Einträge nach Bedarf.
