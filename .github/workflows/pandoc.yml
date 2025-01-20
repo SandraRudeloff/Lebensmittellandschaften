@@ -18,11 +18,15 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up Pandoc
-        run: sudo apt-get install -y pandoc
+        run: sudo apt-get install -y pandoc pandoc-citeproc
 
       - name: Create processing branch
         run: |
           git checkout -b pandoc-processing || git checkout pandoc-processing
+
+      - name: Pull latest changes from remote
+        run: |
+          git pull origin pandoc-processing || true
 
       - name: Process Markdown files with Pandoc
         run: |
