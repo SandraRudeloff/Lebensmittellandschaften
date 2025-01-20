@@ -1,3 +1,7 @@
+---
+title: "Landwirtschaftliche Erzeugung"
+---
+
 - Der Selbstversorgungsgrad von Getreide lag 2023 bei 107% (Bundesinformationszentrum Landwirtschaft, o. J.).
 - Infos über Landwirtschaftliche Betriebe, landwirtschaftlich genutzte Fläche und Bodennutzungsarten können über das Statistische Bundesamt (Destatis) gefunden werden (Destatis, 2024a).
 
