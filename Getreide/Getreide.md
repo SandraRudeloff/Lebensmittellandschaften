@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="/styles.css">
 # Dies ist die Übersichtseite zu Getreide
 
-<iframe src="Getreide-Schaubild.pdf?version=1" style="width: 100%; height: 100vh; border: none;"></iframe>
+<div class="pdf-container">
+  <iframe src="Getreide-Schaubild.pdf?version=1" class="pdf-viewer"></iframe>
+</div>
