@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="/styles.css">
 # Dies ist die Übersichtseite zu Getreide
 
 <div class="pdf-container">
