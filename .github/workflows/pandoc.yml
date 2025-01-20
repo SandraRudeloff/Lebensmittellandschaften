@@ -26,7 +26,7 @@ jobs:
 
       - name: Process Markdown files with Pandoc
         run: |
-          find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib -o {} \;
+          find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib --filter pandoc-citeproc -o {} \;
 
       - name: Debug - List files
         run: ls -la
