@@ -1,4 +1,4 @@
-# Willkommen auf meiner Website!
+# Willkommen auf der Website über Lebensmittellandschaften
 
 Dies ist eine Website über Lebensmittellandschaften.
 
