@@ -2,6 +2,8 @@ name: Pandoc Bibliography Processing
 
 on:
   push:
+    branches:
+      - main
     paths:
       - "**/*.md"
       - ".github/workflows/pandoc.yml"
@@ -18,6 +20,10 @@ jobs:
       - name: Set up Pandoc
         run: sudo apt-get install -y pandoc
 
+      - name: Create processing branch
+        run: |
+          git checkout -b pandoc-processing
+
       - name: Process Markdown files with Pandoc
         run: |
           find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib -o {} \;
@@ -28,4 +34,11 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
           git commit -m 'Processed Markdown files with Pandoc'
-          git push
+          git push origin pandoc-processing
+
+      - name: Merge changes back to main
+        run: |
+          git checkout main
+          git pull origin main
+          git merge --no-ff pandoc-processing
+          git push origin main
