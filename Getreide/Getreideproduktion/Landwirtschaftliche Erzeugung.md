@@ -20,6 +20,9 @@ Diese beiden Verbände könnten eventuell eine Mitgliederliste zur Verfügung st
 
 <iframe src="../../Literaturverzeichnis.html" style="width: 100%; height: 600px; border: none;"></iframe>
 
-# test 2
+# test 3
 
-{% include_relative Literaturverzeichnis.html %}
+{% capture literaturverzeichnis %}
+{% include Literaturverzeichnis.md %}
+{% endcapture %}
+{{ literaturverzeichnis | markdownify }}
