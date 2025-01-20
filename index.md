@@ -1,7 +1,6 @@
 ---
 title: ""
 ---
-<link rel="stylesheet" href="/styles.css">
 
 # Willkommen auf der Website über Lebensmittellandschaften
 
