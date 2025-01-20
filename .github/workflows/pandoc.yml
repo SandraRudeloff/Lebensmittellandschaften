@@ -44,7 +44,7 @@ jobs:
 
       - name: Pull latest changes before pushing
         run: |
-          git pull --rebase origin pandoc-processing
+          git pull --rebase origin pandoc-processing || git rebase --strategy-option ours
 
       - name: Push changes
         run: |
