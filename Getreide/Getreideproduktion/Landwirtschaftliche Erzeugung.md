@@ -22,4 +22,4 @@ Diese beiden Verbände könnten eventuell eine Mitgliederliste zur Verfügung st
 
 # test 2
 
-{% include Literaturverzeichnis.html %}
+{% include_relative Literaturverzeichnis.html %}

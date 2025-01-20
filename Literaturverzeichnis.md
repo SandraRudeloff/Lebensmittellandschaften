@@ -1,5 +1,7 @@
 # Literaturverzeichnis
 
+TEST
+
 - Balster, Andreas. 2018. “Modellierung Dynamischer Güterflüsse Zur Analyse von Risiken in Der Lebensmittelversorgung.” PhD thesis, Technische Universität Darmstadt.
 - Bazan Santos, Sissi Adeli. n.d. “Modeling and Optimization of Resilient Food Supply Chain Networks at Regional Scale.” PhD thesis, Technische Universität München.
 - Faber, Anne Teresa Luisa. 2019. “Collaborative Modeling and Visualizing of Business Ecosystems,” May.
