@@ -25,8 +25,11 @@ Verfügung stellen?
   in den letzten Jahren gab es vermehrt Ernteausfälle aufgrund von
   Überflutungen, Starkregen und Dürren.
 
+<br>
+
 ---
 
+<br> 
 {% capture literaturverzeichnis %}
 {% include Literaturverzeichnis.md %}
 {% endcapture %}
