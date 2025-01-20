@@ -20,14 +20,6 @@ jobs:
       - name: Set up Pandoc
         run: sudo apt-get install -y pandoc pandoc-citeproc
 
-      - name: Create processing branch
-        run: |
-          git checkout -b pandoc-processing || git checkout pandoc-processing
-
-      - name: Pull latest changes from remote
-        run: |
-          git pull origin pandoc-processing || true
-
       - name: Process Markdown files with Pandoc
         run: |
           find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib --filter pandoc-citeproc -o {} \;
@@ -44,15 +36,8 @@ jobs:
 
       - name: Pull latest changes before pushing
         run: |
-          git pull --rebase origin pandoc-processing || git rebase --strategy-option ours
+          git pull --rebase origin main
 
       - name: Push changes
         run: |
-          git push origin pandoc-processing
-
-      - name: Merge changes back to main
-        run: |
-          git checkout main
-          git pull origin main
-          git merge --no-ff pandoc-processing
           git push origin main
