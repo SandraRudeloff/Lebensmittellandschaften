@@ -26,7 +26,7 @@ jobs:
 
       - name: Process Markdown files with Pandoc
         run: |
-          find . -name "*.md" -exec pandoc {} --bibliography=../bibliography.bib --citeproc -o {} \;
+          find . -name "*.md" -exec pandoc {} --bibliography=$(pwd)/bibliography.bib --citeproc -o {} \;
 
       - name: Debug - Print processed file
         run: cat Getreide/test.md
