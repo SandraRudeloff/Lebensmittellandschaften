@@ -20,14 +20,12 @@ jobs:
 
       - name: Process Markdown files with Pandoc
         run: |
-          for file in _posts/*.md; do
-            pandoc "$file" --bibliography=bibliography.bib -o "$file"
-          done
+          find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib -o {} \;
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add _posts/*.md
+          git add .
           git commit -m 'Processed Markdown files with Pandoc'
           git push
