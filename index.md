@@ -2,8 +2,6 @@
 title: ""
 ---
 
-Dies ist eine Website über Lebensmittellandschaften.
+## Lebensmittellandschaften
 
-## Lebensmittell Landschaften
-
-- <a href="Getreide/Getreide.html">Getreide</a>
+1. [Getreide](Getreide/Getreide.html)
