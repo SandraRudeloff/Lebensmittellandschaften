@@ -1,5 +1,4 @@
-Literaturverzeichnis
-====================
+# Literaturverzeichnis
 
 -   Balster, Andreas. 2018. "Modellierung Dynamischer Güterflüsse Zur
     Analyse von Risiken in Der Lebensmittelversorgung." PhD thesis,
@@ -26,7 +25,7 @@ Literaturverzeichnis
     Dezember 2024, von
     <https://www.praxis-agrar.de/service/infografiken/wie-steht-es-um-die-hofnachfolge-bei-landwirtschaftlichen-betrieben>
 -   [Getreide
-    Schaubild\_V1.pptx](https://theklu-my.sharepoint.com/:p:/g/personal/sandra_rudeloff_the-klu_org/EaLuAi1n5YFHt5bzaHpz6E8Bnt-XkF3kVBG0HNHctRdKqg?e=kbwAh2)
+    Schaubild_V1.pptx](https://theklu-my.sharepoint.com/:p:/g/personal/sandra_rudeloff_the-klu_org/EaLuAi1n5YFHt5bzaHpz6E8Bnt-XkF3kVBG0HNHctRdKqg?e=kbwAh2)
 -   *BLE - Preis- und Warenmeldungen*. (o. J.). Abgerufen 1. November
     2024, von
     <https://www.ble.de/DE/Themen/Landwirtschaft/Warenmeldungen/warenmeldungen_node.html>
@@ -35,10 +34,10 @@ Literaturverzeichnis
     <https://www.bmel-statistik.de/fileadmin/daten/1002000-2023.pdf>
 -   BMEL. (o. J.). *Bodennutzung und pflanzliche Erzeugung: Getreide*.
     Abgerufen 1. November 2024, von
-    [https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide\#](https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide)
+    [https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide#](https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide)
 -   Verband Deutscher Mühlen e.V. (o. J.). *Getreidewissen:
     Getreidearten*. Mein Mehl. Abgerufen 15. November 2024, von
-    [https://www.mein-mehl.de/getreide/getreidearten\#](https://www.mein-mehl.de/getreide/getreidearten)
+    [https://www.mein-mehl.de/getreide/getreidearten#](https://www.mein-mehl.de/getreide/getreidearten)
 -   Landwirt schafft Leben GmbH. (o. J.). *Getreidearten -- die
     wichtigsten Getreidesorten und ihre Unterschiede im Überblick*.
     Abgerufen 15. November 2024, von
@@ -82,7 +81,7 @@ Literaturverzeichnis
     Nagel-Engpässe bremsen Paletten-Produktion---Paletten, Supply Chain
     Management (SCM) \| News \| LOGISTIK HEUTE - Das deutsche
     Logistikmagazin*.
-    [https://logistik-heute.de/news/angespannte-lieferketten-akute-nagel-engpaesse-bremsen-paletten-produktion-36521.html\#](https://logistik-heute.de/news/angespannte-lieferketten-akute-nagel-engpaesse-bremsen-paletten-produktion-36521.html)
+    [https://logistik-heute.de/news/angespannte-lieferketten-akute-nagel-engpaesse-bremsen-paletten-produktion-36521.html#](https://logistik-heute.de/news/angespannte-lieferketten-akute-nagel-engpaesse-bremsen-paletten-produktion-36521.html)
 -   Zinke, O. (2022, März 14). *Hat Deutschland genug Getreide -- um
     sich zu versorgen? - Die Fakten*. agrarheute.com.
     <https://www.agrarheute.com/markt/marktfruechte/hat-deutschland-genug-getreide-um-versorgen-fakten-591301>

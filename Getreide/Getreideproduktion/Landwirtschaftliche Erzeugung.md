@@ -6,8 +6,7 @@
 
 <https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0012>
 
-Akteurs Infos
--------------
+## Akteurs Infos
 
 -   **Deutscher Bauernverband** - Deutscher Bauernverband e.V. -
     Mitglieder. (o. J.). Abgerufen 1. November 2024, von
@@ -20,15 +19,13 @@ Akteurs Infos
 Diese beiden Verbände könnten eventuell eine Mitgliederliste zur
 Verfügung stellen?
 
-Historische Engpässe
---------------------
+## Historische Engpässe
 
 -   Der Klimawandel beeinflusst die Erntemengen der Bauern, insbesondere
     in den letzten Jahren gab es vermehrt Ernteausfälle aufgrund von
     Überflutungen, Starkregen und Dürren.
 
-`<br>`{=html}
--------------
+## `<br>`{=html}
 
 `<br>`{=html} {% capture literaturverzeichnis %} {% include
 Literaturverzeichnis.md %} {% endcapture %} {{ literaturverzeichnis \|
