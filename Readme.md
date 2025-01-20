@@ -53,7 +53,9 @@ Hinweis: Ersetze `Pfad-zum-Schaubild.pdf` durch den tatsächlichen relativen Pfa
 
 ### 5b. Erklärende Unterseite zu einem Schaubild
 
-Wenn es sich um eine Unterseite handelt 1. Füge am Ende der .md-Datei den folgenden Code hinzu, um das Literaturverzeichnis einzubinden:
+Wenn es sich um eine Unterseite handelt
+
+1. Füge am Ende der .md-Datei den folgenden Code hinzu, um das Literaturverzeichnis einzubinden:
 
 ```html
 <br />
