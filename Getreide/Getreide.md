@@ -1,10 +1,11 @@
+---
+title: ""
+---
+
 # Getreide
 
-```{=html}
-<iframe src="Getreide-Schaubild.pdf" style="width: 100%; height: 500px; border: none;">
-```
-```{=html}
-</iframe>
-```
-[landwirtschaftliche
-Erzeugung](Getreideproduktion/Landwirtschaftliche%20Erzeugung.html)
+<iframe src="Getreide-Schaubild.pdf" style="width: 100%; height: 500px; border: none;"></iframe>
+
+[landwirtschaftliche Erzeugung](Getreideproduktion/landwirtschaftliche Erzeugung.md)
+
+[test](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
