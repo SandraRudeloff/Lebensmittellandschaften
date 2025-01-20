@@ -1,7 +1,6 @@
 # Dies ist die Übersichtseite zu Getreide
+<link rel="stylesheet" href="/styles.css">
 
-Getreide-Schaubild.pdf
-
-<iframe src="Getreide-Schaubild.pdf" width="100%" height="600px">
+<iframe class="pdf-viewer" src="Getreide-Schaubild.pdf">
   Your browser does not support PDFs. <a href="Getreide-Schaubild.pdf">Download the PDF</a>.
 </iframe>
