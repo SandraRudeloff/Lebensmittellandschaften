@@ -24,9 +24,6 @@ jobs:
         run: |
           find . -name "*.md" -exec pandoc {} --bibliography=bibliography.bib ---citeproc -o {} \;
 
-      - name: Debug - List files
-        run: ls -la
-
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
