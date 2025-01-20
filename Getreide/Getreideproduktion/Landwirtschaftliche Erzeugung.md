@@ -17,3 +17,5 @@ Diese beiden Verbände könnten eventuell eine Mitgliederliste zur Verfügung st
 ## Historische Engpässe
 
 - Der Klimawandel beeinflusst die Erntemengen der Bauern, insbesondere in den letzten Jahren gab es vermehrt Ernteausfälle aufgrund von Überflutungen, Starkregen und Dürren.
+
+<iframe src="../../Literaturverzeichnis.html" style="width: 100%; height: 600px; border: none;"></iframe>
