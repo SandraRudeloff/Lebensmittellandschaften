@@ -1,8 +1,0 @@
-body {
-  background-color: yellow; /* Test change */
-}
-.container, .page {
-  max-width: none; /* Removes width restriction */
-  padding: 0; /* Removes unnecessary padding */
-  margin: 0; /* Removes centering margins */
-}
