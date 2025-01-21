@@ -12,7 +12,7 @@ Klicke auf den Button **"Add file"** und wähle **"Create new file"** aus.
 
 ## 3. Datei benennen
 
-Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`). Achte darauf, dass der Dateiname auf '.md' endet, da es sich dabei um eine Markdown-Datei handelt. Sobald du die Datei speicherst und auf **“Commit changes...”** klickst, wird sie automatisch von Jekyll in eine HTML-Seite umgewandelt und auf der Website angezeigt.
+Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`). Achte darauf, dass der Dateiname auf `.md` endet, da es sich dabei um eine Markdown-Datei handelt. Sobald du die Datei speicherst und auf **"Commit changes..."** klickst, wird sie automatisch von Jekyll in eine HTML-Seite umgewandelt und auf der Website angezeigt.
 
 ## 4. Struktur hinzufügen
 
