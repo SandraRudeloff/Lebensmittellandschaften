@@ -1,8 +1,6 @@
 ---
-title: ""
+title: "Landhändler & Agrarhändler"
 ---
-
-# Landhändler & Agrarhändler
 
 ## Akteurs Infos
 
