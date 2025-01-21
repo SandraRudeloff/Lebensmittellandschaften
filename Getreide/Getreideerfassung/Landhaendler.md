@@ -2,7 +2,7 @@
 title: "Landhändler & Agrarhändler"
 ---
 
-## Akteurs Infos
+# Akteurs Infos
 
 - BVA – Bundesverband Agrarhandel - https://www.bv-agrar.de/
 - Deutscher Raiffeisenverband e. V. - https://www.raiffeisen.de/deutscher-raiffeisenverband-ev
