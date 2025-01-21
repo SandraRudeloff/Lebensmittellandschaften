@@ -1,3 +1,15 @@
+<head>
+  <style>
+
+    .bibliography-list {
+      color: gray;
+    }
+
+  </style>
+</head>
+
+<div class="bibliography-list">
+
 # Literaturverzeichnis
 
 - Balster, Andreas. 2018. "Modellierung Dynamischer Güterflüsse Zur
@@ -106,3 +118,5 @@
 - Destatis. (2024b). _Vorräte in der Landwirtschaft am 30. Juni 2024_.
   Statistisches Bundesamt.
   <https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Landwirtschaft-Forstwirtschaft-Fischerei/Feldfruechte-Gruenland/aktuell-vorraete-deutschland.html>
+
+</div>
