@@ -12,7 +12,7 @@ Klicke auf den Button **"Add file"** und wähle **"Create new file"** aus.
 
 ## 3. Datei benennen
 
-Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`). Achte darauf, dass der Dateiname auf `.md` endet, da es sich dabei um eine Markdown-Datei handelt. Sobald du die Datei speicherst und auf **"Commit changes..."** klickst, wird sie automatisch von Jekyll in eine HTML-Seite umgewandelt und auf der Website angezeigt.
+Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`). Achte darauf, dass der Dateiname auf `.md` endet, da es sich dabei um eine Markdown-Datei handelt. Du kannst auch Ordnerstrukturen erstellen, indem du im Dateinamen einen Ordner angibst, z. B. `Getreide/Agrarhaendler.md`, um neben der Datei auch den entsprechenden Ordner anzulegen. Sobald du die Datei speicherst und auf **"Commit changes..."** klickst, wird sie automatisch von Jekyll in eine HTML-Seite umgewandelt und auf der Website angezeigt.
 
 ## 4. Struktur hinzufügen
 
@@ -56,7 +56,7 @@ Hinweis: Ersetze `Pfad-zum-Schaubild.pdf` durch den tatsächlichen relativen Pfa
 
 Wenn es sich um eine Unterseite handelt
 
-1. Füge am Ende der .md-Datei den folgenden Code hinzu, um das Literaturverzeichnis einzubinden:
+1. Füge am Ende der `.md-Datei` den folgenden Code hinzu, um das Literaturverzeichnis einzubinden:
 
 ```html
 <br />
