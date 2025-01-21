@@ -1,4 +1,4 @@
-Diese Website basiert auf Markdown-Dateien, die mit [Jekyll](https://jekyllrb.com/) in HTML-Seiten umgewandelt werden.
+Diese Website basiert auf [Markdown-Dateien](https://www.markdownguide.org/getting-started/), die mit [Jekyll](https://jekyllrb.com/) in HTML-Seiten umgewandelt werden.
 
 # **Neue Inhalte hinzufügen**
 
@@ -12,7 +12,7 @@ Klicke auf den Button **"Add file"** und wähle **"Create new file"** aus.
 
 ## 3. Datei benennen
 
-Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`).
+Gib der Datei einen sinnvollen Namen (z. B. `Agrarhaendler.md`). Achte darauf, dass der Dateiname auf '.md' endet, da es sich dabei um eine Markdown-Datei handelt. Sobald du die Datei speicherst und auf **“Commit changes...”** klickst, wird sie automatisch von Jekyll in eine HTML-Seite umgewandelt und auf der Website angezeigt.
 
 ## 4. Struktur hinzufügen
 
@@ -20,9 +20,10 @@ Füge oben in der Datei die folgende Struktur ein:
 
 ```yaml
 ---
-title: ""
+title: "Titel der Seite"
 ---
 ```
+Hinweis: Ersetze `Titel der Seite` durch den tatsächlichen Titel der Seite.
 
 ## 5. Arten von Seiten
 
