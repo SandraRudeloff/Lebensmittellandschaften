@@ -9,3 +9,10 @@ title: ""
 ## Links zu allen Unterseiten:
 
 - [landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
+
+# Test
+
+<img src="Getreide-Schaubild.pdf" usemap="#image-map" />
+<map name="image-map">
+  <area target="_blank" alt="Getreideproduktion" title="Getreideproduktion" href="Getreideproduktion/Landwirtschaftliche Erzeugung.html" coords="34,44,270,350" shape="rect">
+</map>
