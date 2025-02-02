@@ -2,7 +2,7 @@
 title: "Importeure"
 ---
 
-Die größten Importeure von Getreide für Deutschland sind Polen, Tschechien, und Frankreich (Statista, 2024)
+Die größten Importeure von Getreide für Deutschland sind Polen, Tschechien, und Frankreich (Statista, 2024).
 
 
 ## Referenzen
