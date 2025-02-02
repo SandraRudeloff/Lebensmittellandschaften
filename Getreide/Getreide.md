@@ -6,7 +6,7 @@ title: "Getreide"
 
 ## Links zu allen Unterseiten:
 
-[**Getreide Informationen**](Getreide/Getreide Informationen.html)
+[**Getreide Informationen**](Getreide Informationen/Getreide Informationen.html)
 
 **Getreideproduktion**
 
