@@ -54,8 +54,8 @@ Folgendes Schaubild gibt einen genaueren Überblick über die verschiedenen Getr
 
 
 ## Referenzen
-- BMEL. (o. J.). Bodennutzung und pflanzliche Erzeugung: Getreide. Abgerufen 1. November 2024, von https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide#
-- BMEL. (2023b). Besondere Ernte- und Qualitätsermittlung (BEE) 2023. https://www.bmel-statistik.de/fileadmin/daten/1002000-2023.pdf
-- Landwirt schafft Leben GmbH. (o. J.). Getreidearten – die wichtigsten Getreidesorten und ihre Unterschiede im Überblick. Abgerufen 15. November 2024, von https://www.magdochjeder.de/blog/getreidearten-die-wichtigsten-getreidesorten-und-ihre-unterschiede-im-ueberblick/
-- Verband Deutscher Mühlen e.V. (o. J.). Getreidewissen: Getreidearten. Mein Mehl. Abgerufen 15. November 2024, von https://www.mein-mehl.de/getreide/getreidearten#
+- BMEL. (o. J.). Bodennutzung und pflanzliche Erzeugung: Getreide. Abgerufen 1. November 2024, von <https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide#>
+- BMEL. (2023b). Besondere Ernte- und Qualitätsermittlung (BEE) 2023. <https://www.bmel-statistik.de/fileadmin/daten/1002000-2023.pdf>
+- Landwirt schafft Leben GmbH. (o. J.). Getreidearten – die wichtigsten Getreidesorten und ihre Unterschiede im Überblick. Abgerufen 15. November 2024, von <https://www.magdochjeder.de/blog/getreidearten-die-wichtigsten-getreidesorten-und-ihre-unterschiede-im-ueberblick/>
+- Verband Deutscher Mühlen e.V. (o. J.). Getreidewissen: Getreidearten. Mein Mehl. Abgerufen 15. November 2024, von <https://www.mein-mehl.de/getreide/getreidearten#>
 
