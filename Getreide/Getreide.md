@@ -10,7 +10,7 @@ title: "Getreide"
 
 **Getreideproduktion**
 
-- [Was ist Getreide?](Getreideproduktion/Was ist Getreide?.html)
+- [Was ist Getreide?](Getreideproduktion/Was ist Getreide.html)
 - [Landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
 
 **Getreideerfassung**
