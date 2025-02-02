@@ -12,6 +12,8 @@ title: "Getreide"
 
 - [Was ist Getreide?](Getreideproduktion/Was ist Getreide.html)
 - [Landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
+- [Importeure](Getreideproduktion/Importeure.html)
+- [Exporteure](Getreideproduktion/Exporteure.html)
 
 **Getreideerfassung**
 
