@@ -6,9 +6,9 @@ title: "Getreide"
 
 ## Links zu allen Unterseiten:
 
-**Getreide Informationen(Getreide/Getreide Informationen.html)**
+**Getreide Informationen**
 
-**Getreideproduktion**
+**Getreideproduktion**(Getreide/Getreide Informationen.html)
 
 - [Landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
 
