@@ -10,6 +10,6 @@ title: "Exporteure"
 
 
 ## Referenzen
-- Bundesinformationszentrum Landwirtschaft. (2022). * *Die größten Weizenexporteure weltweit* *. <https://www.landwirtschaft.de/infothek/infografiken/uebersicht-aller-infografiken/die-groessten-weizenexporteure-weltweit>
+- Bundesinformationszentrum Landwirtschaft. (2022). *Die größten Weizenexporteure weltweit*. <https://www.landwirtschaft.de/infothek/infografiken/uebersicht-aller-infografiken/die-groessten-weizenexporteure-weltweit>
 
 
