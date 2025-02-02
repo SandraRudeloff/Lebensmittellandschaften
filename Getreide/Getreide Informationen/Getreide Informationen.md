@@ -35,4 +35,4 @@ title: "Getreide Informationen"
 - BMEL. (2023a). Bericht zur Markt- und Versorgungslage Getreide 2023. https://www.bmel-statistik.de/fileadmin/daten/0611020-2023.pdf
 - BMEL. (2023b). Besondere Ernte- und Qualitätsermittlung (BEE) 2023. https://www.bmel-statistik.de/fileadmin/daten/1002000-2023.pdf
 - Bundesinformationszentrum Landwirtschaft. (o. J.). Wie wird Getreide in Deutschland genutzt? Praxis-Agrar. Abgerufen 4. Dezember 2024, von https://www.praxis-agrar.de/service/infografiken/wie-steht-es-um-die-hofnachfolge-bei-landwirtschaftlichen-betrieben
-- 
+
