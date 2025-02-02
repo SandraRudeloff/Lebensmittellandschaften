@@ -10,6 +10,8 @@ title: "Getreide Informationen"
 ### Getreideverwendung 
 - Die Verwendung des Getreides in Deutschland zu verstehen ist wichtig, um im Fall einer Krise zu wissen, wie viel Mengen an Getreide für welche Bereiche genutzt werden (Bundesinformationszentrum Landwirtschaft, o. J.).
 
+![Getreideverwendung](https://github.com/user-attachments/assets/20dfe136-6437-4ff8-a211-d4689f1b0b8f)
+
 - Die industrielle Verwertung kann weiter unterteilt werden, basierend auf Daten von BMEL-Statistik. 2,597 Mio. Tonnen werden für Braumalz genutzt, welches umgerechnet 6,5% sind. Die reine industrielle Verwendung außerhalb von Brauereien liegt somit bei 1,3% (Bundesinformationszentrum Landwirtschaft, o. J.).
 
 ### Akteurs Landschaft Getreide
