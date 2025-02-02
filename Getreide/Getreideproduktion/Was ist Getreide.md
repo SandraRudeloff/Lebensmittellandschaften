@@ -1,5 +1,5 @@
 ---
-title: "Was ist Getreide"
+title: "Was ist Getreide?"
 ---
 
 ## Getreidearten
