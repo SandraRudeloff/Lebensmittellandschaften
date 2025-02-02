@@ -4,6 +4,9 @@ title: "Getreide Informationen"
 ### Wertschöpfungskette
 - BMEL-Statistik veröffentlicht jedes Jahr einen Markt Bericht zur Markt- und Versorgungslage von Getreide. Auf Seite 6 wird eine Übersicht von der Getreide Wertschöpfungskette gezeigt, aus welcher wir erste Informationen für ein "Getreide Food Ecosystem" entnehmen können. Wichtige Zusammenhänge von der Erzeugung bis hin zur Nutzung werden hier deutlich. (BMEL, 2023a, S. 6)
 
+![Wertschoepfungskette Getreide](https://github.com/user-attachments/assets/fb765af6-ba50-41a5-972c-932c3863a452)
+
+
 ### Getreideverwendung 
 - Die Verwendung des Getreides in Deutschland zu verstehen ist wichtig, um im Fall einer Krise zu wissen, wie viel Mengen an Getreide für welche Bereiche genutzt werden (Bundesinformationszentrum Landwirtschaft, o. J.).
 
