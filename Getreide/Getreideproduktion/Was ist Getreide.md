@@ -7,8 +7,8 @@ title: "Was ist Getreide?"
 Es gibt sieben Getreidearten (in der Liste fett markiert), welche zu der Familie der Süßgräser gehören (Verband Deutscher Mühlen e.V., o. J.).
 
 - **Weizen**
- - Winterweizen inkl. Dinkel und Einkorn
- - Sommerweizen
+   - Winterweizen inkl. Dinkel und Einkorn
+   - Sommerweizen
  - Hartweizen
  - Emmer
 - **Gerste**
