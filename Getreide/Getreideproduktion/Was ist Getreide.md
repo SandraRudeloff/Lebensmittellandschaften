@@ -9,16 +9,16 @@ Es gibt sieben Getreidearten (in der Liste fett markiert), welche zu der Familie
 - **Weizen**
    - Winterweizen inkl. Dinkel und Einkorn
    - Sommerweizen
- - Hartweizen
- - Emmer
+   - Hartweizen
+   - Emmer
 - **Gerste**
- - Wintergerste
- - Sommergerste
+   - Wintergerste
+   - Sommergerste
 - **Roggen**
- - Wintermenggetreide
- - Sommermenggetreide
+   - Wintermenggetreide
+   - Sommermenggetreide
 - Körnermais / **Mais**
- - Corn-Cob-Mix
+   - Corn-Cob-Mix
 - Triticale (eine Kreuzung aus weiblichen Weizen und männlichem Roggen)
 - **Hirse**
 - **Hafer**
@@ -26,9 +26,11 @@ Es gibt sieben Getreidearten (in der Liste fett markiert), welche zu der Familie
 
 
 Folgendes Schaubild gibt einen genaueren Überblick über die verschiedenen Getreidearten und einige ihrer Sorten (Verband Deutscher Mühlen e.V., o. J.).
+
 ![Die Familie der Suessgraesser](https://github.com/user-attachments/assets/18cb94e1-074b-426f-a59c-eb895a334e8d)
  
 ![Anbauflaeche Getreide](https://github.com/user-attachments/assets/876b9cda-4ed8-4523-8987-3ca74832ba13)
+
 (BMEL, 2023b).
 
 ## Aufbau des Getreides 
@@ -46,6 +48,7 @@ Folgendes Schaubild gibt einen genaueren Überblick über die verschiedenen Getr
 - Mais wird vielfältig verwendet. Zum einen als "Silomais" vorwiegend für Biogasanlagen und als Futtermittel für Tiere, aber auch als Nahrungsmittel, verarbeitet zu Mehl und Gries. Stärke wird auch aus Mais gewonnen und der ganze Korn wird auch genutzt, z. B. als Popcorn (Landwirt schafft Leben GmbH, o. J.).
 
 ![Getreideuebersicht](https://github.com/user-attachments/assets/3b50c295-06fa-4907-aa54-d2ee774c6d16)
+
 (Landwirt schafft Leben GmbH, o. J.)
 
 
