@@ -27,7 +27,7 @@ title: "Getreide"
 
 **Verarbeitungsschritte**
 
-- [Getreide- & Schälmühlen]
+- [Getreide- & Schälmühlen](Verarbeitungsschritte/Getreide- & Schaelmuehlen.html)
 - [Stärkehersteller]
 - [Alkoholhersteller]
 - [Malzhersteller]
@@ -50,7 +50,7 @@ title: "Getreide"
 
 **Getreidekrisen**
 
--[Historische Schwierigkeiten]
+- [Historische Schwierigkeiten]
 
 
 <br />
