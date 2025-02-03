@@ -20,6 +20,35 @@ title: "Getreide"
 - [Düngemittelhersteller](Getreideproduktion/Duengemittelhersteller.html)
 
 
-**Getreideerfassung**
+[**Getreideerfassung**](Getreideerfassung/Getreideerfassung.html)
 
 - [Landhändler & Agrarhändler](Getreideerfassung/Landhaendler.html)
+
+
+**Verarbeitungsschritte**
+
+- [Getreide- & Schälmühlen]
+- [Stärkehersteller]
+- [Alkoholhersteller]
+- [Malzhersteller]
+- [Verpackungshersteller]
+
+
+**Weiterverarbeitungsschritte**
+
+- [Lebensmittel Industrie]
+- [Getränke Industrie]
+- [Industrielle Zwecke]
+- [Energie Industrie]
+- [Landwirtschaftliche Zwecke]
+
+
+**Distribution & Verkauf**
+
+- [Bäckereien]
+
+
+**Getreidekrisen**
+
+-[Historische Schwierigkeiten]
+
