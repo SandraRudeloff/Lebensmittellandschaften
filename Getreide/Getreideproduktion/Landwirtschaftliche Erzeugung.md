@@ -34,7 +34,9 @@ Verfügung stellen?
 ---
 
 <br> 
-{% capture literaturverzeichnis %}
-{% include Literaturverzeichnis.md %}
-{% endcapture %}
-{{ literaturverzeichnis | markdownify }}
+
+## Referenzen
+- Bundesinformationszentrum Landwirtschaft. (o. J.). *Wie wird Getreide in Deutschland genutzt? Praxis-Agrar*. Abgerufen 4. Dezember 2024, von <https://www.praxis-agrar.de/service/infografiken/wie-steht-es-um-die-hofnachfolge-bei-landwirtschaftlichen-betrieben>
+- Destatis. (2024a). *Landwirtschaftliche Betriebe, Landwirtschaftlich genutzte Fläche: Bundesländer, Jahre, Bodennutzungsarten* (Version 41271-0012) [Dataset]. <https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0012>
+
+
