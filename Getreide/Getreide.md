@@ -50,7 +50,7 @@ title: "Getreide"
 
 **Getreidekrisen**
 
-- [Historische Schwierigkeiten]
+- [Historische Schwierigkeiten](Getreidekrisen/Historische Schwierigkeiten.html)
 
 
 <br />
