@@ -2,8 +2,7 @@
 title: "Milch & Milcherzeugnisse"
 ---
 
-
-<iframe src="Schaubild Name" style="width: 100%; height: 500px; border: none;"></iframe>
+Link Schaubild 
 
 ## Links zu allen Unterseiten:
 
