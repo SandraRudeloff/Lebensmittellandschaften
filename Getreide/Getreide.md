@@ -56,6 +56,10 @@ title: "Getreide"
 <br />
 ---
 <br />
-{% capture literaturverzeichnis %} {% include Literaturverzeichnis_Getreide.md %} {% endcapture %} {{ literaturverzeichnis | markdownify }}
+
+{% capture literaturverzeichnis %} 
+{% include Literaturverzeichnis_Getreide.md %} 
+{% endcapture %} 
+{{ literaturverzeichnis | markdownify }}
 
 
