@@ -10,7 +10,7 @@ Mangel an Mineraldünger, da dieses nicht mehr in großen Mengen importiert werd
 
 ## Referenzen
 
-- IVA. (o. J.). *Mitgliedsunternehmen | Industrieverband Agrar*. Abgerufen 1. November 2024, von <https://www.iva.de/industrieverband-agrar/mehr-zum-iva/mitgliedsunternehmen>
+- IVA. (o. J.). *Mitgliedsunternehmen - Industrieverband Agrar*. Abgerufen 1. November 2024, von <https://www.iva.de/industrieverband-agrar/mehr-zum-iva/mitgliedsunternehmen>
 
 - Zinke, O. (2022, März 14). *Hat Deutschland genug Getreide – um sich zu versorgen? - Die Fakten*. agrarheute.com. <https://www.agrarheute.com/markt/marktfruechte/hat-deutschland-genug-getreide-um-versorgen-fakten-591301>
 
