@@ -11,5 +11,5 @@ Der Transport von den Landwirten zur Mühle findet entweder direkt statt, oder e
 <br> 
 
 ## Referenzen
-Lebens.mittel.punkt. (2014). *Die Getreide-Wertschöpfungskette*. <https://www.ima-agrar.de/index.php?option=com_mtree&task=att_download&link_id=288&cf_id=24>
+- Lebens.mittel.punkt. (2014). *Die Getreide-Wertschöpfungskette*. <https://www.ima-agrar.de/index.php?option=com_mtree&task=att_download&link_id=288&cf_id=24>
 
