@@ -8,7 +8,6 @@ title: "Landwirtschaftliche Erzeugung"
   Fläche und Bodennutzungsarten können über das Statistische Bundesamt
   (Destatis) gefunden werden (Destatis, 2024a).
 
-<https://www-genesis.destatis.de/datenbank/online/statistic/41271/table/41271-0012>
 
 ## Akteurs Infos
 
