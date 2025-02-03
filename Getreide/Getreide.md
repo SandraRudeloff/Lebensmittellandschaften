@@ -48,6 +48,13 @@ title: "Getreide"
 - [Bäckereien]
 
 
+
+<br />
+---
+<br />
+{% capture literaturverzeichnis %} {% include Literaturverzeichnis_Getreide.md %} {% endcapture %} {{ literaturverzeichnis | markdownify }}
+
+
 **Getreidekrisen**
 
 -[Historische Schwierigkeiten]
