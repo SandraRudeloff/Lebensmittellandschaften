@@ -23,6 +23,12 @@ Die 9 Unternehmen der deutschen Stärkeindustrie (VGMS, o. J.)
 - **Südstärke GmbH** - Standorte in: Schrobenhausen (Bayern), Sünching (Bayern)
 
 
+<br>
+
+---
+
+<br> 
+
 ## Referenzen
 - BMEL. (2023a). *Bericht zur Markt- und Versorgungslage Getreide 2023*. <https://www.bmel-statistik.de/fileadmin/daten/0611020-2023.pdf>
 - VGMS. (o. J.). *Stärkeindustrie: Unternehmen*. Abgerufen 1. November 2024, von <https://www.vgms.de/staerkeindustrie/staerkeindustrie/unternehmen>
