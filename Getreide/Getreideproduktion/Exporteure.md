@@ -7,6 +7,11 @@ title: "Exporteure"
 - Weltweit ist Deutschland auf Platz 8 der größten Getreideexporteure (2020) (Bundesinformationszentrum Landwirtschaft, 2022).
 - Weitere interessante Infos könnten auf der Website des "Observatory of Economic Complexity" gefunden werden: <https://oec.world/en/profile/bilateral-product/wheat/reporter/deu>.
 
+<br>
+
+---
+
+<br> 
 
 
 ## Referenzen
