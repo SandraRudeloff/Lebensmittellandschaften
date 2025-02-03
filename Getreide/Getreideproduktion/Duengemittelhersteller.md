@@ -8,6 +8,13 @@ title: "Düngemittelhersteller"
 ## Historische Engpässe
 Mangel an Mineraldünger, da dieses nicht mehr in großen Mengen importiert werden kann aufgrund der Russland/Ukraine Situation. Mineraldünger ist wichtig für den Weizenanbau, um geeignete Weizen fürs Backen herzustellen mit bestimmten Eigenschaften. Russland ist ein wichtiger Exporteur von Stickstoffdünger, welcher stark von Erdgas abhängig ist. (Zinke, 2022).
 
+<br>
+
+---
+
+<br> 
+
+
 ## Referenzen
 
 - IVA. (o. J.). *Mitgliedsunternehmen - Industrieverband Agrar*. Abgerufen 1. November 2024, von <https://www.iva.de/industrieverband-agrar/mehr-zum-iva/mitgliedsunternehmen>
