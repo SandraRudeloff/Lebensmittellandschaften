@@ -1,4 +1,4 @@
-## Literaturverzeichnis Getreide
+# Literaturverzeichnis Getreide
 
 
 - Bayerische Landesanstalt für Landwirtschaft, Institut für Tierernährung und Futterwirtschaft, & ITE 2 - Schweinefütterung. (2010, Mai). *Versuchsbericht S12/3: Verdauungsversuche mit Eiweißfutter—Nebenprodukte des Mälzerei- und Brauereigewerbes*. <https://www.lfl.bayern.de/mam/cms07/ite/dateien/26325_brauereinebenprodukte.pdf>
