@@ -10,6 +10,13 @@ title: "Alkoholhersteller"
 ## Historische Engpässe
 Ethanol ist wichtig für die Desinfektionsmittelherstellung. Ethanol wird aus Getreide hergestellt und kann für alkoholbasierte Desinfektionsmittel genutzt werden, welche für die Reinigung von Maschinen in der Brot-, Backwaren-, Teigwaren-, Nudelherstellung genutzt werden. Ebenso für die Reinigung von Mühlen. Insbesondere in Krisen, wenn Desinfektionsmittel in großen Mengen benötigt wird (z.B. Covid-19 Pandemie), kann es zu Lieferengpässen kommen, da nicht genügend Rohstoff (z. B. Getreide) verfügbar ist, um genug Mengen Ethanol herzustellen. In der Covid-19 Pandemie haben Alkoholhersteller geholfen, um den Bedarf zu decken (KMA Online, 2020).
 
+
+<br>
+
+---
+
+<br> 
+
 ## Referenzen
 - Bioethanol aus Getreide. (o. J.). *grafs-bio-seiten*. Abgerufen 7. November 2024, von <https://grafs-bio-seiten.de/biokraftstoff-aus-getreide/>
 - KMA Online. (2020, März 24). *Unkonventionelle Hilfe: Alkoholanbieter helfen bei Engpässen von Desinfektionsmittel*. <https://www.kma-online.de/aktuelles/medizin/detail/alkoholanbieter-helfen-bei-engpaessen-von-desinfektionsmittel-a-42898>
