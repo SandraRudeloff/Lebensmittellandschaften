@@ -1,5 +1,5 @@
 ---
-title: "Titel der Seite"
+title: "Energie Industrie"
 ---
 
 Roggen wird in Biogasanlagen verwendet (Landwirt schafft Leben GmbH, o. J.).
