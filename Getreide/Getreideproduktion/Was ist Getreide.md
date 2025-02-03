@@ -51,7 +51,11 @@ Folgendes Schaubild gibt einen genaueren Überblick über die verschiedenen Getr
 
 (Landwirt schafft Leben GmbH, o. J.)
 
+<br>
 
+---
+
+<br> 
 
 ## Referenzen
 - BMEL. (o. J.). Bodennutzung und pflanzliche Erzeugung: Getreide. Abgerufen 1. November 2024, von <https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/getreide#>
