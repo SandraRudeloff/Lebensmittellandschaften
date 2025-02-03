@@ -20,6 +20,12 @@ Liste der **größten Getreidemühlen Unternehmen in Deutschland** basierend auf
 
 Zusätzlich gibt es eine **interaktive Karte** auf <muehlen.org>, wo man alle Unternehmen findet, welche in der Getreideverarbeitung tätig sind. Es ist möglich nach Postleitzahl/Orten zu filtern (Verband deutscher Mühlen, o. J.)
 
+<br>
+
+---
+
+<br> 
+
 
 ## Referenzen
 - Bazan Santos, S. A. (o. J.). *Modeling and Optimization of Resilient Food Supply Chain Networks at Regional Scale* [PhD]. Technische Universität München.
