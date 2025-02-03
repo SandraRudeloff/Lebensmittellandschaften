@@ -28,10 +28,10 @@ title: "Getreide"
 **Verarbeitungsschritte**
 
 - [Getreide- & Schälmühlen](Verarbeitungsschritte/Getreide- & Schaelmuehlen.html)
-- [Stärkehersteller](Staerkehersteller.html)
-- [Alkoholhersteller](Alkoholhersteller.html)
-- [Malzhersteller](Malzhersteller.html)
-- [Verpackungshersteller](Verpackungshersteller.html)
+- [Stärkehersteller](Verarbeitungsschritte/Staerkehersteller.html)
+- [Alkoholhersteller](Verarbeitungsschritte/Alkoholhersteller.html)
+- [Malzhersteller](Verarbeitungsschritte/Malzhersteller.html)
+- [Verpackungshersteller](Verarbeitungsschritte/Verpackungshersteller.html)
 
 
 **Weiterverarbeitungsschritte**
