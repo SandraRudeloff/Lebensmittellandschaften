@@ -36,16 +36,16 @@ title: "Getreide"
 
 **Weiterverarbeitungsschritte**
 
-- [Lebensmittel Industrie]
-- [Getränke Industrie]
-- [Industrielle Zwecke]
-- [Energie Industrie]
-- [Landwirtschaftliche Zwecke]
+- [Lebensmittel Industrie](Weiterverarbeitungsschritte/Lebensmittel Industrie.html)
+- [Getränke Industrie](Weiterverarbeitungsschritte/Getraenke Industrie.html)
+- [Industrielle Zwecke](Weiterverarbeitungsschritte/Industrielle Zwecke.html)
+- [Energie Industrie](Weiterverarbeitungsschritte/Energie Industrie.html)
+- [Landwirtschaftliche Zwecke](Weiterverarbeitungsschritte/Landwirtschaftliche Zwecke.html)
 
 
 **Distribution & Verkauf**
 
-- [Bäckereien]
+- [Bäckereien](Distribution & Verkauf/Baeckereien.html)
 
 
 **Getreidekrisen**
