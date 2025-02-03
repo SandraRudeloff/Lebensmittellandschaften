@@ -10,6 +10,8 @@ title: "Lebensmittel Industrie"
 ## Akteurs Infos
 Liste der größten Unternehmen in Deutschland in der „frozen bakery goods industry“ basierend auf der Menge der Angestellten, ebenso wie für die „biscuit industry“ (Bazan Santos, o. J., S. 164)
 
+![Companies Frozen Goods](https://github.com/user-attachments/assets/356cfdbc-e71b-4425-999d-2254395abcd0)
+
 
 ## Historische Engpässe
 - Die Kohlensäure-Engpässe 2022 & 2023 betrafen vor allem die Herstellung von Bier. Kohlensäure wird als Hilfsstoff in Brauereien verwendet um Tanks, Flaschen, und Fässer "vorzuspannen", damit da Bier beim Abfüllen nicht mit Luft in Kontakt kommt und schäumt. Gleichzeitig erhöht dies die Haltbarkeit. Der Kohlensäuremarkt basiert auf der Düngemittelherstellung (Ammoniaksynthese), welche aufgrund der hohen Erdgas Preise eingeschränkt ist. Lösungen sind Rückgewinnungsanlagen, welche einige Brauereien haben und somit ihren Bedarf teilweise selbst decken können (Neukirch, 2022). Kohlendioxid ist ein Abfallprodukt der Ammoniakproduktion, welches für Düngemittel genutzt wird. Es ist eins vieler Zusatzstoffe, die aufgrund der Gas Krise fehlen, denn Düngemittelhersteller haben aufgrund der hohen Gaspreise ihre Produktion gedrosselt (Freytag & Neuscheler, 2022).
