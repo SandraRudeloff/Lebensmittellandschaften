@@ -14,6 +14,11 @@ title: "Historische Schwierigkeiten"
 - Der Klimawandel beeinflusst die Erntemengen der Bauern, insbesondere in den letzten Jahren gab es vermehrt Ernteausfälle aufgrund von Überflutungen, Starkregen und Dürren. 
 
 
+<br>
+
+---
+
+<br> 
 
 ## Referenzen
 - Deutscher Verband der Hefeindustrie e.V. (2022a, Juli 14). *Hefeindustrie droht Melasse- und Energieknappheit*. <https://www.hefeindustrie.de/index-hefe.html/hefeindustrie-presse/hefeindustrie-pressemitteilungen/20220714-pm-melasseknappheit>
