@@ -9,6 +9,11 @@ title: "Landwirtschaftliche Zwecke"
 - Hirse ist überwiegend ein Futtermittel für Vögel in Deutschland (Landwirt schafft Leben GmbH, o. J.). 
 - Gerste ist besonders als Futtergetreide beliebt (Verband Deutscher Mühlen e.V., o. J.).
 
+<br>
+
+---
+
+<br> 
 
 ## Referenzen
 - Landwirt schafft Leben GmbH. (o. J.). *Getreidearten – die wichtigsten Getreidesorten und ihre Unterschiede im Überblick*. Abgerufen 15. November 2024, von <https://www.magdochjeder.de/blog/getreidearten-die-wichtigsten-getreidesorten-und-ihre-unterschiede-im-ueberblick/>
