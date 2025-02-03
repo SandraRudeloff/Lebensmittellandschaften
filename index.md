@@ -6,5 +6,4 @@ title: "Lebensmittellandschaften"
 2. [Milch & Milcherzeugnisse](Milch & Milcherzeugnisse/Milch & Milcherzeugnisse.html)
 3. [Schweinefleisch]
 4. [Geflügelfleisch]
-5. [Eier]
-6. 
+5. [Eier] 
