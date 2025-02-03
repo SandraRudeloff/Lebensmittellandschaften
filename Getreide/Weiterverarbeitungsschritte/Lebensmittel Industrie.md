@@ -20,6 +20,14 @@ Liste der größten Unternehmen in Deutschland in der „frozen bakery goods ind
 - Insbesondere geht es um Melasse, den Hauptnährstoff für Hefefermentation. Melasse ist ein brauner Sirup, welcher aus der ein Nebenprodukt der Zuckerproduktion ist. Es wird ebenfalls für Tierfuttermittel verwendet. In 2022 wurden die Lieferungen von Russland, Belarus, und der Ukraine unzuverlässig, weshalb diese Krise entstand (Deutscher Verband der Hefeindustrie e.V., 2022a). 
 - Laut HARRY Brot gibt es nur 6 Hefehersteller Deutschlandweit. 
 
+
+<br>
+
+---
+
+<br> 
+
+
 ## Referenzen
 - Bazan Santos, S. A. (o. J.). *Modeling and Optimization of Resilient Food Supply Chain Networks at Regional Scale* [PhD]. Technische Universität München.
 - Deutscher Verband der Hefeindustrie e.V. (2022a, Juli 14). *Hefeindustrie droht Melasse- und Energieknappheit*. <https://www.hefeindustrie.de/index-hefe.html/hefeindustrie-presse/hefeindustrie-pressemitteilungen/20220714-pm-melasseknappheit>
