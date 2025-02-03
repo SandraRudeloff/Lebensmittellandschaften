@@ -53,9 +53,13 @@ title: "Getreide"
 - [Historische Schwierigkeiten](Getreidekrisen/Historische Schwierigkeiten.html)
 
 
-<br />
+
+<br>
+
 ---
-<br />
+
+<br> 
+
 
 {% capture literaturverzeichnis %} 
 {% include Literaturverzeichnis_Getreide.md %} 
