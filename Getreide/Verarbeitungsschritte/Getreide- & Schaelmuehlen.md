@@ -24,6 +24,4 @@ Zusätzlich gibt es eine **interaktive Karte** auf <muehlen.org>, wo man alle Un
 ## Referenzen
 - Bazan Santos, S. A. (o. J.). *Modeling and Optimization of Resilient Food Supply Chain Networks at Regional Scale* [PhD]. Technische Universität München.
 - Verband deutscher Mühlen. (o. J.). *Mühlenkarte: Mühlen und Mehl finden*. Abgerufen 1. November 2024, von <https://www.muehlen.org/verband/muehlenkarte>
-- 
-
 
