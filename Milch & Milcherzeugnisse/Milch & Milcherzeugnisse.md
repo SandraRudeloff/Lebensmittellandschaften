@@ -34,6 +34,6 @@ Link Schaubild
 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Milch & Milcherzeugnisse.md %} 
+{% include literaturverzeichnis-milch-und-milcherzeugnisse.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
