@@ -1,7 +1,7 @@
 ---
 title: "Wertschöpfungskette"
 ---
-## Wertschöpfungskette von Fleisch
+
 
 Fleisch hat eine komplexe Wertschöpfungskette, welche in der nachfolgenden Abbildung vereinfacht dargestellt wird (BLE, 2024, S. 4). Oft werden mehrere Produktionsschritte von einem Unternehmen übernommen, denn der Trend zeigt, dass es überwiegend große Unternehmen gibt und weniger kleine Unternehmen.
 
