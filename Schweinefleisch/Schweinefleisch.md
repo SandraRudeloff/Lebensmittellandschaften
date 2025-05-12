@@ -6,7 +6,7 @@ title: "Schweinefleisch"
 
 **Schweinefleisch Informationen**
 
-- [Wertschöpfungskette Informationen](Wertschoepfungskette-Informationen.html)
+- [Wertschöpfungskette](Wertschoepfungskette-Informationen.html)
 
 **Nutztierhaltung**
 
