@@ -46,6 +46,6 @@ title: "Schweinehaltungsbetriebe"
 - BMEL. (o. J.-a). Schweinehaltung. BMEL-Statistik. Abgerufen 2. Januar 2025, von https://www.bmel-statistik.de/landwirtschaft/tierhaltung/schweinehaltung
 - Bundesinformationszentrum Landwirtschaft. (2022, November 4). Nutztierhaltung: Schweinemast. https://www.nutztierhaltung.de/schwein/mast/
 - Bundeszentrum für Ernährung. (2023, Juni 10). Schweinefleisch: Erzeugung. https://www.bzfe.de/lebensmittel/vom-acker-bis-zum-teller/schweinefleisch/schweinefleisch-erzeugung/
-- Deblitz, C., Zavyalova, K., & Efken, J. (2024, November 19). Steckbriefe zur Tierhaltung in Deutschland: Ferkelerzeugung und Schweinemast. Thünen-Institut für Betriebswirtschaft. https://www.thuenen.de/media/ti-themenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Schweinehaltung/Steckbrief_Schweine_2024.pdf
+- Deblitz, C., Zavyalova, K., & Efken, J. (2024, November 19). Steckbriefe zur Tierhaltung in Deutschland: Ferkelerzeugung und Schweinemast. Thünen-Institut für Betriebswirtschaft. https://www.thuenen.de/media/tithemenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Schweinehaltung/Steckbrief_Schweine_2024.pdf
 - Destatis. (2024, Dezember). Schweinebestand 2024 im Vergleich zum Vorjahr nahezu konstant. Statistisches Bundesamt. https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Landwirtschaft-Forstwirtschaft-Fischerei/Tiere-Tierische-Erzeugung/schweine.html
 
