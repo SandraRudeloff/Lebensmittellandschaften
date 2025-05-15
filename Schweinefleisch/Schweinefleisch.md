@@ -8,7 +8,7 @@ title: "Schweinefleisch"
 
 - [Wertschöpfungskette](Wertschoepfungskette-Informationen.html)
 
-**Nutztierhaltung**
+[**Nutztierhaltung**](Nutztierhaltung/Nutztierhaltung.html)
 
 - [Schweinehaltungsbetriebe](Nutztierhaltung/Schweinehaltungsbetriebe.html)
 - [Importeure](Nutztierhaltung/Importeure.html)
