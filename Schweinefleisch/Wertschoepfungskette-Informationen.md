@@ -22,4 +22,4 @@ Fleisch hat eine komplexe Wertschöpfungskette, welche in der nachfolgenden Abbi
 <br> 
 
 ## Referenzen
-- BLE. (2024). Bericht zur Markt- und Versorgungslage Fleisch 2024. https://www.bmel-statistik.de/fileadmin/daten/0611090-2024.pdf 
+- BLE. (2024). *Bericht zur Markt- und Versorgungslage Fleisch 2024.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2024.pdf>
