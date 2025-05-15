@@ -7,7 +7,9 @@ title: "Importeure"
 - Schweinefleischexporte sind sehr hoch, besonders in den letzten 10 Jahren deutlich angestiegen, in den letzten Jahren jedoch etwas rückläufig (Deblitz et al., 2024).
 - Die wichtigsten Import Länder für Schweinefleisch für Deutschland sind Dänemark, Belgien und die Niederlande (Deblitz et al., 2024).
 
-
+<p align="center">
+  <img src="Importe_Schweine.png" alt="Importherkünfte von Schweinefleisch" style="width:90%;">
+</p>
 (Deblitz et al., 2024, S. 6)
 
 <br>
