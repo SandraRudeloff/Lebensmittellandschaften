@@ -30,8 +30,9 @@ title: "Schweinehaltungsbetriebe"
 - 27,8 Millionen Haltungsplätze waren in 2020 verfügbar (BMEL, o. J.-a). 
 - Nur 1% der Haltungsplätze für Schweine ist mit einem Auslauf versehen (Deblitz et al., 2024).
 
-
-
+<p align="center">
+  <img src="Haltungsverfahren-Schweine.png" alt="Haltungsverfahren Schweine" style="width:90%;">
+</p>
 (BMEL, o. J.-a)
 
 
