@@ -10,6 +10,12 @@ title: "Schweinehaltungsbetriebe"
 - Ein Wurf umfasst durchschnittlich 12 Ferkel (Bundeszentrum für Ernährung, 2023).
 - Typischer Produktionsablauf in der Schweinehaltung (Deblitz et al., 2024).
 
+<p align="center">
+  <img src="Produktionsverlauf-Schweinehaltung.png" alt="Produktionsverlauf Schweinehaltung" style="width:90%;">
+</p>
+
+
+
 
 ## Schweinezahlen
 
