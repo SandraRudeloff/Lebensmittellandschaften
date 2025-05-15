@@ -28,6 +28,6 @@ Mit Stoffen, die vom Schwein stammen, glätten wir unsere Haut, düngen wir den 
 
 ## Referenzen
 - Heumann. (o. J.). *Cholesterin—Entstehung und Cholesterinwerte.* HEUMANN. Abgerufen 7. Januar 2025, von <https://www.heumann.de/de/gesundheitstipps/cholesterin.html>
-Kopte, S. (o. J.). *Fast überall ist Schwein drin—Die Verwertung des Borstentiers | PROVIEH* [ProVieh]. Abgerufen 2. Januar 2025, von <https://www.provieh.de/unsere-arbeit/verbraucherinfos/fast-ueberall-ist-schwein-drin/>
-Museum.BL. (2018, Dezember 31). *55 Alltags-Produkte, von denen du nie vermuten würdest, dass Schwein drin ist.* <https://www.museum.bl.ch/blog/1/schweine/83/55-alltags-produkte-von-denen-du-nie-vermuten-wuerdest-dass-schwein-drin-ist/>
+- Kopte, S. (o. J.). *Fast überall ist Schwein drin—Die Verwertung des Borstentiers | PROVIEH* [ProVieh]. Abgerufen 2. Januar 2025, von <https://www.provieh.de/unsere-arbeit/verbraucherinfos/fast-ueberall-ist-schwein-drin/>
+- Museum.BL. (2018, Dezember 31). *55 Alltags-Produkte, von denen du nie vermuten würdest, dass Schwein drin ist.* <https://www.museum.bl.ch/blog/1/schweine/83/55-alltags-produkte-von-denen-du-nie-vermuten-wuerdest-dass-schwein-drin-ist/>
 
