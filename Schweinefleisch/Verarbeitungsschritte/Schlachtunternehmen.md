@@ -21,7 +21,6 @@ title: "Schlachtunternehmen"
 <br> 
 
 ## Referenzen
-- 
-BLE. (2024). *Bericht zur Markt- und Versorgungslage Fleisch 2024.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2024.pdf>
-Deblitz, C., Zavyalova, K., & Efken, J. (2024, November 19). *Steckbriefe zur Tierhaltung in Deutschland: Ferkelerzeugung und Schweinemast.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/media/ti-themenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Schweinehaltung/Steckbrief_Schweine_2024.pdf>
-*Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage) (with Pascher, D. P., & Rukwied, J.). (2023). Deutscher Bauernverband e.V.
+- BLE. (2024). *Bericht zur Markt- und Versorgungslage Fleisch 2024.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2024.pdf>
+- Deblitz, C., Zavyalova, K., & Efken, J. (2024, November 19). *Steckbriefe zur Tierhaltung in Deutschland: Ferkelerzeugung und Schweinemast.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/media/ti-themenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Schweinehaltung/Steckbrief_Schweine_2024.pdf>
+- *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage) (with Pascher, D. P., & Rukwied, J.). (2023). Deutscher Bauernverband e.V.
