@@ -2,7 +2,7 @@
 title: "Tiererfassung"
 ---
 
-- Der Viehhandel wurde lange Zeit von Erzeugergemeinschaften und Viehverwertungs- bzw. vermarktungs-genossenschaften dominiert, inzwischen bieten jedoch viele Schlachtunternehmen "rundum Pakete" an, von der Lieferung des Spermas bis hin zur Abholung des Schlachtviehs (BLE, 2024). 
+- Der Viehhandel wurde lange Zeit von Erzeugergemeinschaften und Viehverwertungs- bzw. Vermarktungs-Genossenschaften dominiert, inzwischen bieten jedoch viele Schlachtunternehmen "rundum Pakete" an, von der Lieferung des Spermas bis hin zur Abholung des Schlachtviehs (BLE, 2024). 
 
 
 <br>
