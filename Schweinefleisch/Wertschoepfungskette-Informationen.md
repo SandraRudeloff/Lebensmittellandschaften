@@ -5,7 +5,11 @@ title: "Wertschöpfungskette"
 
 Fleisch hat eine komplexe Wertschöpfungskette, welche in der nachfolgenden Abbildung vereinfacht dargestellt wird (BLE, 2024, S. 4). Oft werden mehrere Produktionsschritte von einem Unternehmen übernommen, denn der Trend zeigt, dass es überwiegend große Unternehmen gibt und weniger kleine Unternehmen.
 
-![Wertschoepfungskette-Fleisch](Wertschoepfungskette-Fleisch.jpg) 
+![Wertschöpfungskette Fleisch](Wertschoepfungskette-Fleisch.jpg) 
+
+<p align="center">
+  <img src="Wertschoepfungskette-Fleisch.jpg" alt="Wertschöpfungskette Fleisch" style="width:60%;">
+</p>
 
 
 - Die Nutztierhaltung fokussiert sich auf die Zucht, Aufzucht und Mast der Tiere. 
