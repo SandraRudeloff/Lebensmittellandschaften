@@ -33,7 +33,4 @@ Link Schaubild
 <br> 
 
 
-{% capture literaturverzeichnis %} 
-{% include literaturverzeichnis-milch-und-milcherzeugnisse.md %} 
-{% endcapture %} 
-{{ literaturverzeichnis | markdownify }}
+
