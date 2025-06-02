@@ -87,3 +87,14 @@ e. Milchpulvererzeugnisse: 194,45% (Durchschnitt der vier Unterpunkte)
 
 Daraus lässt sich schließen, dass Deutschland insgesamt einen hohen Selbstversorgungsgrad (SVG) für Milch und Milcherzeugnisse hat und sich in fast allen Produkten (bis auf drei) selbstversorgen kann. 
 Der durchschnittliche SVG für Milch und Milcherzeugnisse (basierend auf den Produkten a bis e) liegt bei 324,29%, wobei der Kondensmilcherzeugnisse Wert den SVG deutlich erhöht. Wenn die Kondensmilcherzeugnisse ausgenommen werden liegt der durchschnittliche SVG bei 135,81%.
+
+
+
+## Referenzen
+
+- AOK Gesundheitsmagazin. (2024, Januar 25). *Rohmilch, Vollmilch, Weidemilch und Co.: Milchsorten im Überblick.* <https://www.aok.de/pk/magazin/ernaehrung/lebensmittel/rohmilch-vollmilch-weidemilch-und-co-milchsorten-im-ueberblick/>
+- BLE. (2024). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
+- *Freies Lehrbuch Biologie: 07.01 Bakterien und Milchprodukte.* (2021, November 1). <https://hoffmeister.it/index.php/freies-biologiebuch-fuer-schueler-und-studenten/97-freies-lehrbuch-biologie-07-01-bakterien-und-milchprodukte>
+- Landwirtschaft verstehen. (o. J.). *Milcherzeugnis-Herstellung: Die umfangreich köstliche Vielfalt der Milcherzeugnisse.* Abgerufen 3. Dezember 2024, von <https://www.landwirtschaft-verstehen.at/landwirtschaft-fuer-alle/weg-der-lebensmittel/milch-und-milchprodukte/milcherzeugnis-herstellung>
+- MIV Milchindustrie-Verband e.V. (o. J.-a). *Frischmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/frischmilch/>
+- MIV Milchindustrie-Verband e.V. (o. J.-e). *Rohmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/rohmilch/>
