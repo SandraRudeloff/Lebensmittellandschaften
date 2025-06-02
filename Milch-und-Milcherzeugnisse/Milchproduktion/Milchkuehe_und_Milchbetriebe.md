@@ -7,6 +7,13 @@ title: "Milchkühe & Milchbetriebe"
 - In Niedersachsen gibt es laut Zählung im November 2023 783.835 Milchkühe (BLE, 2024, S. 74).
 
 
+<br>
+
+---
+
+<br>
+
+
 ## Referenzen
 
 - BLE. (2024). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
