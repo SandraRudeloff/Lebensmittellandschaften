@@ -6,23 +6,30 @@ Link Schaubild
 
 ## Links zu allen Unterseiten:
 
-[**Milch & Milcherzeugnisse Informationen**]
+[**Milch & Milcherzeugnisse Informationen**](Milch-und-Milcherzeugnisse-Informationen.html)
 
-- [Was ist XXX?]
+- Was sind Milch und Milcherzeugnisse?
 
 **Milchproduktion**
 
-[**Milcherfassung**]
+- [Milchkühe & Milchbetriebe](Milchproduktion/Milchkuehe_und_Milchbetriebe.html)
+- [Importeure](Milchproduktion/Importeure.html)
+- [Exporteure](Milchproduktion/Exporteure.html)
+
+[**Milcherfassung**](Milcherfassung/Milcherfassung.html)
 
 **Verarbeitungsschritte**
 
-**Weiterverarbeitungsschritte**
-
-**Distribution & Verkauf**
+- [Molkereien & Käsereien](Verarbeitungsschritte/Molkereien-und-Kaesereien.html)
+- [Käse](Verarbeitungsschritte/Kaese.html)
 
 **Milchkrisen**
 
-- [Historische Schwierigkeiten]
+- [Historische Schwierigkeiten](Historische-Schwierigkeiten.html)
+
+**Weitere Wichtige Informationen**
+
+- [Haltbarkeit von Milch](Weitere-Wichtige-Informationen/Haltbarkeit-von-Milch.html)
 
  
 
