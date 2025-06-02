@@ -1,5 +1,5 @@
 ---
-title: ":Was sind Milch und Milcherzeugnisse?"
+title: "Was sind Milch und Milcherzeugnisse?"
 ---
 ## Milchsorten nach Herstellungsverfahren
 
@@ -37,7 +37,9 @@ Magermilch ist Rohmilch, welche in den Molkereien zentrifugiert wird (Aufteilung
 Es können viele verschiedene Produkte aus Milch hergestellt werden. Für viele Produkte sind zusätzliche Stoffe notwendig, wie z. B. Bakterien (Freies Lehrbuch Biologie: 07.01 Bakterien und Milchprodukte, 2021):
 
 - Lab(enzym) wird aus Kälbermägen gewonnen (Wirkstoff Rennin) - weitere Infos zu Lab sind auf der Seite "Historische Schwierigkeiten" zu finden
+
 **BILD EINFÜGEN**
+  
 - Kefir: Zugabe von Kefirkörnern (Körnchen aus geronnenem Eiweiß, welche einen Hefepilz enthalten). Es findet also gleichzeitig eine Milchsäuregärung und eine alkoholische Gärung statt. Kefir enthält also auch Alkohol.
 - Sauermilch: Milch, der Kulturen von Milchsäurebakterien zugefügt wurden. Durch Entwässerung kann daraus Dickmilch hergestellt werden.
 - Joghurt: Zu Milch wird eine Mischkultur aus Milchsäurebakterien zugefügt und dann lässt man alles bei ca. bei ca. 42°C zwei bis drei Stunden wachsen.
