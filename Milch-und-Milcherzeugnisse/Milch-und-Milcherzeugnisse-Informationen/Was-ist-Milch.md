@@ -88,6 +88,11 @@ e. Milchpulvererzeugnisse: 194,45% (Durchschnitt der vier Unterpunkte)
 Daraus lässt sich schließen, dass Deutschland insgesamt einen hohen Selbstversorgungsgrad (SVG) für Milch und Milcherzeugnisse hat und sich in fast allen Produkten (bis auf drei) selbstversorgen kann. 
 Der durchschnittliche SVG für Milch und Milcherzeugnisse (basierend auf den Produkten a bis e) liegt bei 324,29%, wobei der Kondensmilcherzeugnisse Wert den SVG deutlich erhöht. Wenn die Kondensmilcherzeugnisse ausgenommen werden liegt der durchschnittliche SVG bei 135,81%.
 
+<br>
+
+---
+
+<br> 
 
 
 ## Referenzen
