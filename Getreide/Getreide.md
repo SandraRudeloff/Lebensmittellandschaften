@@ -6,17 +6,17 @@ title: "Getreide"
 
 ## Links zu allen Unterseiten:
 
-[**Getreide Informationen**](Getreide Informationen/Getreide Informationen.html)
+[**Getreide Informationen**](Getreide-Informationen/Getreide-Informationen.html)
 
-- [Was ist Getreide?](Getreideproduktion/Was ist Getreide.html)
+- [Was ist Getreide?](Getreideproduktion/Was-ist-Getreide.html)
 
 **Getreideproduktion**
 
-- [Landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche Erzeugung.html)
+- [Landwirtschaftliche Erzeugung](Getreideproduktion/Landwirtschaftliche-Erzeugung.html)
 - [Importeure](Getreideproduktion/Importeure.html)
 - [Exporteure](Getreideproduktion/Exporteure.html)
-- [Bestände & Getreidelager](Getreideproduktion/Getreidelager & Bestaende.html)
-- [Saatguthersteller & Pflanzenzüchter](Getreideproduktion/Saatguthersteller & Pflanzenzuechter.html)
+- [Bestände & Getreidelager](Getreideproduktion/Getreidelager-und-Bestaende.html)
+- [Saatguthersteller & Pflanzenzüchter](Getreideproduktion/Saatguthersteller-und-Pflanzenzuechter.html)
 - [Düngemittelhersteller](Getreideproduktion/Duengemittelhersteller.html)
 
 
@@ -27,7 +27,7 @@ title: "Getreide"
 
 **Verarbeitungsschritte**
 
-- [Getreide- & Schälmühlen](Verarbeitungsschritte/Getreide- & Schaelmuehlen.html)
+- [Getreide- & Schälmühlen](Verarbeitungsschritte/Getreide-und-Schaelmuehlen.html)
 - [Stärkehersteller](Verarbeitungsschritte/Staerkehersteller.html)
 - [Alkoholhersteller](Verarbeitungsschritte/Alkoholhersteller.html)
 - [Malzhersteller](Verarbeitungsschritte/Malzhersteller.html)
@@ -36,21 +36,21 @@ title: "Getreide"
 
 **Weiterverarbeitungsschritte**
 
-- [Lebensmittel Industrie](Weiterverarbeitungsschritte/Lebensmittel Industrie.html)
-- [Getränke Industrie](Weiterverarbeitungsschritte/Getraenke Industrie.html)
-- [Industrielle Zwecke](Weiterverarbeitungsschritte/Industrielle Zwecke.html)
-- [Energie Industrie](Weiterverarbeitungsschritte/Energie Industrie.html)
-- [Landwirtschaftliche Zwecke](Weiterverarbeitungsschritte/Landwirtschaftliche Zwecke.html)
+- [Lebensmittel Industrie](Weiterverarbeitungsschritte/Lebensmittel-Industrie.html)
+- [Getränke Industrie](Weiterverarbeitungsschritte/Getraenke-Industrie.html)
+- [Industrielle Zwecke](Weiterverarbeitungsschritte/Industrielle-Zwecke.html)
+- [Energie Industrie](Weiterverarbeitungsschritte/Energie-Industrie.html)
+- [Landwirtschaftliche Zwecke](Weiterverarbeitungsschritte/Landwirtschaftliche-Zwecke.html)
 
 
 **Distribution & Verkauf**
 
-- [Bäckereien](Distribution & Verkauf/Baeckereien.html)
+- [Bäckereien](Distribution-und-Verkauf/Baeckereien.html)
 
 
 **Getreidekrisen**
 
-- [Historische Schwierigkeiten](Getreidekrisen/Historische Schwierigkeiten.html)
+- [Historische Schwierigkeiten](Getreidekrisen/Historische-Schwierigkeiten.html)
 
 
 
