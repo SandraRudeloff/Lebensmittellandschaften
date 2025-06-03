@@ -7,18 +7,11 @@ title: "Lebensmittel Industrie"
 - Gerste wird für einige Lebensmittel genutzt, z. B. Graupen oder Gerstenflocken, welche in Müslis und Bratlingen vorkommen (Landwirt schafft Leben GmbH, o. J.).
 
 
-## Akteurs Infos
-Liste der größten Unternehmen in Deutschland in der „frozen bakery goods industry“ basierend auf der Menge der Angestellten, ebenso wie für die „biscuit industry“ (Bazan Santos, o. J., S. 164)
-
-![Companies Frozen Goods](https://github.com/user-attachments/assets/356cfdbc-e71b-4425-999d-2254395abcd0)
-
-
 ## Historische Engpässe
 - Die Kohlensäure-Engpässe 2022 & 2023 betrafen vor allem die Herstellung von Bier. Kohlensäure wird als Hilfsstoff in Brauereien verwendet um Tanks, Flaschen, und Fässer "vorzuspannen", damit da Bier beim Abfüllen nicht mit Luft in Kontakt kommt und schäumt. Gleichzeitig erhöht dies die Haltbarkeit. Der Kohlensäuremarkt basiert auf der Düngemittelherstellung (Ammoniaksynthese), welche aufgrund der hohen Erdgas Preise eingeschränkt ist. Lösungen sind Rückgewinnungsanlagen, welche einige Brauereien haben und somit ihren Bedarf teilweise selbst decken können (Neukirch, 2022). Kohlendioxid ist ein Abfallprodukt der Ammoniakproduktion, welches für Düngemittel genutzt wird. Es ist eins vieler Zusatzstoffe, die aufgrund der Gas Krise fehlen, denn Düngemittelhersteller haben aufgrund der hohen Gaspreise ihre Produktion gedrosselt (Freytag & Neuscheler, 2022).
-- Gleichzeitig wird Kohlendioxid auch genutzt um Lebensmittel, z.B. Backwaren haltbar zu machen. CO2 ist antimikrobiell und hemmt dem Wachstum von Mikroorganismen, wie Schimmel und Hefe (SKS Verpackungslösungen nach Maß GmbH, o. J.; Besuch bei HARRY Brot).
+- Gleichzeitig wird Kohlendioxid auch genutzt um Lebensmittel, z.B. Backwaren haltbar zu machen. CO2 ist antimikrobiell und hemmt dem Wachstum von Mikroorganismen, wie Schimmel und Hefe (SKS Verpackungslösungen nach Maß GmbH, o. J.).
 - Die Hefeproduktion ist ebenfalls abhängig von phosphat- und stickstoffhaltigen Nährstoffen, welche aufgrund der hohen Gas Preise nur limitiert, vorhanden sind und hergestellt werden (Deutscher Verband der Hefeindustrie e.V., 2022b).
 - Insbesondere geht es um Melasse, den Hauptnährstoff für Hefefermentation. Melasse ist ein brauner Sirup, welcher aus der ein Nebenprodukt der Zuckerproduktion ist. Es wird ebenfalls für Tierfuttermittel verwendet. In 2022 wurden die Lieferungen von Russland, Belarus, und der Ukraine unzuverlässig, weshalb diese Krise entstand (Deutscher Verband der Hefeindustrie e.V., 2022a). 
-- Laut HARRY Brot gibt es nur 6 Hefehersteller Deutschlandweit. 
 
 
 <br>
@@ -29,7 +22,6 @@ Liste der größten Unternehmen in Deutschland in der „frozen bakery goods ind
 
 
 ## Referenzen
-- Bazan Santos, S. A. (o. J.). *Modeling and Optimization of Resilient Food Supply Chain Networks at Regional Scale* [PhD]. Technische Universität München.
 - Deutscher Verband der Hefeindustrie e.V. (2022a, Juli 14). *Hefeindustrie droht Melasse- und Energieknappheit*. <https://www.hefeindustrie.de/index-hefe.html/hefeindustrie-presse/hefeindustrie-pressemitteilungen/20220714-pm-melasseknappheit>
 - Deutscher Verband der Hefeindustrie e.V. (2022b, September 28). *Energie- und Rohstoffkrise bedroht die Herstellung von Backhefe*. <https://www.hefeindustrie.de/index-hefe.html/hefeindustrie-presse/hefeindustrie-pressemitteilungen/20220928-sn-energie-und-rohstoffkrise-bedroht-hefe-1>
 - Freytag, B., & Neuscheler, T. (2022, September 15). *Gaskrise: CO2 für Kohlensäure ist derzeit knapp wie nie*. FAZ.NET. <https://www.faz.net/aktuell/wirtschaft/unternehmen/gaskrise-co2-fuer-kohlensaeure-ist-derzeit-knapp-wie-nie-18316281.html>
