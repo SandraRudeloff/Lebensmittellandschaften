@@ -26,8 +26,8 @@ title: "Lagerbetriebe"
 
 ## Referenzen
 - Bundeszentrum für Ernährung. (2023, Januar 20). *Äpfel: Erzeugung.* <https://www.bzfe.de/lebensmittel/vom-acker-bis-zum-teller/aepfel/aepfel-erzeugung/>
-Felgentreff, U., & Müller, C. (2023, Juli 19). *Äpfel: Verarbeitung.* Bundeszentrum für Ernährung. <https://www.bzfe.de/lebensmittel/vom-acker-bis-zum-teller/aepfel/aepfel-verarbeitung/>
-Krieg, R. (2007, Oktober 3). *Voller Einsatz für Äpfel und Kunden.* Herd-und-Hof.de. <https://herd-und-hof.de/landwirtschaft-/voller-einsatz-fuer-aepfel-und-kunden.html>
-Peter, G., Kuhnert, H., Haß, M., Banse, M., Roser, S., Trierweiler, B., & Adler, C. (2013). *Einschätzung der pflanzlichen Lebensmittelverluste im Bereich der landwirtschaftlichen Urproduktion* (Bericht im Auftrag des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz (BMELV)). Johann Heinrich von Thünen-Institut, Max Rubner-Institut, Julius Kühn-Institut. <https://literatur.thuenen.de/digbib_extern/dn052055.pdf>
+- Felgentreff, U., & Müller, C. (2023, Juli 19). *Äpfel: Verarbeitung.* Bundeszentrum für Ernährung. <https://www.bzfe.de/lebensmittel/vom-acker-bis-zum-teller/aepfel/aepfel-verarbeitung/>
+- Krieg, R. (2007, Oktober 3). *Voller Einsatz für Äpfel und Kunden.* Herd-und-Hof.de. <https://herd-und-hof.de/landwirtschaft-/voller-einsatz-fuer-aepfel-und-kunden.html>
+- Peter, G., Kuhnert, H., Haß, M., Banse, M., Roser, S., Trierweiler, B., & Adler, C. (2013). *Einschätzung der pflanzlichen Lebensmittelverluste im Bereich der landwirtschaftlichen Urproduktion* (Bericht im Auftrag des Bundesministeriums für Ernährung, Landwirtschaft und Verbraucherschutz (BMELV)). Johann Heinrich von Thünen-Institut, Max Rubner-Institut, Julius Kühn-Institut. <https://literatur.thuenen.de/digbib_extern/dn052055.pdf>
 
 
