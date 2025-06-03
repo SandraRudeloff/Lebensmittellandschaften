@@ -3,7 +3,7 @@ title: "Malzhersteller"
 ---
 
 - Der Versuchsbericht gibt viele Infos über die Nebenprodukte des Mälzerei- und Braugewerbes. Unter anderem sind dies Bierhefe, Biertreber, und Malzkeime (Bayerische Landesanstalt für Landwirtschaft et al., 2010).
-- Weitere Infos über die Malz Herstellung: <https://brauer-bund.de/rohstoffe/malzbetont/#:~:text=Malz%20w>
+
 
 <br>
 
