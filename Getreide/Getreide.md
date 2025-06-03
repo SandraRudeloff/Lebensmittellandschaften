@@ -48,7 +48,7 @@ title: "Getreide"
 - [Bäckereien](Distribution-und-Verkauf/Baeckereien.html)
 
 
-**Getreidekrisen**
+**Weitere Wichtige Informationen**
 
 - [Historische Schwierigkeiten](Getreidekrisen/Historische-Schwierigkeiten.html)
 
