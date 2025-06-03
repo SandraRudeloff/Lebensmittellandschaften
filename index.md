@@ -9,5 +9,5 @@ title: "Lebensmittellandschaften"
 5. Geflügelfleisch
 6. Eier
 7. Kartoffeln
-8. [Äpfel](Aepfel/Aepfel-Informationen.html)
+8. [Äpfel](Aepfel/Aepfel.html)
 9. 
