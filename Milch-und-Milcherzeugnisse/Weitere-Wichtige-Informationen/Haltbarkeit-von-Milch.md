@@ -12,7 +12,10 @@ title: "Exporteure"
       - Zusatz von Konservierungsmitteln wie z. B. Schmelzsalze (Phosphat und Zitrat) für Schmelzkäse 
 
 - Folgendes Bild bietet eine Übersicht der drei verschiedenen Erhitzungsverfahren (Unsere Bayerischen Bauern, o. J.):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Haltbarkeit-Milch.png" alt="Haltbarkeit der Milch" style="width:90%;">
+</p>
 
 ## Pasteurisierung
 "Unter der Pasteurisierung von Milch versteht man ein Verfahren, bei dem durch eine kurzfristige Erhitzung Mikroorganismen und Keime abgetötet werden und die Milch länger haltbar gemacht wird. Es gibt verschiedene Verfahren zur Pasteurisierung der Milch:
