@@ -5,7 +5,9 @@ title: "Käse"
 ## Käseherstellung
 - Es gibt verschiedene Sorten von Käse, die unterschiedlich hergestellt werden. Folgendes Schaubild gibt eine Übersicht (Freies Lehrbuch Biologie: 07.01 Bakterien und Milchprodukte, 2021):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Milch-Kaese.png" alt="Herstellung von Käse" style="width:90%;">
+</p>
 
 - Weitere Infos über Lab sind unter der Seite "Historische Schwierigkeiten" zu finden.
 
