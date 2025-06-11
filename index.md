@@ -3,11 +3,17 @@ title: "Lebensmittellandschaften"
 ---
 
 1. [Getreide](Getreide/Getreide.html)
-2. [Milch & Milcherzeugnisse](Milch-und-Milcherzeugnisse/Milch-und-Milcherzeugnisse.html)
-3. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
-4. Rindfleisch
-5. Geflügelfleisch
-6. Eier
-7. Kartoffeln
-8. [Äpfel](Aepfel/Aepfel.html)
-9. 
+2. Kartoffeln
+3. Möhren (Wurzelgemüse)
+4. Speisezwiebeln
+5. Ölsaaten
+6. [Äpfel](Aepfel/Aepfel.html) 
+
+7. [Milch & Milcherzeugnisse](Milch-und-Milcherzeugnisse/Milch-und-Milcherzeugnisse.html)
+8. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
+9. Rindfleisch
+10. Geflügelfleisch
+11. Eier
+
+12. Zucker
+13. 
