@@ -3,7 +3,7 @@ title: "Lebensmittellandschaften"
 ---
 
 1. [Getreide](Getreide/Getreide.html)
-2. Kartoffeln
+2. [Kartoffeln](Kartoffeln/Kartoffeln.html)
 3. Möhren (Wurzelgemüse)
 4. Speisezwiebeln
 5. Ölsaaten
