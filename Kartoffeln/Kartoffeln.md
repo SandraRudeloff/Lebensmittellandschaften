@@ -14,7 +14,7 @@ Link Schaubild
 - [Importeure](Anbau/Importeure.html)
 - [Exporteure](Anbau/Exporteure.html)
 
-**Kartoffelerfassung**
+[**Kartoffelerfassung**](Kartoffelerfassung/Kartoffelerfassung.html)
 
 - [Lagerbetriebe](Kartoffelerfassung/Lagerbetriebe.html)
 
