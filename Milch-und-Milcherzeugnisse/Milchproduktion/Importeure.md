@@ -5,7 +5,9 @@ title: "Importeure"
 - Die Top 20 der größten Importländer werden in der untenstehenden Tabelle dargestellt (BLE, 2024, S. 104). Die Darstellung basiert auf den höchsten Summen in Millionen Euro. 
 - Demnach importiert Deutschland die meisten Milch und Milcherzeugnisse aus China, den Niederlanden und den United States.
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Milch-Importeure-Exporteure.png" alt="Außenhandelspartner Deutschlands" style="width:90%;">
+</p>
 
 
 <br>
