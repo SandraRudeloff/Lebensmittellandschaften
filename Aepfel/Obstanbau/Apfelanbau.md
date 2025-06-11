@@ -11,7 +11,10 @@ title: "Apfelanbau"
 - Der Apfelanbau konzentriert sich auf einige Regionen in Deutschland: Baden-Württemberg, Niedersachsen (8.350 Hektar (Garming, 2022)), Sachsen und Nordrhein-Westfalen (Bundesinformationszentrum Landwirtschaft, 2024a; Bundeszentrum für Ernährung, 2023).
 - Hauptanbaugebiete sind die Bodenseeregion, das Alte Land, Borthen, Rheinland und Werder (Bundeszentrum für Ernährung, 2023).
 - Folgende Karte zeigt einen Überblick der Apfel Anbauflächen in den Landkreisen in 2017 (Garming, 2022):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Apfelanbauflaechen.png" alt="Apfelanbauflächen in Deutschland 2017" style="width:90%;">
+</p>
 
 
 ## Apfelanbau
