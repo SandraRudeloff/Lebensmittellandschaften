@@ -14,7 +14,7 @@
 - Heumann. (o. J.). *Cholesterin—Entstehung und Cholesterinwerte.* HEUMANN. Abgerufen 7. Januar 2025, von <https://www.heumann.de/de/gesundheitstipps/cholesterin.html>
 - ISN-Interessengemeinschaft der Schweinehalter Deutschlands e.V. (2023, Mai 19). *ISN-Schlachthofranking 2022: Schlachtbranche im Umbruch.* <https://www.schweine.net/news/isn-schlachthofranking-22-schlachtbranche-umbruch.html>
 - Kainz, L. (2024, Oktober 4). *Antibiotika in der Massentierhaltung: So gefährlich ist ihr Einsatz.* PETA Deutschland e.V. <https://www.peta.de/themen/antibiotika-massentierhaltung/>
-- Kopte, S. (o. J.). *Fast überall ist Schwein drin—Die Verwertung des Borstentiers | PROVIEH* [ProVieh]. Abgerufen 2. Januar 2025, von <https://www.provieh.de/unsere-arbeit/verbraucherinfos/fast-ueberall-ist-schwein-drin/>
+- Kopte, S. (o. J.). *Fast überall ist Schwein drin—Die Verwertung des Borstentiers / PROVIEH* [ProVieh]. Abgerufen 2. Januar 2025, von <https://www.provieh.de/unsere-arbeit/verbraucherinfos/fast-ueberall-ist-schwein-drin/>
 - Museum.BL. (2018, Dezember 31). *55 Alltags-Produkte, von denen du nie vermuten würdest, dass Schwein drin ist.* <https://www.museum.bl.ch/blog/1/schweine/83/55-alltags-produkte-von-denen-du-nie-vermuten-wuerdest-dass-schwein-drin-ist/>
 - Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* <https://tierseucheninfo.niedersachsen.de/startseite/tierseuchen_tierkrankheiten/schwein/maul_und_klauenseuche/maul_und_klauenseuche/maul-und-klauenseuche-mks-21655.html>
 - *Reduktion des MMA-Risikos.* (o. J.). ActivePro by Josera. Abgerufen 13. Januar 2025, von <https://active-pro.de/ratgeber/herausforderungen-in-der-schweinehaltung/reduktion-des-mma-risikos/>
