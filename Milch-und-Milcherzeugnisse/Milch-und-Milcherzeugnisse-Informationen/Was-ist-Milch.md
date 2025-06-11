@@ -41,8 +41,6 @@ Es können viele verschiedene Produkte aus Milch hergestellt werden. Für viele 
 <p align="center">
   <img src="Was-ist-Milch.png" alt="Milch und seine Zusatzstoffe" style="width:90%;">
 </p>
-
-**BILD EINFÜGEN**
   
 - Kefir: Zugabe von Kefirkörnern (Körnchen aus geronnenem Eiweiß, welche einen Hefepilz enthalten). Es findet also gleichzeitig eine Milchsäuregärung und eine alkoholische Gärung statt. Kefir enthält also auch Alkohol.
 - Sauermilch: Milch, der Kulturen von Milchsäurebakterien zugefügt wurden. Durch Entwässerung kann daraus Dickmilch hergestellt werden.
