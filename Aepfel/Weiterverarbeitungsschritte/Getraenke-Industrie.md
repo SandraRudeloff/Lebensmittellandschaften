@@ -17,7 +17,9 @@ Prozess der Apfelsaftherstellung (Felgentreff & Müller, 2023):
   5. Naturtrüben Apfelsaft abfüllen.
   6. Saft pasteurisieren für eine längere Haltbarkeit (wenige Sekunden auf 85°C, da der Saft sonst gärt).
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Apfelsaft.png" alt="Die Herstellung von Apfelsaft" style="width:90%;">
+</p>
 (Wissen ist Saft, 2021, S. 41)
 
 Apfelsaftkonzentrat ist ebenfalls ein wichtiges Produkt. Es besteht aus Direktsaft, welchem die Flüssigkeit entzogen wurde. Dieses Konzentrat kann mit gefiltertem Trinkwasser wieder zu "Apfelsaft" verwandelt werden (Felgentreff & Müller, 2023).
