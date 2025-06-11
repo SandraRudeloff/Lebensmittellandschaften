@@ -41,6 +41,6 @@ Link Schaubild
 <br> 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis-Aepfel.md %} 
+{% include Literaturverzeichnis_Aepfel.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
