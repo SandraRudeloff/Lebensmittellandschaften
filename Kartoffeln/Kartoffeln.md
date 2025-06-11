@@ -40,3 +40,8 @@ Link Schaubild
 ---
 
 <br> 
+
+{% capture literaturverzeichnis %} 
+{% include Literaturverzeichnis-Kartoffeln.md %} 
+{% endcapture %} 
+{{ literaturverzeichnis | markdownify }}
