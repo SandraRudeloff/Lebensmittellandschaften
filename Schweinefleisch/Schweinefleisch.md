@@ -40,7 +40,7 @@ title: "Schweinefleisch"
 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Getreide.md %} 
+{% include Literaturverzeichnis-Schwein.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
 
