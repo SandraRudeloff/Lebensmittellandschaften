@@ -29,7 +29,7 @@ Link Schaubild
 - [Getränke Industrie](Weiterverarbeitungsschritte/Getraenke-Industrie.html)
 - [Industrielle Zwecke](Weiterverarbeitungsschritte/Industrielle-Zwecke.html)
 
-**Weitere Wichtige Informationen**
+[**Weitere Wichtige Informationen**](Weitere-Wichtige-Informationen.html)
 
 - [Historische Schwierigkeiten](Historische-Schwierigkeiten.html)
  
