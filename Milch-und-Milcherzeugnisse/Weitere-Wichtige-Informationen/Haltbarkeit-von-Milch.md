@@ -14,7 +14,7 @@ title: "Exporteure"
 - Folgendes Bild bietet eine Übersicht der drei verschiedenen Erhitzungsverfahren (Unsere Bayerischen Bauern, o. J.):
 
 <p align="center">
-  <img src="Haltbarkeit-Milch.png" alt="Haltbarkeit der Milch" style="width:90%;">
+  <img src="Haltbarkeit-Milch.png" alt="Haltbarkeit der Milch" style="width:110%;">
 </p>
 
 ## Pasteurisierung
