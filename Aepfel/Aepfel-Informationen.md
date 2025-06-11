@@ -14,7 +14,7 @@ title: "Äpfel Informationen"
 - Der Artikel von Hart et al. (2007, S. 9) zeigt einen ersten Überblick der Wertschöpfungskette von frischem Obst in Deutschland:
 
 <p align="center">
-  <img src="Aepfel-Wertschoepfungskette.png" alt="Übertragung von Antibiotikaresistenzen von Tier zu Mensch" style="width:90%;">
+  <img src="Aepfel-Wertschoepfungskette.png" alt="Wertschöfpungskette von frischem Obst in Deutschland" style="width:90%;">
 </p>
 
 <br>
