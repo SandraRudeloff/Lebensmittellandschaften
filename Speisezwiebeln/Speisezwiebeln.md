@@ -42,3 +42,8 @@ Link Schaubild
 ---
 
 <br> 
+
+{% capture literaturverzeichnis %} 
+{% include Literaturverzeichnis-Zwiebeln.md %} 
+{% endcapture %} 
+{{ literaturverzeichnis | markdownify }}
