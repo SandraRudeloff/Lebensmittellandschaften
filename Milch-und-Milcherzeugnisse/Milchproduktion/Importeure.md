@@ -6,7 +6,7 @@ title: "Importeure"
 - Demnach importiert Deutschland die meisten Milch und Milcherzeugnisse aus China, den Niederlanden und den United States.
 
 <p align="center">
-  <img src="Milch-Importeure-Exporteure.png" alt="Außenhandelspartner Deutschlands" style="width:90%;">
+  <img src="Milch-Importeure-Exporteure.png" alt="Außenhandelspartner Deutschlands" style="width:60%;">
 </p>
 
 
