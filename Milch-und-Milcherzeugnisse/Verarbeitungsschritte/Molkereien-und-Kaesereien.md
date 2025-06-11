@@ -9,7 +9,13 @@ title: "Exporteure"
 ## Akteurs Infos
 - Die folgenden beiden Grafiken zeigen die größten Molkereien in Deutschland sowie Weltweit 2022 (Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft, 2023, S. 32):
 
-**BILD EINFÜGEN** x2
+<p align="center">
+  <img src="Milch-Molkereien.png" alt="Die größsten Molkereien in Deutschland" style="width:50%;">
+</p>
+
+<p align="center">
+  <img src="Milch-Molkereien-weltweit.png" alt="Die größsten Molkereien der Welt" style="width:50%;">
+</p>
 
 
 
