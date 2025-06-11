@@ -20,7 +20,10 @@ Apfeltrester ist ein Nebenprodukt der Apfelsaftproduktion und fällt in großen 
   - Lebensmittelprodukte (Pektin (zusammen mit Wasser, Zucker und Säure ist es ein Geliermittel, Maschkowski, 2022),Nahrungsergänzungsmittel),
   - biologisch abbaubare Verpackungen und andere Waren (Apfelpapier, Geschirr, Apfelwachs).
 In der folgenden Abbildung ist ein Überblick von weiteren Möglichkeiten (AlpBioEco, 2021):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Apfeltrester-Ideen.png" alt="Innovative Ideen zur Verwendung von Apfeltrester" style="width:90%;">
+</p>
 
 
 
