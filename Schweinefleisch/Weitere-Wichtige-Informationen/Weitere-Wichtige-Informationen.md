@@ -7,6 +7,15 @@ title: "Weitere Wichtige Informationen"
 - Gülle in Biogasanlagen (Bodensee-Stiftung et al., 2024)
 - Kot-Harn Trennung, um die Entstehung von Ammoniak zu verhindern - getrennte Aufbewahrung der Exkremente (Bodensee-Stiftung et al., 2024)
 
+## Schweinezyklus
+
+- "Der Schweinezyklus bezeichnet eine periodische Schwankung der Angebotsmenge und des Marktpreises. Das Problem tritt auf Märkten auf, an denen die Angebotsmenge nicht kurzfristig an die aktuelle Nachfrage angepasst werden kann. Betroffen sind Produktionsgüter, die eine längere Vorlaufzeit benötigen und bei der die Anpassungsreaktion zeitverzögert stattfindet. Problematisch ist, dass der Anbieter sich nicht an die aktuelle Nachfrage ausrichten kann, sondern sich an die Erwartungen für die Zukunft orientieren muss. Wird das Angebot zu stark ausgeweitet, kommt es zum starken Preisrückgang. Das Angebot wird reduziert, wodurch zeitverzögert eine erhöhte Nachfrage und ein hoher Marktpreis entsteht. Erstmalig beschrieben wurde dieses Phänomen 1928 vom Agrarökonom Arthur Hanau in der Dissertation "Die Prognose der Schweinepreise"." (BMEL, o. J.-b). Zusammengefasst beschreibt der Schweinezyklus die nachfrageseitig induzierte Überproduktion an Schweinefleisch.
+
+<p align="center">
+  <img src="Schweinezyklus.png" alt="Relativer Verlauf der Schweine- und Ferkelpreise (Schweinezyklus)" style="width:90%;">
+</p>
+(BMEL, o. J.-b)
+
 ## Mastarten
 
 Es gibt vier verschiedene Mastarten, welche unterschiedliche Verwendungszwecke der Hühner haben:
@@ -26,5 +35,6 @@ Die Mittellangmast und die Langmast sind die am beliebtesten Mastarten.
 <br> 
 
 ## Referenzen
+- BMEL. (o. J.-b). *Schweinezyklus.* BMEL-Statistik. Abgerufen 12. Juni 2025, von <https://www.bmel-statistik.de/preise/preise-fleisch/schweinezyklus>
 - Bodensee-Stiftung, Landesanstalt für Schweinezucht Boxberg, Hochschule für Wirtschaft und Umwelt (HfWU) Nürtingen-Geislingen, & Verband der Agrargewerblichen Wirtschaft e. V. (2024). *Mehr Nachhaltigkeit in der Wertschöpfungskette Schweinefleisch durch stabile regionale Lieferketten* (Wert Schwein). <https://www.bodensee-stiftung.org/wp-content/uploads/EIP-WertSchwein_Massnahmenkatalog_Internet.pdf>
 - Thobe, P., Chibanda, C., & Koch, S. (o. J.). *Steckbriefe zur Tierhaltung in Deutschland: Mastgeflügel.*
