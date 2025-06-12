@@ -3,14 +3,14 @@ title: "Exporteure"
 ---
 
 
-- Deutschland gehört zu den drei größten Exporteuren weltweit neben Spanien und den USA (Bundesinformationszentrum Landwirtschaft, 2022). Die USA und Spanien wechseln den ersten Platz (Deblitz et al., 2024).
-- Die meisten Exporte von Schweinefleisch aus Deutschland gehen an EU-Länder. Die top fünf sind nur noch EU-Länder (Deblitz et al., 2024). Die meisten deutschen Exporte gehen nach Italien, gefolgt von den Niederlanden und Polen. 
-- Der Export nach China, welcher einen lukrativen Preis hat, ist seit dem Ausbruch der afrikanischen Schweinepest zum Stillstand gekommen (Deblitz et al., 2024).
+- Deutschland gehört zu den drei größten Exporteuren weltweit neben Spanien und den USA (Bundesinformationszentrum Landwirtschaft, 2022). Die USA und Spanien wechseln den ersten Platz (Deblitz, Zavyalova, et al., 2024).
+- Die meisten Exporte von Schweinefleisch aus Deutschland gehen an EU-Länder. Die top fünf sind nur noch EU-Länder (Deblitz, Zavyalova, et al., 2024). Die meisten deutschen Exporte gehen nach Italien, gefolgt von den Niederlanden und Polen. 
+- Der Export nach China, welcher einen lukrativen Preis hat, ist seit dem Ausbruch der afrikanischen Schweinepest zum Stillstand gekommen (Deblitz, Zavyalova, et al., 2024).
 
 <p align="center">
-  <img src="Exporte_Schweine.png" alt="Exportdestinationen von deutschem Schweinefleisch" style="width:90%;">
+  <img src="Exporte_Schweine.png" alt="Exportdestinationen von deutschem Schweinefleisch" style="width:50%;">
 </p>
-(Deblitz et al., 2024, S. 5)
+(Deblitz, Zavyalova, et al., 2024, S. 5)
 
 <br>
 
