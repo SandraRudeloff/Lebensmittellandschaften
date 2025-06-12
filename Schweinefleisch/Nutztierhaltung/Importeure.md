@@ -3,14 +3,14 @@ title: "Importeure"
 ---
 
 
-- Deutschland importiert unteranderem Ferkel und Schlachttiere (Deblitz et al., 2024). Die Ferkel stammen meist aus Dänemark und den Niederlanden, die Schlachttiere ebenfalls aus den beiden Ländern sowie Belgien (Deblitz et al., 2024).
-- Schweinefleischexporte sind sehr hoch, besonders in den letzten 10 Jahren deutlich angestiegen, in den letzten Jahren jedoch etwas rückläufig (Deblitz et al., 2024).
-- Die wichtigsten Import Länder für Schweinefleisch für Deutschland sind Dänemark, Belgien und die Niederlande (Deblitz et al., 2024).
+- Deutschland importiert unteranderem Ferkel und Schlachttiere (Deblitz, Zavyalova, et al., 2024). Die Ferkel stammen meist aus Dänemark und den Niederlanden, die Schlachttiere ebenfalls aus den beiden Ländern sowie Belgien (Deblitz, Zavyalova, et al., 2024).
+- Schweinefleischexporte sind sehr hoch, besonders in den letzten 10 Jahren deutlich angestiegen, in den letzten Jahren jedoch etwas rückläufig (Deblitz, Zavyalova, et al., 2024).
+- Die wichtigsten Import Länder für Schweinefleisch für Deutschland sind Dänemark, Belgien und die Niederlande (Deblitz, Zavyalova, et al., 2024).
 
 <p align="center">
   <img src="Importe_Schweine.png" alt="Importherkünfte von Schweinefleisch" style="width:90%;">
 </p>
-(Deblitz et al., 2024, S. 6)
+(Deblitz, Zavyalova, et al., 2024, S. 6)
 
 <br>
 
