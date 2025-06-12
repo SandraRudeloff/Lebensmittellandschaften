@@ -22,7 +22,9 @@ title: "Historische Schwierigkeiten"
 
 - **MMA-Komplexe** bei Sauen nach der Geburt: MMA bedeutet Mastitis = Gesäugeentzündung, Metritis = Gebärmutterentzündung, Agalaktie = Milchmangel. MMA ist eine infektiöse Erkrankung der Sau, welche bakteriell bedingt ist oder von Umweltfaktoren abhängt. "Akute Folgen des MMA-Komplexes sind eine erhöhte Ferkelsterblichkeit aufgrund des Milchmangels bzw. eine große Anzahl an Kümmerern, ein gesteigerter Betreuungsaufwand sowie zusätzliche Kosten für den Medikamenten- und Tierarzteinsatz. Langfristige Folgen sind ein höherer Gewichtsverlust der Sau in der Säugezeit, Fruchtbarkeitsstörungen (Brunstlosigkeit, Umrauschen) aufgrund der Metritis, geringere Wurfgrößen, Aborte und eine geringere Lebensleistung der Sau." (Reduktion des MMA-Risikos, o. J.).
 
-- **Abnehmende Schlachtzahlen**: Seit sechs Jahren sind die Zahlen der Schweineschlachtung rückläufig. In 2022 gab es die größte Reduktion von rund 5 Millionen weniger Schweinen, welche geschlachtet wurden. Dies verdeutlicht, dass es eine Krise bei der Schweineschlachtung gibt (ISN-Interessengemeinschaft der Schweinehalter Deutschlands e.V., 2023).
+- **Abnehmende Schlachtzahlen**: Seit sechs Jahren sind die Zahlen der Schweineschlachtung rückläufig. In 2022 gab es die größte Reduktion von rund 5 Millionen weniger Schweinen, welche geschlachtet wurden. Dies verdeutlicht, dass es eine Krise bei der Schweineschlachtung gibt (ISN-Interessengemeinschaft der Schweinehalter Deutschlands e.V., 2023). Diese Entwicklung ist besonders darauf zurückzuführen, dass sich Verbrauchsgewohnheiten ändern, das Auftreten der Afrikanischen Schweinepest in 2020 und der damit verbundene Wegfall in Exportdrittländer, insbesondere nach China (Deblitz, Agethen, et al., 2024).
+
+- Der "**Schweinestau**" trat teilweise während der Covid-Pandemie auf und beschreibt das Phänomen, dass nicht genügend Schlachtkapazitäten vorhanden waren (Deblitz, Agethen, et al., 2024).
 
 
 <br>
@@ -36,6 +38,7 @@ title: "Historische Schwierigkeiten"
 - BMEL. (2023, Januar 31). *Aktuelle Herausforderungen in der Schweinehaltung im Hinblick auf den Tierschutz.* BMEL. <https://www.bmel.de/DE/themen/tiere/tierschutz/herausforderungen-schweinehaltung.html>
 - BMEL. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
 - BZL. (o. J.). *Schweine.* Abgerufen 2. Januar 2025, von <https://www.landwirtschaft.de/tier-und-pflanze/tier/schweine>
+- Deblitz, C., Agethen, K., Efken, J., Tergast, H., Ellßel, R., Hansen, H., von Davier, Z., Thobe, P., Chibanda, C., & Koch, S. (2024, April 12). *Nutztierhaltung und Fleischproduktion in Deutschland.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/de/themenfelder/nutztierhaltung-und-aquakultur/nutztierhaltung-und-fleischproduktion-in-deutschland>
 - ISN-Interessengemeinschaft der Schweinehalter Deutschlands e.V. (2023, Mai 19). *ISN-Schlachthofranking 2022: Schlachtbranche im Umbruch.* <https://www.schweine.net/news/isn-schlachthofranking-22-schlachtbranche-umbruch.html>
 - Kainz, L. (2024, Oktober 4). *Antibiotika in der Massentierhaltung: So gefährlich ist ihr Einsatz.* PETA Deutschland e.V. <https://www.peta.de/themen/antibiotika-massentierhaltung/>
 - Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* <https://tierseucheninfo.niedersachsen.de/startseite/tierseuchen_tierkrankheiten/schwein/maul_und_klauenseuche/maul_und_klauenseuche/maul-und-klauenseuche-mks-21655.html>
