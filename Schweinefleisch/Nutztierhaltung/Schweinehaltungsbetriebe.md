@@ -3,7 +3,7 @@ title: "Schweinehaltungsbetriebe"
 ---
 
 
-- Es gibt verschiedene Produktionsrichtungen bei Schweinehaltungsbetrieben: Zucht, der Jungsauenaufzucht, der Ferkelerzeugung, der Ferkelaufzucht und der Mast (Bundeszentrum für Ernährung, 2023). Die meisten Eber werden auf Besamungsstationen gehalten. Ist ein Eber für die Zucht geeignet, wird das in der Besamungsstation gewonnene Sperma verdünnt, konserviert und verkauft.
+- Es gibt verschiedene Produktionsrichtungen bei Schweinehaltungsbetrieben: Zucht, der Jungsauenaufzucht, der Ferkelerzeugung, der Ferkelaufzucht und der Mast (Bundeszentrum für Ernährung, 2023). Eber werden entweder auf Besamungsstationen gehalten oder auch für die Mast verwendet, in diesem Fall werden sie jedoch kastriert, da der Ebergeruch sehr unangenehm ist und auch zur Untauglichkeit des Fleisches für den menschlichen Verzehr führen kann. Ist ein Eber für die Zucht geeignet, wird das in der Besamungsstation gewonnene Sperma verdünnt, konserviert und verkauft, denn 95% der Schweine werden künstlich besamt (IFN Schönow e.V., o. J.).
 - Der Schwerpunkt der Schweinefleischerzeugung liegt in Deutschland auf der Schweinemast und ungefähr 37% der Mastschweine werden in Niedersachsen gehalten (Bundesinformationszentrum Landwirtschaft, 2022).
 - Die durchschnittliche Mastdauer beträgt 112 Tage, weshalb es mehreren Zyklen in einem Jahr gibt (Deblitz, Zavyalova, et al., 2024).
 - Mastschweine sind Schweine die mehr als 50kg wiegen (Deblitz, Zavyalova, et al., 2024), das Schlachtgewicht liegt meist bei ungefähr 120kg. 
@@ -55,4 +55,4 @@ title: "Schweinehaltungsbetriebe"
 - Bundeszentrum für Ernährung. (2023, Juni 10). *Schweinefleisch: Erzeugung.* <https://www.bzfe.de/lebensmittel/vom-acker-bis-zum-teller/schweinefleisch/schweinefleisch-erzeugung/>
 - Deblitz, C., Zavyalova, K., & Efken, J. (2024, November 19). *Steckbriefe zur Tierhaltung in Deutschland: Ferkelerzeugung und Schweinemast.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/media/tithemenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Schweinehaltung/Steckbrief_Schweine_2024.pdf>
 - Destatis. (2024, Dezember). *Schweinebestand 2024 im Vergleich zum Vorjahr nahezu konstant.* Statistisches Bundesamt. <https://www.destatis.de/DE/Themen/Branchen-Unternehmen/Landwirtschaft-Forstwirtschaft-Fischerei/Tiere-Tierische-Erzeugung/schweine.html>
-
+- IFN Schönow e.V. (o. J.). *Forschung zur künstlichen Besamung beim Schwein.* Institut für Fortpflanzung landwirtschaftlicher Nutztiere, Kompetenzzentrum IFN Schönow, künstliche Fortpflanzung, Lehrgang Besamungsbeauftragte, Lehrgang Eigenbestandbesamer, Forschung, Tierzucht. Abgerufen 12. Juni 2025, von <https://www.ifn-schoenow.de/texte/www.ifn-schoenow.de/texte/seite.php?id=206072>
