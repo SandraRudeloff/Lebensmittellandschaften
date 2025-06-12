@@ -5,7 +5,10 @@ title: "Importeure"
 - 2023/2024 wurden nur etwa 2.5 Millionen Tonnen Kartoffeln (frisch oder verarbeitet) importiert (BLE, o. J.-c). Dies ist substanziell weniger als das Exportvolumen.
 - Importe kommen aus Ägypten (besonders kleine und junge Kartoffeln am Anfang des Jahres), Spanien und Israel (BLE, 2024).
 - Folgende Abbildung zeigt einen Überblick der Einfuhrländer von Kartoffeln in 2022/2023 (BLE, 2024):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Kartoffel-Importeure.png" alt="Deutsche Einfuhr von Kartoffeln zu Nahrungszwecken 2022/2023" style="width:90%;">
+</p>
 
 
 
