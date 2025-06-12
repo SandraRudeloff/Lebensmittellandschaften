@@ -3,6 +3,7 @@
 - AOK Gesundheitsmagazin. (2024, Januar 25). *Rohmilch, Vollmilch, Weidemilch und Co.: Milchsorten im Überblick.* <https://www.aok.de/pk/magazin/ernaehrung/lebensmittel/rohmilch-vollmilch-weidemilch-und-co-milchsorten-im-ueberblick/>
 - BLE. (2024a). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
 - BLE. (2024b, Dezember 16). *2024: Milchpreise pro Monat.* <https://www.ble.de/DE/BZL/Daten-Berichte/Milch-Milcherzeugnisse/_functions/TabelleMilchpreiseMonat2024.html>
+- BLE. (2025). *Bericht zur Markt- und Versorgungslage mit Fleisch 2025.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2025.pdf>
 - BMEL. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
 - Börgermann, B. (2021, Oktober 22). Kosten steigen, Milchindustrie ist besorgt. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/kosten-steigen-milchindustrie-besorgt/>
 - Börgermann, B. (2022, Oktober 21). Schwierige Rahmenbedingungen und steigende Kosten in der Milchbranche. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/steigende-kosten-in-der-milchbranche/>
