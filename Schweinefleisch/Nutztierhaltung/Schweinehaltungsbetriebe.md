@@ -5,10 +5,10 @@ title: "Schweinehaltungsbetriebe"
 
 - Es gibt verschiedene Produktionsrichtungen bei Schweinehaltungsbetrieben: Zucht, der Jungsauenaufzucht, der Ferkelerzeugung, der Ferkelaufzucht und der Mast (Bundeszentrum für Ernährung, 2023). Die meisten Eber werden auf Besamungsstationen gehalten. Ist ein Eber für die Zucht geeignet, wird das in der Besamungsstation gewonnene Sperma verdünnt, konserviert und verkauft.
 - Der Schwerpunkt der Schweinefleischerzeugung liegt in Deutschland auf der Schweinemast und ungefähr 37% der Mastschweine werden in Niedersachsen gehalten (Bundesinformationszentrum Landwirtschaft, 2022).
-- Die durchschnittliche Mastdauer beträgt 112 Tage, weshalb es mehreren Zyklen in einem Jahr gibt (Deblitz et al., 2024).
-- Mastschweine sind Schweine die mehr als 50kg wiegen (Deblitz et al., 2024), das Schlachtgewicht liegt meist bei ungefähr 120kg. 
+- Die durchschnittliche Mastdauer beträgt 112 Tage, weshalb es mehreren Zyklen in einem Jahr gibt (Deblitz, Zavyalova, et al., 2024).
+- Mastschweine sind Schweine die mehr als 50kg wiegen (Deblitz, Zavyalova, et al., 2024), das Schlachtgewicht liegt meist bei ungefähr 120kg. 
 - Ein Wurf umfasst durchschnittlich 12 Ferkel (Bundeszentrum für Ernährung, 2023).
-- Typischer Produktionsablauf in der Schweinehaltung (Deblitz et al., 2024).
+- Typischer Produktionsablauf in der Schweinehaltung (Deblitz, Zavyalova, et al., 2024).
 
 <p align="center">
   <img src="Produktionsverlauf-Schweinehaltung.png" alt="Produktionsverlauf Schweinehaltung" style="width:90%;">
@@ -34,7 +34,7 @@ title: "Schweinehaltungsbetriebe"
 
 - Spaltenboden (Voll- und Teilspaltenboden)
 - 27,8 Millionen Haltungsplätze waren in 2020 verfügbar (BMEL, o. J.-a). 
-- Nur 1% der Haltungsplätze für Schweine ist mit einem Auslauf versehen (Deblitz et al., 2024).
+- Nur 1% der Haltungsplätze für Schweine ist mit einem Auslauf versehen (Deblitz, Zavyalova, et al., 2024).
 
 <p align="center">
   <img src="Haltungsverfahren-Schweine.png" alt="Haltungsverfahren Schweine" style="width:90%;">
