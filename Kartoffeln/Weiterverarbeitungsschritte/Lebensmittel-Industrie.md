@@ -12,13 +12,17 @@ Aus Kartoffeln können viele verschiedene Kartoffelerzeugnisse und Tiefkühlprod
 - Knabbererzeugnisse (Chips, Sticks)
 
 In folgender Grafik werden weitere Beispiele von der Verarbeitung von Kartoffeln in der Lebensmittelindustrie genannt:
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffeln-Verarbeitungsprodukte.png" alt="Verarbeitungsprodukte von Kartoffeln" style="width:90%;">
+</p>
 
 (Bundeszentrum für Ernährung, 2023a)
 
 
 ## Wege von Pommes & Chips
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffeln-Chips-Pommes.png" alt="Die Wege von Pommes Frites und Kartoffelchips" style="width:90%;">
+</p>
 (Bundeszentrum für Ernährung, 2023a)
 
 
