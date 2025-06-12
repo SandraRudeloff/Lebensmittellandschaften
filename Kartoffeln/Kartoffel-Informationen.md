@@ -14,7 +14,9 @@ Als Schutz bildet die Pflanze eine Art Korkgewebe, die Schale. Aus den Augen der
 ## Wertschöpfungskette
 Der Bericht über Kartoffeln 2024 vom BLE gibt einen ersten Überblick über die Wertschöpfungskette von Kartoffeln in Deutschland (BLE, 2024):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffeln-Wertschoepfungskette.png" alt="Kartoffel Wertschöpfungskette" style="width:90%;">
+</p>
 
 
 
