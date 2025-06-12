@@ -15,6 +15,7 @@ title: "Historische Schwierigkeiten"
 - Zusätzlich gibt es Krankheiten und Seuchen, welche sich auf Kühe übertragen können und Qualitäts- und Produktionseinschränkungen verursachen können. Beispiele aus anderen Branchen sind die Vogelgrippe oder die Afrikanische Schweinepest. Dies ist besonders präsent zum jetzigen Zeitpunkt, denn am 10.01.2025 ist ein Fall der Maul- und Klauenseuche in Deutschland aufgetreten. 
 - **Maul- und Klauenseuche (MKS)** war Jahrzehnte lang nicht in Deutschland präsent und Deutschland galt als MKS frei. Am 10.01.2025 wurden im Landkreis Märkisch-Oderland in Brandenburg Wasserbüffel, die an MKS erkrankt waren, entdeckt. Niedersachsen ist bisher nicht von den Sperrzonen betroffen, jedoch verlor Deutschland den Status "MKS-frei", welches mit entsprechenden Handelseinschränkungen einhergeht (Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit, 2025). 
 "Die Maul- und Klauenseuche ist eine hochansteckende Virusinfektion der Klauentiere (Rinder, Schafe, Ziegen und Schweine). Auch Zoo- und Wildtiere können an MKS erkranken. Die Seuche ist weltweit verbreitet. Für den Menschen ist die Seuche ungefährlich. Seit 1988 war die Seuche nicht mehr in Deutschland aufgetreten." (BMEL, 2025).
+- **Aviäre Influenza** ist eine Viruskrankheit, die von Zugvögeln aus Asien nach Europa eingeschleppt wurde. Seit Oktober 2024 werden fast täglich Fälle in Europa und auch Deutschland gemeldet, diese sind bisher jedoch nur bei Wildvögeln, Geflügel und Tierparks. In den USA gibt es seit dem Frühjahr 2024 allerdings auch eine Virusvariante, die dort Rinder und Milchvieh infiziert. "Die erkrankten Rinder scheiden eine sehr hohe Viruslast über die Milch aus. Daher geht von Rohmilch und Rohmilcherzeugnissen vermutlich eine Infektionsgefahr für Menschen aus."  (BLE, 2025, S. 36). Die erwähnte Virusvariante wurde bislang noch nicht in Europa nachgewiesen (BLE, 2025). Dies stellt eine mögliche Schwierigkeit für die Zukunft dar, sollte sich die Virusvariante auch in Europa verbreiten.
 
 
 ## Hohe Energiekosten
@@ -43,12 +44,13 @@ Lab besteht aus den Enzymen Chymosin und Pepsin, wobei der Anteil an Chymosin be
 
 ## Referenzen
 - BLE. (2024b, Dezember 16). *2024: Milchpreise pro Monat.* <https://www.ble.de/DE/BZL/Daten-Berichte/Milch-Milcherzeugnisse/_functions/TabelleMilchpreiseMonat2024.html>
-BMEL. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
-Börgermann, B. (2021, Oktober 22). Kosten steigen, Milchindustrie ist besorgt. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/kosten-steigen-milchindustrie-besorgt/>
-Börgermann, B. (2022, Oktober 21). Schwierige Rahmenbedingungen und steigende Kosten in der Milchbranche. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/steigende-kosten-in-der-milchbranche/>
-Harms, R. (2023, Juni 30). *Vollkostenauswertung Milch WJ 2021/22.* <https://www.lwk-niedersachsen.de/lwk/news/40591_Vollkostenauswertung_Milch_WJ_202122>
-MIV Milchindustrie-Verband e.V. (2022). *Geschäftsbericht 2021/22.* <https://milchindustrie.de/geschaeftsberichte/2021-2022/epaper/ausgabe.pdf>
-MIV Milchindustrie-Verband e.V. (2024). *Geschäftsbericht 2023/24.* <https://milchindustrie.de/wp-content/uploads/2024/09/MIV_Geschaeftsbericht_23-24_komplett_DS_komprimiert.pdf>
-Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* <https://tierseucheninfo.niedersachsen.de/startseite/tierseuchen_tierkrankheiten/schwein/maul_und_klauenseuche/maul_und_klauenseuche/maul-und-klauenseuche-mks-21655.html>
-Sabersky, A. (2023, Februar). Ohne Lab gibt es keinen Käse. *Slow Food Magazin.* <https://www.oekom.de/_files_media/zeitschriften/artikel/SFM_2023_02_70.pdf>
-Zinke, O. (2024, Januar 17). *Milchpreise sind nicht fair - Ist der Milchmarkt kaputt? - Die Diskussion* [Text]. agrarheute.com. <https://www.agrarheute.com/markt/milch/milchpreise-fair-milchmarkt-kaputt-diskussion-615402>
+- BLE. (2025). *Bericht zur Markt- und Versorgungslage mit Fleisch 2025.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2025.pdf>
+- BMEL. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
+- Börgermann, B. (2021, Oktober 22). Kosten steigen, Milchindustrie ist besorgt. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/kosten-steigen-milchindustrie-besorgt/>
+- Börgermann, B. (2022, Oktober 21). Schwierige Rahmenbedingungen und steigende Kosten in der Milchbranche. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/steigende-kosten-in-der-milchbranche/>
+- Harms, R. (2023, Juni 30). *Vollkostenauswertung Milch WJ 2021/22.* <https://www.lwk-niedersachsen.de/lwk/news/40591_Vollkostenauswertung_Milch_WJ_202122>
+- MIV Milchindustrie-Verband e.V. (2022). *Geschäftsbericht 2021/22.* <https://milchindustrie.de/geschaeftsberichte/2021-2022/epaper/ausgabe.pdf>
+- MIV Milchindustrie-Verband e.V. (2024). *Geschäftsbericht 2023/24.* <https://milchindustrie.de/wp-content/uploads/2024/09/MIV_Geschaeftsbericht_23-24_komplett_DS_komprimiert.pdf>
+- Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* <https://tierseucheninfo.niedersachsen.de/startseite/tierseuchen_tierkrankheiten/schwein/maul_und_klauenseuche/maul_und_klauenseuche/maul-und-klauenseuche-mks-21655.html>
+- Sabersky, A. (2023, Februar). Ohne Lab gibt es keinen Käse. *Slow Food Magazin.* <https://www.oekom.de/_files_media/zeitschriften/artikel/SFM_2023_02_70.pdf>
+- Zinke, O. (2024, Januar 17). *Milchpreise sind nicht fair - Ist der Milchmarkt kaputt? - Die Diskussion* [Text]. agrarheute.com. <https://www.agrarheute.com/markt/milch/milchpreise-fair-milchmarkt-kaputt-diskussion-615402>
