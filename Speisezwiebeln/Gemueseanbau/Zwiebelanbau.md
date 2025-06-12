@@ -15,7 +15,10 @@ title: "Zwiebelanbau"
 - Niedersachsen ist eins der Hauptanbaugebiete für Speisezwiebeln mit einer Fläche von 4.892,3 Hektar (2023) (Landwirtschaftskammer Niedersachsen, o. J.). Weitere erwähnenswerte Bundesländer im Zwiebelanbau sind Bayern, Rheinland-Pfalz, Hessen und Sachsen-Anhalt (Strohm et al., 2016). 
 - Besonders der Landkreis Uelzen ist ein Schwerpunkt für den Zwiebelanbau, Hannover und Braunschweig sind ebenfalls nennenswert (Landwirtschaftskammer Niedersachsen, o. J.; Strohm et al., 2016). 
 - Die nachfolgende Abbildung zeigt den Anbau von Speisezwiebeln in Deutschland (Strohm et al., 2016, S. 65):
-**BILD EINFÜGEN** 
+
+<p align="center">
+  <img src="Zwiebeln-Anbau.png" alt="Regionaler Anbau von Speisezwiebeln in Deutschland" style="width:90%;">
+</p>
 
 - 2023 wurden Speisezwiebeln auf 15.100 Hektar angebaut und ist somit das am zweithäufigsten angebaute Gemüse nach Fläche in Deutschland (BMEL, 2024). Im Vergleich zum Vorjahr hat die Anbaufläche von Speisezwiebeln um 17% zugenommen (BLE, o. J.-a).
 - Auch beim Zwiebelanbau überwiegt der konventionelle Anbau. 1.542 Hektar wurden ökologisch bewirtschaftet für Speisezwiebeln (Bundesinformationszentrum Landwirtschaft, 2024).
