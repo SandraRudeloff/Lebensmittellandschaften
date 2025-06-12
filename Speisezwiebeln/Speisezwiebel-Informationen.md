@@ -19,7 +19,11 @@ Deutschland kann aufgrund von Sortenmanagement und Lagertechnik fast ganzjährig
 ## Wertschöpfungskette
 
 - Hart et al. (2007) geben eine erste Übersicht über den Verlauf der Zwiebel Wertschöpfungskette. Im Folgenden wird die Abbildung der Wertschöpfungskette von frischem Gemüse gezeigt (S. 10):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Zwiebeln-Wertschoepfungskette.png" alt="Wertschöpfungskette von frischem Gemüse in Deutschland" style="width:90%;">
+</p>
+
 
 - Ein spannender Aspekt wird vom Lünekartoffel-Vertrieb GmbH & Co. KG erwähnt: "Wer Kartoffel kann, kann auch Zwiebel". Das bedeutet, dass Kartoffelbetriebe oft auch Zwiebeln anbauen, da sie sich gut ergänzen (passen optimal in die Kartoffelfruchtfolge) und ähnliche Strukturen haben (Lünekartoffel-Vertrieb GmbH & Co. KG, o. J.).
 
