@@ -21,7 +21,9 @@ title: "Kartoffelanbau"
 ## Verwendung
 In Deutschland werden Kartoffeln überwiegend als Nahrungsmittel verwendet (Speisekartoffeln und Kartoffelerzeugnisse), sowie zur Stärke Produktion. Dies wird in folgender Grafik dargestellt:
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffelverwendung.png" alt="Kartoffelverwendung 2023/2024 in Deutschland" style="width:90%;">
+</p>
 (BLE, o. J.-c).
 
 Der Gesamtverbrauch von Kartoffeln liegt bei rund 7.000 Tonnen (2023/2024) (BLE, o. J.-c).
@@ -32,10 +34,14 @@ Der Gesamtverbrauch von Kartoffeln liegt bei rund 7.000 Tonnen (2023/2024) (BLE,
 - Die **Anbaufläche** lag 2023 bei 264.700 Hektar mit einem Ertrag von 11.6 Millionen Tonnen Kartoffeln (BLE, o. J.-b, o. J.-c; Bundesinformationszentrum Landwirtschaft, 2024c). Im Vergleich dazu lag die Anbaufläche 2024 bei 282.000 Hektar mit einer Kartoffelernte von 12.7 Millionen Tonnen. 25.820 Höfe bauten Kartoffeln an (BLE, o. J.-a). 
 - Niedersachsen baute 2024 die meisten Kartoffeln an, ungefähr 46% der gesamten Anbaufläche liegen hier (Bundesinformationszentrum Landwirtschaft, 2024c). Die Ernte entsprach fast die Hälfte der Kartoffeln (6.1 Millionen Tonnen auf 133.800 Hektar) (BLE, o. J.-a). In folgender Grafik wird eine Übersicht der Kartoffelackerflächen nach Kreisen (2021) dargestellt (BLE, 2024):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffelackerflaeche.png" alt="Kartoffelackerfläche nach Kreisen in Deutschland 2021" style="width:90%;">
+</p>
 
 - Niedersachsen hat zusätzlich einen hohen Anteil an beregneten Kartoffelflächen, weshalb die Ertragslage auch bei geringen Niederschlägen in Niedersachsen relativ stabil ist. Ebenso sind in den Hauptanbaugebieten, wie Niedersachsen viele Verarbeitungsindustrien angesiedelt, sodass kurze Transportwege herrschen. Dies wird in der nachfolgenden Grafik verdeutlicht (BLE, 2024).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffelverarbeitung-Standorte.png" alt="Standorte der Kartoffelverarbeitungsbetriebe in Deutschland" style="width:90%;">
+</p>
 
 - Die **Erntemengen und Hektarerträge schwanken von Jahr zu Jahr** (2024 war der Ertrag höher als 2023). Dies liegt unteranderem an der **Fruchtfolge** im Kartoffelanbau. Der durchschnittliche Hektarertrag und die Anbaufläche lag 2018-2022 bei 10.7 Millionen Hektar und 40,2 Tonnen/Hektar (Bundeszentrum für Ernährung, 2023b).
 - Bayern und Nordrhein-Westfalen bauen auch viele Kartoffeln an, ihre Anteile der gesamten Anbaufläche liegen jedoch deutlich niedriger bei jeweils ungefähr 15% (Bundesinformationszentrum Landwirtschaft, 2024c).
@@ -58,7 +64,9 @@ Die Reifezeit von Kartoffeln variiert von 90 bis 160 Tagen (Bundesinformationsze
   - **Mittelfrüh**: 120-140 Tage, Verkauf Ende August, größte Sortengruppe, Lagerfähigkeit gut.
   - **Mittelspät bis spät**: 140-160 Tage, "Einkellerungskartoffel", Verkauf im September/Oktober.
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Kartoffel-Erntezeiten.png" alt="Erntezeiten deutscher Kartoffeln" style="width:90%;">
+</p>
 (BLE, 2024).
 
 
