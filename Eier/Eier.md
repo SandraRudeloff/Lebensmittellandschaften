@@ -11,9 +11,8 @@ title: "Eier"
 
 <br> 
 
-ÄNDERN!
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis-Schwein.md %} 
+{% include Literaturverzeichnis-Eier.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
