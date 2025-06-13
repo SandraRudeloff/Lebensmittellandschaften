@@ -12,7 +12,7 @@ title: "Lebensmittellandschaften"
 7. [Milch & Milcherzeugnisse](Milch-und-Milcherzeugnisse/Milch-und-Milcherzeugnisse.html)
 8. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
 9. Rindfleisch
-10. Geflügelfleisch
+10. [Geflügelfleisch](Gefluegelfleisch/Gefluegelfleisch.html)
 11. Eier
 
 12. Zucker
