@@ -39,9 +39,8 @@ Link Schaubild
 
 <br> 
 
-LITERATURVERZEICHNIS ÄNDERN
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Aepfel.md %} 
+{% include Literaturverzeichnis_Gefluegel.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
