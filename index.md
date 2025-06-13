@@ -13,7 +13,7 @@ title: "Lebensmittellandschaften"
 8. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
 9. Rindfleisch
 10. [Geflügelfleisch](Gefluegelfleisch/Gefluegelfleisch.html)
-11. Eier
+11. [Eier](Eier/Eier.html)
 
 12. Zucker
 13. 
