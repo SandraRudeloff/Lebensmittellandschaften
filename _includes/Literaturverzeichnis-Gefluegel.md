@@ -9,4 +9,5 @@
 - Kainz, L. (2024, Oktober 4). *Antibiotika in der Massentierhaltung: So gefährlich ist ihr Einsatz.* PETA Deutschland e.V. <https://www.peta.de/themen/antibiotika-massentierhaltung/>
 - Maschkowski, G., & Lobitz, R. (2022, Oktober 22). *Geflügel* [Bundeszentrum für Ernährung]. <https://www.bzfe.de/lebensmittel/lebensmittelkunde/gefluegel/>
 - Sträter, A. (2021, Mai 20). Was du über das kurze Leben eines Hähnchens wissen musst. *quarks.de.* <https://www.quarks.de/umwelt/tierwelt/was-du-ueber-das-kurze-leben-eines-haehnchens-wissen-musst/>
-- Thobe, P., Chibanda, C., & Koch, S. (o. J.). *Steckbriefe zur Tierhaltung in Deutschland: Mastgeflügel.*
+- Thobe, P., Chibanda, C., & Koch, S. (2023, November 20). *Steckbriefe zur Tierhaltung in Deutschland: Mastgeflügel.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/media/ti-themenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Mastgefluegel/Steckbrief_Mastgefluegel_2023.pdf>
+
