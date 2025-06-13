@@ -1,5 +1,5 @@
 ---
-title: "Eier Wertschöpfungskette"
+title: "Wertschöpfungskette"
 ---
 
 <br>
