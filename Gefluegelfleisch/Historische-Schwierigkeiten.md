@@ -11,7 +11,11 @@ Die Saison 2022 / 2023 war ebenso von vielen Ausbrüchen geprägt, insbesondere 
 - Seit dem 01. Januar 2022 ist das **Küken töten** in Deutschland gesetzlich verboten. Vorher wurden 40 bis 45 Millionen männliche Küken der Legelinien kurz nach dem Schlüpfen getötet. Besonders Tierschützer haben seit Jahren dieses Verfahren beanstandet. Alternativen zum Küken töten sind die Bruderhahnmast, das Zwei-Nutzungs-Huhn, sowie die In Ovo Geschlechtsbestimmung im Ei, die weiterhin erlaubt Eier bis zum 12. Bruttag auszusortieren. Ursprünglich war ein Gesetz geplant, welches es Brütereien erlaubt Eier nur bis zum 6. Bruttag auszusortieren, dieses ist jedoch nicht in Kraft getreten, sondern ein etwas Lockereres, welches Aussortieren bis zum 12. Bruttag erlaubt, wurde verabschiedet (BLE, 2022). 
 
 - **Belastung des Fleisches mit Medikamentenrückständen**, insbesondere Antibiotikaresistenzen ist seit längerer Zeit im Fokus. In industriellen Tierställen gibt es häufig einen hohen Einsatz von Antibiotika, woraus sich folglich häufig Antibiotikaresistenzen bilden. Diese können durch das Fleisch vom Tier auf den Menschen übertragen werden. In 2022 wurden 540 Tonnen Antibiotika an Schweine, Puten, Hühner, Rinder und andere Tiere verabreicht (in Deutschland). Oft wird in der Massentierhaltung auch nicht nur ein betroffenes Tier mit Antibiotika behandelt, sondern meist der gesamte Bestand eines Stalles/einer Anlage, dies nennt sich Metaphylaxe und ist in Deutschland weiterhin erlaubt. 2014 wurden verschiedene Fleischproben im Labor analysiert und in 86% der 30 Hühner-/Putenproben wurden Resistenzen gegenüber Antibiotika entdeckt (Kainz, 2024).
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Antibiotikarueckstaende.png" alt="Übertragung von Antibiotikaresistenzen von Tier zu Mensch" style="width:90%;">
+</p>
+
 9 von 10 Masthühnern bekommen Antibiotika (Brandt et al., 2019).
 
 - **Problem des "Ausstallens":** Wenn die Tiere ausgestallt werden und mit einem LKW zum Schlachthof gebracht werden gibt es mehrere Probleme: Hitze, Herzversagen und Verletzungen. Die Tiere stehen unter Stress in viel zu heißen LKWs, weshalb einige Tiere es nicht bis zum Schlachthof schaffen, sondern vorher sterben. Wie viele Tiere dies genau sind ist schwer zusagen, da es keine veröffentlichen Daten dazu gibt (Sträter, 2021). 
