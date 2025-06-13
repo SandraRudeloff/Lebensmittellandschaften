@@ -22,7 +22,10 @@ Bei der Hühnermast gibt es vier verschiedene Produktionsstufen, welche im Folge
 
 ## Mastbetriebe
 - 2023 wurden rund 88 Millionen Hühner in 3700 Betrieben gemästet, wovon ungefähr 49 Millionen Tiere in Niedersachsen gemästet wurden. Dies entspricht 56% des Gesamtbestandes (BMEL, o. J.).
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Regionale-Verteilung-Masthaehnchen.png" alt="Regionale Verteilung der Masthähnchen 2023" style="width:90%;">
+</p>
 (Thobe et al., o. J., S. 12).
 
 
@@ -46,7 +49,11 @@ Auch der Schwerpunkt der Putenmast liegt in Niedersachsen mit 37% der Mastputen 
 
 ## Akteurs Infos
 Folgendes Bild zeigt die Herkunft der Hybride für die Geflügelfleischerzeugung (Brandt et al., 2019, S. 12):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Zucht-Herkunft.png" alt="Hybridherkünfte für die Produktion von Hähnchenfleisch am deutschen Markt" style="width:90%;">
+</p>
+
+
 
 
 <br>
