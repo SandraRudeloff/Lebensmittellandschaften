@@ -41,6 +41,6 @@ Link Schaubild
 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Gefluegel.md %} 
+{% include Literaturverzeichnis-Gefluegel.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
