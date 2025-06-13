@@ -16,7 +16,7 @@ Die Saison 2022 / 2023 war ebenso von vielen Ausbrüchen geprägt, insbesondere 
   <img src="Antibiotikarueckstaende.png" alt="Übertragung von Antibiotikaresistenzen von Tier zu Mensch" style="width:90%;">
 </p>
 
-9 von 10 Masthühnern bekommen Antibiotika (Brandt et al., 2019).
+  9 von 10 Masthühnern bekommen Antibiotika (Brandt et al., 2019).
 
 - **Problem des "Ausstallens":** Wenn die Tiere ausgestallt werden und mit einem LKW zum Schlachthof gebracht werden gibt es mehrere Probleme: Hitze, Herzversagen und Verletzungen. Die Tiere stehen unter Stress in viel zu heißen LKWs, weshalb einige Tiere es nicht bis zum Schlachthof schaffen, sondern vorher sterben. Wie viele Tiere dies genau sind ist schwer zusagen, da es keine veröffentlichen Daten dazu gibt (Sträter, 2021). 
 
