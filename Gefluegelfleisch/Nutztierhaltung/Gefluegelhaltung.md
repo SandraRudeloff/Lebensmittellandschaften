@@ -7,7 +7,7 @@ Bei der Hühnermast gibt es vier verschiedene Produktionsstufen, welche im Folge
 1. **Basiszucht:** Einige wenige kommerzielle Zuchtunternehmen, Verkauf von Elterntierküken an Vermehrungsbetriebe.
 2. **Vermehrungsbetrieb:** Aufwuchs der Elterntierküken, Hähne und Hennen werden kombiniert, sodass befruchtete Eier entstehen, Verkauf an Brütereien.
 3. **Brütereien:** Ausbrütung der befruchteten Eier, männliche und weibliche Tiere werden an die Mastbetriebe geliefert.
-4. **Mastbetriebe:** Mast der Tiere bis zur Mastreife, hierbei wird in verschiedene Mastarten unterteilt, welche ausführlich in der "Weitere Wichtige Informationen" Seite beschrieben werden (Thobe et al., o. J.):
+4. **Mastbetriebe:** Mast der Tiere bis zur Mastreife, hierbei wird in verschiedene Mastarten unterteilt, welche ausführlich in der "Weitere Wichtige Informationen" Seite beschrieben werden (Thobe et al., 2023):
      - Kurzmast
      - Mittellangmast
      - Langmast/Schwermast
