@@ -15,8 +15,10 @@ title: "Geflügelfleisch Informationen"
 
 ## Hühnerhaltung
 - Betriebe haben teilweise über 50.000 Haltungsplätze (BLE, 2024a).
-**BILD EINFÜGEN**
 
+<p align="center">
+  <img src="Huehnerhaltung-Bestandsgroessen.png.png" alt="Hühnerhaltung nach Bestandsgrößenklassen in 2023" style="width:90%;">
+</p>
 (BLE, 2024a, S. 15)
 
 
