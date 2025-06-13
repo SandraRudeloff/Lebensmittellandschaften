@@ -13,9 +13,9 @@ title: "Schlachtunternehmen"
 - Die Schlachthöfe unterliegen strengen hygienischen Regeln und müssen Hühner aussortieren, die nicht zum menschlichen Verzehr geeignet sind. Dies sind ungefähr 12 Millionen Hühner im Jahr, welche im Müll landen (Brandt et al., 2019).
 
 - Hühnerfleisch wird frisch, gefroren und tiefgefroren angeboten (Maschkowski & Lobitz, 2022):
-      - Frisch: keine Kälteeinwirkung; -2°C bis +4°C; zu verbrauchen bis... Kennzeichnung
-      - Gefroren: Schockfrostung; Kerntemperatur -12°C
-      - Tiefgefroren:  Schockgefrostet; Kerntemperator nach Schlachtung bei -18°C
+  a. Frisch: keine Kälteeinwirkung; -2°C bis +4°C; zu verbrauchen bis... Kennzeichnung
+  b. Gefroren: Schockfrostung; Kerntemperatur -12°C
+  c. Tiefgefroren:  Schockgefrostet; Kerntemperator nach Schlachtung bei -18°C
 
 
 
