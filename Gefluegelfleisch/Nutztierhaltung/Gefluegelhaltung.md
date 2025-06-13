@@ -37,6 +37,8 @@ Bei der Hühnermast gibt es vier verschiedene Produktionsstufen, welche im Folge
      2. ca. 7 Wochen - ca. 2kg - Verarbeitung von Teilstücken,
      3. 9 Wochen - ca. 2,5kg - Nutzung besonders großer Hähnchenbrüste.
 
+
+
 - Bei Hühnern werden weibliche und männliche Tiere zusammengehalten, denn sie weisen eine sehr ähnliche Gewichtszunahme auf. Dies ist anders bei der **Putenmast** (Truthühner), wo männliche und weibliche Tiere getrennt voneinander gehalten werden, da sie ein sehr unterschiedliches Wachstumstempo haben. Das Schlachtgewicht von Putenhennen wird nach 10 Wochen erreicht (10kg) und Putenhähne werden für bis zu 22 Wochen gemästet und erreichen ein Schlachtgewicht von 20kg (BMEL, o. J.).  
 Auch der Schwerpunkt der Putenmast liegt in Niedersachsen mit 37% der Mastputen in diesem Bundesland (BMEL, o. J.).
 - Am Ende der Mast dürfen maximal 35kg Hühner auf einem Quadratmeter gehalten werden, was ungefähr 16-26 Tieren pro Quadratmeter entspricht (Bundesinformationszentrum Landwirtschaft, 2022).
