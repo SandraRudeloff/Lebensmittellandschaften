@@ -8,7 +8,7 @@ Link Schaubild
 
 **Eier Informationen**
 
-- [Eier Wertschöpfungskette](Eier-Informationen/Wertschoepfungskette.html)
+- [Wertschöpfungskette](Eier-Informationen/Wertschoepfungskette.html)
 - [Hühnerhaltung](Eier-Informationen/Huehnerhaltung.html)
 
 **Nutztierhaltung**
