@@ -17,8 +17,9 @@ In Deutschland gab es 2023 50,3 Millionen Hennen (BMEL, o. J.), wobei in Nieders
 - Die Freilandhaltung, wo die Hühner zusätzlich Auslauf ins Freie haben, hat in den vergangenen Jahren stetig zugenommen, 2023 stieg der Anteil auf 22,3% (BMEL, o. J.). 
 - Die ökologische Haltung war 2023 bei 13,5% und die Kleingruppenhaltung bei 4,5% (BMEL, o. J.).
 
-**BILD EINFÜGEN**
-
+<p align="center">
+  <img src="Haltungsplaetze-Haltungsfromen.png" alt="Haltungsfromen nach Haltungsplätzen" style="width:90%;">
+</p>
 (BLE, 2024b, S. 13)
 
 
