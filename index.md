@@ -3,17 +3,18 @@ title: "Lebensmittellandschaften"
 ---
 
 1. [Getreide](Getreide/Getreide.html)
-2. [Kartoffeln](Kartoffeln/Kartoffeln.html)
-3. Möhren (Wurzelgemüse)
-4. [Speisezwiebeln](Speisezwiebeln/Speisezwiebeln.html)
-5. Ölsaaten
-6. [Äpfel](Aepfel/Aepfel.html) 
+2. Ölsaaten
+3. [Kartoffeln](Kartoffeln/Kartoffeln.html)
+4. Möhren (Wurzelgemüse)
+5. [Speisezwiebeln](Speisezwiebeln/Speisezwiebeln.html)
+6. Kohlgemüse
+7. [Äpfel](Aepfel/Aepfel.html) 
 
-7. [Milch & Milcherzeugnisse](Milch-und-Milcherzeugnisse/Milch-und-Milcherzeugnisse.html)
-8. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
-9. Rindfleisch
-10. [Geflügelfleisch](Gefluegelfleisch/Gefluegelfleisch.html)
-11. [Eier](Eier/Eier.html)
+8. [Milch & Milcherzeugnisse](Milch-und-Milcherzeugnisse/Milch-und-Milcherzeugnisse.html)
+9. [Schweinefleisch](Schweinefleisch/Schweinefleisch.html)
+10. Rindfleisch
+11. [Geflügelfleisch](Gefluegelfleisch/Gefluegelfleisch.html)
+12. [Eier](Eier/Eier.html)
 
-12. Zucker
-13. 
+13. Zucker
+14. 
