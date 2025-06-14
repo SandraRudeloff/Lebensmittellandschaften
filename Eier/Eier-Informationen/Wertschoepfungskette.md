@@ -4,10 +4,15 @@ title: "Wertschöpfungskette"
 
 
 Die folgenden zwei Abbildungen geben einen ersten Überblick über die Wertschöpfungskette von Konsumeiern:
-**BILDER EINFÜGEN**
 
+<p align="center">
+  <img src="Wertschoepfungskette.png" alt="Wertschöfpungskette der Konsumeiererzeugung" style="width:90%;">
+</p>
 (BLE, 2024b)
 
+<p align="center">
+  <img src="Aufbau-Gefluegelzucht.png" alt="Schmatischer Aufbau der Geflügelzucht" style="width:90%;">
+</p>
 (BLE, 2017, S. 7)
 
 <br>
