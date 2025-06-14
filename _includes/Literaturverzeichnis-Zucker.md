@@ -1,0 +1,29 @@
+# Literaturverzeichnis
+
+- BLE. (o. J.-a). *Agrarmarkt: Zucker.* BMEL-Statistik. Abgerufen 25. Februar 2025, von <https://www.bmel-statistik.de/agrarmarkt/zucker>
+- BLE. (o. J.-b). *Bodennutzung und pflanzliche Erzeugung: Anbau von Kartoffeln und Zuckerrüben.* BMEL-Statistik. Abgerufen 25. Februar 2025, von <https://www.bmel-statistik.de/landwirtschaft/bodennutzung-und-pflanzliche-erzeugung/hackfruechte>
+- BLE. (o. J.-c). *Versorgungsbilanzen: Zucker, Glukose.* BMEL-Statistik. Abgerufen 25. Februar 2025, von <https://www.bmel-statistik.de/ernaehrung/versorgungsbilanzen/zucker-glukose>
+- BLE. (2024a). *Bericht zur Markt- und Versorgungslage Kartoffeln.* <https://www.bmel-statistik.de/fileadmin/daten/0611010-2024.pdf>
+- BLE. (2024b). *Bericht zur Markt- und Versorgungslage Zucker—2024.* Bundesanstalt für Landwirtschaft und Ernährung. <https://www.bmel-statistik.de/fileadmin/daten/0611050-2024.pdf>
+- Bundesinformationszentrum Landwirtschaft. (2024a, März 7). *30 Zuckerwürfel werden täglich pro Kopf verbraucht: BZL.* Landwirtschaft.de. <https://www.landwirtschaft.de/infothek/landwirtschaft-in-zahlen/32-zuckerwuerfel-werden-taeglich-pro-kopf-verbraucht>
+- Bundesinformationszentrum Landwirtschaft. (2024b, Oktober 11). *Zucker.* Landwirtschaft.de. <https://www.landwirtschaft.de/einkauf/lebensmittel/pflanzliche-lebensmittel/zucker>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-a). *Lagerung und Mietenschutz.* dnz.de. Abgerufen 17. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/ruebenproduktion/lagerung/>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-b). *Rübenanbau.* dnz.de. Abgerufen 17. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/ruebenproduktion/ruebenanbau/>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-c). *Rübenernte und Kampagne.* dnz.de. Abgerufen 17. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/ruebenproduktion/ruebenernte/>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-d). *Steckbrief: Die Zuckerrübe.* dnz.de. Abgerufen 17. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/steckbrief/>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-e). *Transport und Logistik.* dnz.de. Abgerufen 17. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/ruebenproduktion/transport/>
+- Dachverband Norddeutscher Zuckerrübenanbauer e.V. (o. J.-f). *Verwertungsmöglichkeiten der Zuckerrübe.* dnz.de. Abgerufen 10. März 2025, von <https://www.dnz.de/rund-um-ruebe-zucker/verwertungsmoeglichkeiten/>
+- Kuratorium für Versuchswesen und Beratung im Zuckerrübenanbau. (o. J.). *Zuckerrübenanbau natürlich nachhaltig durch...* Abgerufen 10. März 2025, von <https://bisz.suedzucker.de/wp-content/uploads/2016/05/Poster6_Nutzung_ges_Ruebe.pdf>
+- Maschkowski, G., & Lobitz, R. (2022, November 1). *Zucker: Beliebtes Süßungsmittel in vielen Varianten.* Bundeszentrum für Ernährung. <https://www.bzfe.de/lebensmittel/lebensmittelkunde/zucker/>
+- Nordzucker. (2022, Januar). *Von der Rübe zum Zucker.* <https://www.nordzucker.com/de/wp-content/uploads/sites/2/2020/08/NZ_Zuckerflyer_D_2022_online.pdf>
+- *Nutzung der gesamten Rübe.* (o. J.). Beratung und Information für den süddeutschen Zuckerrübenanbau. Abgerufen 10. März 2025, von <https://bisz.suedzucker.de/anbau/nachhaltigkeit/nutzung-der-gesamten-ruebe/#>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-a). *Die Zuckerrübe.* Zuckerverbände. Abgerufen 17. März 2025, von <http://www.zuckerverbaende.de/anbau-und-verarbeitung/ruebenanbau/die-zuckerruebe/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-b). *Pflanzenschutz.* Zuckerverbände. Abgerufen 17. März 2025, von <http://www.zuckerverbaende.de/anbau-und-verarbeitung/ruebenanbau/pflanzenschutz/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-c). *Rübenanbau.* Zuckerverbände. Abgerufen 10. März 2025, von <https://www.zuckerverbaende.de/anbau-und-verarbeitung/ruebenanbau/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-d). *Verarbeitung.* Zuckerverbände. Abgerufen 12. März 2025, von <http://www.zuckerverbaende.de/anbau-und-verarbeitung/nachhaltigkeit-und-innovation/verarbeitung/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-e). *Zahlen und Fakten: Deutschland / Standorte.* Zuckerverbände.de. Abgerufen 10. März 2025, von <https://www.zuckerverbaende.de/zahlen-fakten/deutschland/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (o. J.-f). *Zuckerrübenanbau.* Zuckerverbände. Abgerufen 17. März 2025, von <http://www.zuckerverbaende.de/anbau-und-verarbeitung/ruebenanbau/zuckerruebenanbau/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (2023a). *Jahresbericht 2022/2023.* <https://www.zuckerverbaende.de/wp-content/uploads/2023/05/WVZ_VdZ_Jahresbericht_2022-2023.pdf>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (2023b, Juli). *Rohstoffverwertung.* Zuckerverbände. <http://www.zuckerverbaende.de/anbau-und-verarbeitung/verarbeitung/rohstoffverwertung/>
+- Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V. (2024, April 25). *Bilanz Rübenkampagne 2023/24: Lange Kampagne beendet schwieriges Rübenjahr.* Zuckerverbände.de. <http://www.zuckerverbaende.de/presse/presse-archiv/bilanz-ruebenkampagne-2023-24-lange-kampagne-beendet-schwieriges-ruebenjahr/>
+- Zuckerrübe: Alles über Zuckerrüben, ihren Anbau, die Ernte und die Zuckergewinnung für Lebensmittel sowie den Zuckermarkt. (2025, August 3). *topagrar.com.* <https://www.topagrar.com/themen/zuckerruebe-12362780.html>
