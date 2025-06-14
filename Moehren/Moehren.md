@@ -42,7 +42,6 @@ Link Schaubild
 <br> 
 
 
-ÄNDERN
 {% capture literaturverzeichnis %} 
 {% include Literaturverzeichnis-Moehren.md %} 
 {% endcapture %} 
