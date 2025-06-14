@@ -1,4 +1,4 @@
----
+![Standorte-Zuckerfabriken](https://github.com/user-attachments/assets/7801a152-18e8-46d0-8ae5-6bd4302c24bc)---
 title: "Zuckerrübenanbau"
 ---
 
@@ -16,8 +16,11 @@ title: "Zuckerrübenanbau"
 - Deutschland ist europaweit eins der besten Standorte zum Rübenanbau (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., o. J.-f).
 - Hauptanbauregionen sind in Niedersachsen, Bayern, Nordrhein-Westfalen und Sachsen-Anhalt (BLE, o. J.-b). In Niedersachsen liegt rund ein Viertel der Anbaugebiete, da es dort sehr gute Böden und klimatische Verhältnisse gibt (Bundesinformationszentrum Landwirtschaft, 2024a). Niedersachsen hat rund 26% der gesamten deutschen Anbaufläche von Zuckerrüben (BLE, 2024b).
 - Gleichzeitig werden jedoch auch neue Standorte erschlossen (z. B. das Emsland, und die Grafschaft Bentheim), denn Zuckerrüben werden ebenfalls energetisch in Biogasanlagen genutzt (BLE, 2024b).
-- Folgende Grafik stellt die deutschlandweiten Anbauflächen von Zuckerrüben dar, sowie die 18 Zuckerfabriken. 
-**BILD EINFÜGEN**
+- Folgende Grafik stellt die deutschlandweiten Anbauflächen von Zuckerrüben dar, sowie die 18 Zuckerfabriken.
+
+<p align="center">
+  <img src="Standorte-Zuckerfabriken.png" alt="Standorte des Zuckerrübenanbaus und der Zuckerfabriken" style="width:90%;">
+</p>
 (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., 2023a, S. 81).
 
 
