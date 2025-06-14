@@ -6,16 +6,25 @@ title: "Möhrenanbau"
 - In 2023 wurden auf ungefähr 13.500 Hektar 800.000 Tonnen Möhren im Freiland in Deutschland angebaut. Davon waren 144.000 Tonnen aus ökologischem Anbau (Bundesinformationszentrum Landwirtschaft, 2024b).
 - Die größten Anbaugebiete (flächenmäßig) sind in Nordrhein-Westfalen, Niedersachsen, Bayern und Rheinland-Pfalz (Bundesinformationszentrum Landwirtschaft, 2024b). 15% der Möhren werden in Niedersachsen angebaut. Zusätzlich haben die Bundesländer unterschiedliche Foki beim Anbau, so werden Möhren aus Niedersachsen besonders zur Saft- und Tiefkühlverwendung angebaut neben der Verwendung als Frischmöhren (Agrarmarkt Informations-Gesellschaft mbH, o. J.).
 - Folgende Grafik zeigt die Gemüseanbauflächen in Deutschland (Garming, 2023, S. 12):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Gemueseanbauflaechen-in-Landkreisen-in-Deutschland-2020.png" alt="Gemüseanbauflächen in Landkreisen in Deutschland 2020" style="width:90%;">
+</p>
+
+
 
 - Folgende Grafik zeigt die Gemüseanbauflächen von Niedersachsen (2012) (Klockgether et al., 2016, S. 30):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Gemueseanbauflaeche-in-den-Landkreisen-Niedersachsens-in-2012.png" alt="Gemüseanbauflächen in Landkreisen in Niedersachsen in 2020" style="width:90%;">
+</p>
 
 
 - Der Anbau von Möhren ist besonders wichtig in den *Landkreisen Lüneburg und Uelzen*. Sie sind mit die wichtigsten Anbaugebiete deutschlandweit. 
 
 - Folgende Grafik zeigt den regionalen Anbau von Möhren in Deutschland (2012) (Klockgether et al., 2016, S. 69):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Regionaler-Anbau-von-Moehren-in-2012.png" alt="Regionaler Anbau von Möhren in 2012" style="width:90%;">
+</p>
 
 
 - Bei der Wahl der Anbaugebiete von Möhren spiele verschiedene Faktoren eine Rolle (Klockgether et al., 2016):
