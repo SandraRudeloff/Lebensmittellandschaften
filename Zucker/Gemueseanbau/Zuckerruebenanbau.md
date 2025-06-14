@@ -1,4 +1,4 @@
-![Standorte-Zuckerfabriken](https://github.com/user-attachments/assets/7801a152-18e8-46d0-8ae5-6bd4302c24bc)---
+---
 title: "Zuckerrübenanbau"
 ---
 
