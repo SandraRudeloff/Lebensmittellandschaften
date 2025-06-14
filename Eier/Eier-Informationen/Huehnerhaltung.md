@@ -18,7 +18,7 @@ In Deutschland gab es 2023 50,3 Millionen Hennen (BMEL, o. J.), wobei in Nieders
 - Die ökologische Haltung war 2023 bei 13,5% und die Kleingruppenhaltung bei 4,5% (BMEL, o. J.).
 
 <p align="center">
-  <img src="Haltungsplaetze-Haltungsfromen.png" alt="Haltungsfromen nach Haltungsplätzen" style="width:90%;">
+  <img src="Haltungsplaetze-Haltungsformen.png" alt="Haltungsfromen nach Haltungsplätzen" style="width:90%;">
 </p>
 (BLE, 2024b, S. 13)
 
