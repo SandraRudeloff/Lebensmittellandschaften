@@ -20,7 +20,11 @@ title: "Eier Packstellen"
 5. Eierkennzeichnungsgerät (Krause et al., 2020).
 
 - Die folgende Grafik (Krause et al., 2020, S. 3) stellt eine Übersicht einer Eierpackstelle dar, welche vollautomatisiert ist. Auch heute gibt es noch Packstellen, wo alles mit der Hand gemacht wird und keine Maschinen zum Einsatz kommen.
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Eieraufbereitung.png" alt="Mögliche Arbeitsschritte einer vollautomatisierten Eieraufbereitung" style="width:90%;">
+</p>
+
 
 
 ## Eierkennzeichnung
