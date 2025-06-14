@@ -22,7 +22,9 @@ title: "Zucker Informationen"
 ## Wertschöpfungskette
 - Die Abbildung der Wertschöpfungskette von Zucker aus dem Bericht zur Markt- und Versorgungslage von Zucker (BLE, 2024b) zeigt eine sehr gute Übersicht, welche als Ausgangspunkt für das Schaubild dient (BLE, 2024b, S. 4):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Wertschoepfungskette.png" alt="Wertschöfpungskette von Zucker" style="width:90%;">
+</p>
 
 
 
