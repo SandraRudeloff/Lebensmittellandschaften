@@ -25,12 +25,15 @@ Von der Zuckerrübe zum Zucker (Bundesinformationszentrum Landwirtschaft, 2024b)
 7. Spülung des Zuckers mit heißem Wasser in einer Zentrifuge und anschließende Trocknung.
 
 Von der Zuckerrübe vom Feld bis zum Zucker werden viele verschiedene Schritte durchlaufen. Die Zuckerrübenwertschöpfungskette ist ein Beispiel für nachhaltiges Wirtschaften, denn sie ist eine "closed-loop" Kette. Nebenprodukte werden weiterverwendet und es gibt kaum Abfälle. Die folgenden Grafiken zeigen eine Übersicht:
-**BILD EINFÜGEN**
 
+<p align="center">
+  <img src="Wertschoepfungskette-Zucker.png" alt="Wertschöfpungskette Zucker: Vom Zuckerrübenfeld zur Zuckerfabrik" style="width:90%;">
+</p>
 (Dachverband Norddeutscher Zuckerrübenanbauer e.V., o. J.-f)
 
-**BILD EINFÜGEN**
-
+<p align="center">
+  <img src="Zuckerherstellung-Schritt-fuer-Schritt.png" alt="Zuckerherstellung Schritt für Schritt" style="width:90%;">
+</p>
 (Nordzucker, 2022)
 
 
@@ -42,7 +45,10 @@ Von der Zuckerrübe vom Feld bis zum Zucker werden viele verschiedene Schritte d
 
 ## Zuckerverwendung
 - Zuckerrüben sind vielseitig einsetzbar. Sie liefern Zucker, sind Ausgangsprodukte für Tierfutter, biobasierte Kunststoffe und Kraftstoffe und Dünger, und beinhalten Grundstoffe für die Alkohol-, Chemie-, Hefe-, und Pharmaindustrie (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., o. J.-c). Wie oben bereits erwähnt ist die Zuckerrübe ein Beispiel für nachhaltiges Wirtschaften, denn 100% der Rübe werden verwendet (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., o. J.-d, 2023b):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Kreislaufwirtschaft-Zuckerruebe.png" alt="Die Kreislaufwirtschaft der Zuckerrübe" style="width:90%;">
+</p>
 
 
 
@@ -57,7 +63,9 @@ Von der Zuckerrübe vom Feld bis zum Zucker werden viele verschiedene Schritte d
   - 12% als Haushaltszucker (typischerweise Vermarktung in 1kg Paketen als Weißzucker (Bundesinformationszentrum Landwirtschaft, 2024b))
 2. 7% in die industrielle Verwendung (174.300 Tonnen) (BLE, o. J.-c).
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Verwendung-von-Zucker.png" alt="Inlandsabsatz von Zucker nach Empfängergruppen" style="width:90%;">
+</p>
 (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., 2023a, S. 86)
 
 
@@ -68,7 +76,9 @@ Von der Zuckerrübe vom Feld bis zum Zucker werden viele verschiedene Schritte d
 # Melasse
 - Melasse ist ein dickflüssiger, brauner Sirup, welcher noch über 50% Zucker enthält, welcher nicht mehr auskristallisiert werden kann (Dachverband Norddeutscher Zuckerrübenanbauer e.V., o. J.-f).
 - Melasse wird zur Antrocknung von Rübenschnitzeln genutzt, sowie zur Hefeproduktion, als Bestandteil von Mischfutter in der Landwirtschaft, bei der Alkoholherstellung und Bioethanol Herstellung (BLE, 2024b; Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., 2023a, S. 87):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Verwendung-von-Melasse.png" alt="Verwendung von Melasse" style="width:90%;">
+</p>
 
 - Melasse wird ebenfalls in der Pharmazie verwendet, insbesondere als Trägerstoffe in Medikamenten und als Nahrungsergänzungsmittel (Wirtschaftliche Vereinigung Zucker e.V. & Verein der Zuckerindustrie e.V., 2023b).
 
