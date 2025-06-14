@@ -4,7 +4,11 @@ title: "Importeure"
 
 - Der Selbstversorgungsgrad von Konsumeier lag 2023 bei ca. 73%. Die Importe kommen überwiegend aus den Niederlanden (75% der Importe), Polen und Belgien (BMEL, o. J.).
 - Die folgende Tabelle zeigt einen Überblick der nach Deutschland importierten Eier nach Herkunftsländern:
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Importe-Schaleneier.png" alt="Einfuhr von Schaleneiern nach Deutschland nach Ursprungsländern" style="width:90%;">
+</p>
+
 
 (BLE, 2024b, S. 28)
 
