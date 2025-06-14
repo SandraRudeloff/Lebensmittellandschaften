@@ -13,7 +13,11 @@ title: "Möhren Informationen"
 
 ## Gemüseanbau
 In Deutschland werden verschiedene Gemüsearten angebaut, in folgender Grafik wird eine Übersicht dargestellt:
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Gemueseanbau-Deutschland.png" alt="Gemüseanbau in Deutschland 2023" style="width:90%;">
+</p>
+
 (Bundesinformationszentrum Landwirtschaft, o. J.)
 
 Möhren sind eins der am meisten angebauten Gemüsesorten (nach Anbaufläche) in Deutschland und können regional angebaut werden und sind fast das ganze Jahr verfügbar. Sie sind eins der am beliebtesten Wintergemüse (Jarrens, o. J.).
@@ -32,7 +36,11 @@ Ebenso ist es wichtig, dass Gemüsekulturen im Freilandanbau in einer Art Frucht
 
 ## Wertschöpfungskette
 Eine erste Idee der Wertschöpfungskette für Möhren bietet folgende Abbildung von Hart et al. (2007, S. 10):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Supply-chain-map-for-fresh-vegetables-in-Germany.png" alt="Wertschöfpungskette von frischem Gemüse in Deutschland" style="width:90%;">
+</p>
+
 
 
 
