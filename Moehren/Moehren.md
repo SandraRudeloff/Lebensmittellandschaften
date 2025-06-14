@@ -44,6 +44,6 @@ Link Schaubild
 
 ÄNDERN
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Aepfel.md %} 
+{% include Literaturverzeichnis-Moehren.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
