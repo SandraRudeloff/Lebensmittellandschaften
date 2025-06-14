@@ -10,7 +10,11 @@ title: "Möhrenaufbereitung"
 3. Qualitätscheck
 4. Verpacken
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Waschmoehren-Aufbereitung.png" alt="Aufbereitung von Waschmöhren" style="width:90%;">
+</p>
+
+
 
 - Die unterschiedlichen Schritte werden oft von unterschiedlichen Betrieben durchgeführt, so gibt es Waschbetriebe, Sortierbetriebe, Kontrollbetriebe (Qualitätsprüfung), und Handelsbetriebe. Die Betriebe spezialisieren sich auf einen Schritt. Selten finden diese Schritte direkt beim Erzeuger statt (Meyer et al., 2018). 
 - Möhren werden in zwei verschiedenen Wegen vermarktet: Zum einen die Möhren, welche in frischer Form genutzt werden, zum anderen die Möhren, welche weiterverarbeitet werden. Frische Möhren gehen nach der Möhrenaufbereitung direkt weiter in den Verkauf und die Distribution (Garming, 2023; Klockgether et al., 2016)
@@ -26,7 +30,11 @@ title: "Möhrenaufbereitung"
 - Die aussortierten Möhren werden entweder als Futtermöhren für Pferde und Rinder verkauft, an Biogasanlagen vermarktet oder teilweise an Safthersteller geliefert. Dies geschieht zu einem geringeren Preis als Frischmöhren für den Lebensmitteleinzelhandel (Land schafft Leben, o. J.). Safthersteller verwerten aussortierte Möhren sogar LKW-weise als Schüttgut (Klockgether, 2016). 
 - Es wird angenommen, dass ungefähr 7-10% der Möhren als Industrie- und Futtermöhren verwendet werden, da sie aussortiert wurden. Experten vermuten, dass diese oft jedoch verzehrfähig sind, jedoch nicht den Schönheitsidealen der Verbraucher entsprechen (Klockgether, 2016). 
 - In der EU gilt der allgemeine Vermarktungsform für Gemüse, welche im folgenden Bild gezeigt wird (Meyer et al., 2018, S. 13): 
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="EU-Vermarktungsform.png" alt="Allgemeine Vermarktungsform der EU" style="width:90%;">
+</p>
+
 
 - Faktoren die die Qualität beeinflussen (Klockgether, 2016):
 
