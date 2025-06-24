@@ -26,7 +26,6 @@ Link Schaubild
 **Weitere Wichtige Informationen**
 
 - [Haltbarkeit von Milch](Weitere-Wichtige-Informationen/Haltbarkeit-von-Milch.html)
-- [Historische Schwierigkeiten](Historische-Schwierigkeiten.html)
  
 
 <br>
