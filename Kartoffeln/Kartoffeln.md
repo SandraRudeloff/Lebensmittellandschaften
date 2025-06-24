@@ -30,7 +30,6 @@ Link Schaubild
 
 [**Weitere Wichtige Informationen**](Weitere-Wichtige-Informationen.html)
 
-- [Historische Schwierigkeiten](Historische-Schwierigkeiten.html)
  
 
 
