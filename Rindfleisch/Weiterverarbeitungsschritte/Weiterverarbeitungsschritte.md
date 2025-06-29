@@ -3,7 +3,9 @@ title: "Weiterverarbeitungsschritte"
 ---
 
 - Fast das gesamte Rind wird verwendet - von Filet und Steak bis hin zu Haut und Organen:
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Verwertung-Rind.png" alt="Verwertung Rind" style="width:90%;">
+</p>
 
 (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023, S. 61).
 
