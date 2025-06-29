@@ -6,7 +6,7 @@ Link Schaubild
 
 ## Links zu allen Unterseiten:
 
-[**Rindfleisch Informationen**](Rindfleisch-Informationen.html)
+[**Rindfleisch Informationen**](Rindfleisch-Information.html)
 
 **Nutztierhaltung**
 
