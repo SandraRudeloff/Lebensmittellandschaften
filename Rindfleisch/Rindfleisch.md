@@ -41,6 +41,6 @@ Link Schaubild
 <br> 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Rindfleisch.md %} 
+{% include Literaturverzeichnis-Rindfleisch.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
