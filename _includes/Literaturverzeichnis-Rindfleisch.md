@@ -1,0 +1,33 @@
+# Literaturverzeichnis
+
+- *30 Jahre „Fleischkiste“ – die Erfolgsgeschichte eines der größten Mehrwegsysteme Europas.* (2021, September 1). Fokus Fleisch. <https://www.fokus-fleisch.de/30-jahre-rote-fleischkiste-die-erfolgsgeschichte-des-gr%C3%B6%C3%9Ften-mehrwegsystems-europas>
+- Albert Schweitzer Stiftung für unsere Mitwelt. (o. J.). *Tiertransporte: Zahlen und Fakten.* Albert-Schweitzer-Stiftung. Abgerufen 25. Juni 2025, von <https://albert-schweitzer-stiftung.de/massentierhaltung/tiertransporte-zahlen-fakten>
+- BLE. (2025). *Bericht zur Markt- und Versorgungslage mit Fleisch 2025.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2025.pdf>
+- BMEL. (o. J.-a). *Rinderhaltung.* BMEL-Statistik. Abgerufen 17. Mai 2025, von <https://www.bmel-statistik.de/landwirtschaft/tierhaltung/rinderhaltung>
+- BMEL. (o. J.-b). *Schlachten und Fleischverarbeitung.* BMEL-Statistik. Abgerufen 16. Mai 2025, von <https://www.bmel-statistik.de/ernaehrung/ernaehrungsgewerbe/schlachten-und-fleischverarbeitung>
+- BMEL. (2023, Mai 4). *Rinder.* BMEL. <https://www.bmel.de/DE/themen/tiere/nutztiere/rinder/rinder.html>
+- BMEL. (2025, Mai 12). *BSE - Bovine Spongiforme Enzephalopathie.* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/bse.html>
+- Bronsema, H., Ewigmann, B., & Theuvsen, L. (2015). Rahmenbedingungen und Entwicklungsperspektiven der Bullenmast mit Fokus auf den Erzeugungszentren. *Berichte über Landwirtschaft - Zeitschrift für Agrarpolitik und Landwirtschaft.* <https://doi.org/10.12767/buel.v93i1.68>
+- Brüggemann, D. H. (2011). *Anpassungsmöglichkeiten der deutschen Rindermast an die Liberalisierung der Agrarmärkte.* Johann Heinrich von Thünen-Institut. <https://www.thuenen.de/media/publikationen/landbauforschung-sonderhefte/lbf_sh345.pdf>
+- Bundesinformationszentrum Landwirtschaft. (2022, April 29). *Rindermast in Deutschland – Ein Überblick.* Nutztierhaltung.de. <https://www.nutztierhaltung.de/rind/mast/>
+- Bundesinformationszentrum Landwirtschaft. (2024a, Februar 5). *Wie lange leben Rind, Schwein, Schaf und Huhn?* Landwirtschaft.de. <https://www.landwirtschaft.de/tier-und-pflanze/tier/nutztiere-allgemein/wie-lange-leben-rind-schwein-schaf-und-huhn#>
+- Bundesinformationszentrum Landwirtschaft. (2024b, Februar 6). *Gülle und Jauche—Alles Mist?* Landwirtschaft.de. <https://www.landwirtschaft.de/umwelt/duengung-und-pflanzenschutz/duengung/guelle-und-jauche-alles-mist>
+- Bundesinformationszentrum Landwirtschaft. (2024c, April 19). *Ist Rind und Kuh das Gleiche?* Landwirtschaft.de. <https://www.landwirtschaft.de/tier-und-pflanze/tier/rinder/ist-rind-und-kuh-das-gleiche>
+- Bundesinformationszentrum Landwirtschaft. (2024d, August 27). *Rindfleisch.* Landwirtschaft.de. <https://www.landwirtschaft.de/einkauf/lebensmittel/tierische-lebensmittel/rindfleisch#>
+- Bundesinformationszentrum Landwirtschaft. (2024e, Oktober 12). *Tiertransporte.* Landwirtschaft.de. <https://www.landwirtschaft.de/tier-und-pflanze/tier/nutztiere-allgemein/tiertransporte>
+- Deblitz, C., Agethen, K., Efken, J., Tergast, H., Ellßel, R., Hansen, H., von Davier, Z., Thobe, P., Chibanda, C., & Koch, S. (2024, April 12). *Nutztierhaltung und Fleischproduktion in Deutschland.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/de/themenfelder/nutztierhaltung-und-aquakultur/nutztierhaltung-und-fleischproduktion-in-deutschland>
+- Deblitz, C., & Zavyalova, K. (2024). *Steckbriefe zur Tierhaltung in Deutschland: Mastrinder* (Steckbriefe zur Tierhaltung in Deutschland). Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/media/ti-themenfelder/Nutztierhaltung_und_Aquakultur/Haltungsverfahren_in_Deutschland/Rindermast/Steckbrief_Mastrinder_2024.pdf>
+- Deutscher Bauernverband (with Pascher, D. P., & Rukwied, J.). (2023). *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage). Deutscher Bauernverband e.V.
+- *Fokus Fleisch Report zur deutschen Fleischwirtschaft.* (2023). Fokus Fleisch. <https://www.fokus-fleisch.de/assets/uploads/downloads/fokus-fleisch-report-fleischwirtschaft_2023-05-24-131337.pdf>
+- *Labore.* (o. J.). LAND.SCHAFT.WERTE. Abgerufen 17. Mai 2025, von <https://landschafftwerte.de/wertschoepfung/labore/>
+- *Nährstoffverwertung.* (o. J.). LAND.SCHAFT.WERTE. Abgerufen 17. Mai 2025, von <https://landschafftwerte.de/wertschoepfung/naehrstoffverwertung/>
+- *Schlachtung.* (o. J.). LAND.SCHAFT.WERTE. Abgerufen 17. Mai 2025, von <https://landschafftwerte.de/wertschoepfung/schlachtung/>
+- Skrypczak, V., Biedermann, M., Eggert-Satzinger, C., Ehrenhofer-Zettler, M., Herzog, K., Koßmann, S., Meyer, K., Miebach, A., Poike, A., Thormann, M., Walter, J., & Wilk, I. (2024). *Handbuch Tiertransporte.* <https://www.fli.de/fileadmin/FLI/Service/Kontaktstelle_TierSchlV/Handbuch_Tiertransporte_Stand-01-2024.pdf>
+- Tergast, H., Neuenfeldt, S., & Bergschmidt, A. (2023, Juli 27). *Rinder in Anbindehaltung.* Thünen-Institut für Betriebswirtschaft. <https://www.thuenen.de/de/themenfelder/nutztierhaltung-und-aquakultur/nutztierhaltung-und-fleischproduktion-in-deutschland/anbindehaltung-in-der-rinderhaltung>
+- Thielking, H. (o. J.). *Dry Aged Beef — Trocken und langsam gereift.* Bundesverband der Lebensmittelkontrolleure Deutschlands e.V. Abgerufen 25. Juni 2025, von <https://bvlk.de/news/dry-aged-beef-trocken-und-langsam-gereift.html>
+- *Trockenfleisch — Beef Jerky.* (o. J.). Bundesverband der Lebensmittelkontrolleure Deutschlands e.V. Abgerufen 29. Juni 2025, von <https://bvlk.de/news/trockenfleisch-beef-jerky.html>
+- *Viehhandel und Logistik.* (o. J.). LAND.SCHAFT.WERTE. Abgerufen 17. Mai 2025, von <https://landschafftwerte.de/wertschoepfung/viehhandel-und-logistik/>
+- Vion Food Group. (o. J.). *Reportage Produktionsprozess Rindfleisch.* Abgerufen 17. Mai 2025, von <https://www.vion-transparency.com/de/wie-wir-produzieren/produktionsprozess-rindfleisch/>
+- *Wertschöpfungskette.* (o. J.). LAND.SCHAFT.WERTE. Abgerufen 17. Mai 2025, von <https://landschafftwerte.de/wertschoepfung/>
+- Zinke, O. (2024, April 24). *Schlachthöfe schließen reihenweise: Fleischkrise, Agrarkrise - Strukturbruch* [Text]. agrarheute.com. <https://www.agrarheute.com/management/agribusiness/sterben-schlachthoefe-fleischkrise-fuer-bauern-fiasko-619513>
+ 
