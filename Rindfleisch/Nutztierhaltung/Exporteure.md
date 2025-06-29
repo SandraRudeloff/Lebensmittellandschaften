@@ -6,10 +6,16 @@ title: "Exporteure"
 - In Deutschland weniger beliebte Rinderteile werden nach Ostasien exportiert, denn dort gelten sie als Delikatessen. Dazu zählen unter anderem Rinderfüße und -ohren sowie Innereien wie Mägen und Nieren (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023).
 - Der Handel mit Frankreich ist nennenswert, denn Deutschland importiert überwiegend Jungbullenfleisch aus Frankreich und exportiert Kuhfleisch nach Frankreich (Deblitz & Zavyalova, 2024).
 - Die folgende Grafik zeigt eine Übersicht der Top Exportdestinationen von deutschem Rindfleisch (Deblitz & Zavyalova, 2024, S. 5):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Exportlaender-Rindfleisch.png" alt="Top 5 Exportdestinationen für deutsches Rindfleisch" style="width:90%;">
+</p>
+
 
 - 2024 wurden 38,000 Tonnen Schlachtgewicht an lebenden Tieren exportiert und 551,000 Tonnen Schlachtgewicht an Fleisch exportiert (siehe folgende Abbildung, BLE, 2025, S. 19):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Aussenhandel-Rindfleisch.png" alt="Außenhandel Fleisch" style="width:90%;">
+</p>
+
 
 
 
