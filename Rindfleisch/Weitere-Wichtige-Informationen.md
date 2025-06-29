@@ -8,7 +8,9 @@ title: "Weitere Wichtige Informationen"
 - **Silage:** Hier werden überwiegend Jungbullen gehalten, die neben Raufutter zusätzlich Energie- und Kraftfutter bekommen (Deblitz & Zavyalova, 2024).
 - **Feedlot:** Im Feedlot ist der Fokus auf der Getreidemast (Deblitz & Zavyalova, 2024).
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Haltungssysteme.png" alt="Haltungssysteme in der Rindermast" style="width:90%;">
+</p>
 (Deblitz & Zavyalova, 2024, S. 12).
 
 
@@ -26,7 +28,9 @@ In Deutschland ist die Intensivmast am meisten verbreitet, da sie besonders gut 
 - 95% des Futters werden in Deutschland aus heimischer Erzeugung hergestellt, insbesondere das Raufutter, welches überwiegend für die Wirtschaftsmast gebraucht wird (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023). 
 - Einen weiteren wichtigen Beitrag zur Nutztierfütterung leisten ebenfalls Erntereste und Nebenprodukte aus der Lebensmittelherstellung, wie Zuckerrübenschnitzel, Trester und Biertreber. Teilweise werden auch Zwischenfrüchte aus der Fruchtfolge an Tiere verfüttert (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023). 
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Regionalitaet-Nutzfutter.png" alt="Nutzfutter ist regional" style="width:90%;">
+</p>
 (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023, S. 20) 
 
 
@@ -72,7 +76,9 @@ Rinderrassen werden nach Nutzungsrichtung unterschieden: Milchnutzungsrassen, Fl
 Die am weitesten verbreitete Milchnutzungsrasse ist die Deutsche Holstein, vor allem schwarze und rotbraune. Sie machen 94% aller Milchkühe aus (BMEL, o. J.-a). 
 Häufige Fleischnutzungsrassen sind Limosin, Charolis und Deutscher Angus (BMEL, o. J.-a).
 Bekannte Doppelnutzungsrassen sind Fleck- und Braunvieh. Fleckvieh macht 67% aus (BMEL, o. J.-a).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Viehbestand-Rassen.png" alt="Rinderbestand nach Nutzungsrichtung und Rinderrassen" style="width:90%;">
+</p>
 
 (BMEL, o. J.-a).
 
