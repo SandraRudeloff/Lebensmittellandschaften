@@ -13,12 +13,15 @@ title: "Rinderhaltung"
 
 - Die regionalen Schwerpunkte der Rinderhaltung liegen in Bayern (2.7 Millionen Rinder), Niedersachsen (2.2 Millionen Rinder) und Nordrhein-Westfahlen (1.2 Millionen Rinder; Stand November 2024) (BLE, 2025; BMEL, o. J.-a; Bundesinformationszentrum Landwirtschaft, 2024d). Diese Daten werden auch in der folgenden Grafik dargestellt (BLE, 2025, S. 11):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Rinderbestaende-Karte.png" alt="Rinderbestände in Deutschland 2024" style="width:90%;">
+</p>
 
 - Speziell bei Mastbullen ist 2023 Niedersachsen das Bundesland mit den meisten Tieren. Die folgende Karte zeigt dies detaillierter auf Kreisebene (Deblitz & Zavyalova, 2024, S. 9):
 
-**BILD EINFÜGEN**
-
+<p align="center">
+  <img src="Rinderbestaende-Karte-Mastbullen.png" alt="Regionale Verteilung der Mastbullen in Deutschland 2023" style="width:90%;">
+</p>
 
 ## Selbstversorgungsgrad
 Der Selbstversorgungsgrad (SVG) lag 2024 bei 108% (BLE, 2025).
@@ -31,12 +34,16 @@ Bei den Rinderbeständen ist es wichtig verschiedene Kategorien zu berücksichti
 - 7% männliche Nutz- und Zuchtrinder (1-2 Jahre).
 
 Die folgende Grafik zeigt die kompletten Daten (BLE, 2025, S. 10):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Rinderbestaende-Kategorien.png" alt="Rinderbestände nach Kategorien 2024" style="width:90%;">
+</p>
 
 
 Die Rindfleischerzeugung wird von zwei Tierkategorien geprägt: Bullen (45%) und Kühen (32%). Bei den Bullen ist es meist Jungbullenfleisch (1-2 Jahre alt) und die Kühe, sind meist Alt-Kühe, welche bei der Bestandsergänzung der Milchkuh- und Mutterkuhherden anfallen (Bundesinformationszentrum Landwirtschaft, 2024d; Deblitz & Zavyalova, 2024). Die nachfolgende Grafik zeigt weitere Details (Deblitz & Zavyalova, 2024, S. 6):
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Rinderbestaende-Kategorien-2.png" alt="Zusammensetzung der deutschen Rindfleischproduktion 2023" style="width:90%;">
+</p>
 
 
 Dies hat den Hintergrund, dass es eine hohe Verknüpfung von der Rindfleischproduktion und Milchviehhaltung gibt. Kälber und Rinder, die nicht für die Reproduktion der Milchviehherden benötigt werden, werden der Rindfleischerzeugung zugeführt. Ebenso Kühe, die zu alt für die Milchproduktion sind (meist Kühe älter als 5 Jahre) (Bundesinformationszentrum Landwirtschaft, 2024d). 
