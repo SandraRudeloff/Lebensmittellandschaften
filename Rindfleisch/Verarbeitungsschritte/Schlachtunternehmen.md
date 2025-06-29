@@ -40,7 +40,9 @@ title: "Schlachtunternehmen"
 
 ## Regionale Verteilung von Rinderschlachtkapazitäten
 - Die folgende Karte zeigt einen Überblick der regionalen Schlachtkapazitäten. Zusätzlich können die Infos aus der Sektion "Akteurs Infos" genutzt werden, um tiefgreifendere Informationen über regionale Verteilungen zu gelangen, besonders um die aktuellen Verhältnisse widerzuspiegeln:
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Regionalitaet-Schlachthoefe.png" alt="Regionale Verteilung von Rinderschlachthöfen in Deutschland 2008" style="width:90%;">
+</p>
 
 (Brüggemann, 2011, S. 27).
 
@@ -48,11 +50,17 @@ title: "Schlachtunternehmen"
 ## Akteurs Infos
 - Vion Food Germany dominiert die Rinderschlachtung in Deutschland mit 558.000 geschlachteten Rindern in 2023. Im Vergleich schlachtete Westfleisch 380.000 Rinder und Tönnies 361.000 Rinder (BLE, 2025).
 - Die Top 10 Schlachtunternehmen in Deutschland haben einen Anteil von 77,2% der gesamten Rinderschlachtungen in Deutschland (2022) (BLE, 2025).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Top10-Schlachtunternehmen.png" alt="Top 10 Rinderschlachtunternehmen" style="width:90%;">
+</p>
+
 (Deutscher Bauernverband, 2023, S. 31)
 
 - Auf der Website "BMEL: Schlachten und Fleischverarbeitung" ist eine Karte mit der regionalen Verteilung von Betrieben mit einer Zulassung für gewerbliche Schlachtungen in Deutschland. Diese kann für verschiedene Fleischarten gefiltert werden, zum Beispiel Rind und Schwein und sobald man über die Punkte wischt, werden Ort, Name und Adresse angezeigt (BMEL, o. J.-b). Folgend ist ein Screenshot der Karte zu sehen:
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Rinderschlachtbetriebe-Karte.png" alt="Interaktive Karte über Rinderschlachtbetriebe" style="width:90%;">
+</p>
+
 
 
 
