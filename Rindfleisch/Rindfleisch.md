@@ -24,7 +24,7 @@ Link Schaubild
 - [Schlachtunternehmen](Verarbeitungsschritte/Schlachtunternehmen.html)
 - [Zerlegungsbetriebe](Verarbeitungsschritte/Zerlegungsbetriebe.html)
 
-[**Weiterverarbeitungsschritte**](Weiterverabeitungsschritte/Weiterverarbeitungsschritte.html)
+[**Weiterverarbeitungsschritte**](Weiterverarbeitungsschritte/Weiterverarbeitungsschritte.html)
 
 - [Lebensmittel Industrie](Weiterverarbeitungsschritte/Lebensmittel-Industrie.html)
 - [Industrielle Zwecke](Weiterverarbeitungsschritte/Industrielle-Zwecke.html)
