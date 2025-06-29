@@ -3,7 +3,7 @@ title: "Exporteure"
 ---
 
 - Der Export von Fleisch und lebenden Rindern nach Deutschland findet überwiegend mit EU-Nachbarstaaten statt, vor allem den Niederlanden (22,1% der Exporte). Weitere wichtige Exportländer sind Italien (12,1%), Frankreich (11,9%) und Dänemark (8,1%) (BLE, 2025).
-- In Deutschland weniger beliebte Rinderteile werden nach Ostasien exportiert, denn dort gelten sie als Delikatessen. Dazu zählen unter anderem Rinderfüße und -ohren sowie Innereien wie Mägen und Nieren (Fokus Fleisch Report zur deutschen Fleischwirtschaft, 2023).
+- In Deutschland weniger beliebte Rinderteile werden nach Ostasien exportiert, denn dort gelten sie als Delikatessen. Dazu zählen unter anderem Rinderfüße und -ohren sowie Innereien wie Mägen und Nieren (*Fokus Fleisch Report zur deutschen Fleischwirtschaft*, 2023).
 - Der Handel mit Frankreich ist nennenswert, denn Deutschland importiert überwiegend Jungbullenfleisch aus Frankreich und exportiert Kuhfleisch nach Frankreich (Deblitz & Zavyalova, 2024).
 - Die folgende Grafik zeigt eine Übersicht der Top Exportdestinationen von deutschem Rindfleisch (Deblitz & Zavyalova, 2024, S. 5):
 **BILD EINFÜGEN**
