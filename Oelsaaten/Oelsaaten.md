@@ -10,7 +10,7 @@ Link Schaubild
 
 [**Pflanzenanbau**](Pflanzenanbau/Pflanzenanbau.html)
 
-- [Oelsaatenanbau](Pflanzenanbau/Oelsaatenanbau.html)
+- [Ölsaatenanbau](Pflanzenanbau/Oelsaatenanbau.html)
 - [Importeure](Pflanzenanbau/Importeure.html)
 - [Exporteure](Pflanzenanbau/Exporteure.html)
 
