@@ -16,6 +16,6 @@ Link Schaubild
 <br> 
 
 {% capture literaturverzeichnis %} 
-{% include Literaturverzeichnis_Aepfel.md %} 
+{% include Literaturverzeichnis-Oelsaaten.md %} 
 {% endcapture %} 
 {{ literaturverzeichnis | markdownify }}
