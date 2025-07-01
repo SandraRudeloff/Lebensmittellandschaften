@@ -8,7 +8,9 @@ title: "Weiterverarbeitungsschritte"
 - 1% an den Großhandel,
 - 4% Industrie (BLE, 2024b).
 
-
+<p align="center">
+  <img src="Verwendung-Zucker.png" alt="Inlandsabsatz der Zuckerfabriken und Handelsunternehmen 2022/2023" style="width:90%;">
+</p>
 
 (BLE, 2024b, S. 19).
 
