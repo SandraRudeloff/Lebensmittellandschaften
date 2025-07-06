@@ -36,5 +36,5 @@ In 80% aller Produkte des täglichen Bedarfs sind Ölsaaten (i.m.a - information
 
 ## Referenzen
 - BLE. (2024). *Bericht zur Markt- und Versorgungslage Ölsaaten, Öle und Fette—2024.* <https://www.bmel-statistik.de/fileadmin/daten/0611030-2024.pdf>
-- i.m.a - information.medien.agrar e.V. (2022). *Ölsaaten im Alltag entdecken.* lebens.mittel.punkt, 50. <https://www.ima-agrar.de/wissen/unterrichtsbausteine/attachment/580/24>
+- i.m.a - information.medien.agrar e.V. (2022). Ölsaaten im Alltag entdecken. *lebens.mittel.punkt, 50.* <https://www.ima-agrar.de/wissen/unterrichtsbausteine/attachment/580/24>
 - OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V. (2018). *10 Fakten: Ölsaaten und ihre Produkte.* Ovid-Verband.de. <https://www.ovid-verband.de/fileadmin/user_upload/Hintergrundpapiere/2018_10_Fakten_%C3%BCber_die_Welt_der_%C3%96lsaaten.pdf>
