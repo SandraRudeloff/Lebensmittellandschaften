@@ -5,22 +5,31 @@ title: "Ölsaaten Informationen"
 - Ölsaaten und Fette sind ein fundamentaler Bestandteil der menschlichen Ernährung. Dabei kann zwischen verschiedenen Arten von Ölen und Fetten unterschieden werden: Tierische Fette (Verarbeitung zu Schmalz und Talg) und Ölsaaten, besonders Raps in Deutschland (BLE, 2024).
 - **Raps** ist die am meisten angebaute und **wichtigste Ölsaat in Deutschland** (BLE, 2024), weshalb im weiteren Verlauf der Fokus auf Raps gelegt wird. Dies wird auch in der folgenden Abbildung deutlich: 
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Raps-Anteil-Oelgewinnung.png" alt="Überblick über die prozentualen Anteile von Raps und Rübsen und sonstigen Pflanzen zur
+Ölgewinnung an verschiedenen Parametern in Deutschland, Wirtschaftsjahr 2022/23" style="width:90%;">
+</p>
 (BLE, 2024, S. 8).
 
 
 ## Wertschöpfungskette
 - Einen ersten Überblick über die Wertschöpfungskette von Ölsaaten und Fetten wird im folgenden Bild dargestellt (BLE, 2024, S. 6):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oelsaaten-Wertschoepfungskette.png" alt="Wertschöpfungskette von Ölsaaten und tierischen Fetten" style="width:90%;">
+</p>
 
 - Ebenso wird in dem Bericht über Ölsaaten eine Stoffstromanalyse abgebildet, welche ebenfalls relevant für die Ölsaaten Landschaft ist (BLE, 2024, S. 7):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oelsaaten-Stoffstrom.png" alt="Stoffstromanalyse von Ölsaaten in Deutschland" style="width:90%;">
+</p>
 
 
 ## Was sind Ölsaaten?
 "Ölsaaten sind Pflanzen, deren Samen der Erzeugung von Öl dienen. Dazu zählen unter anderem **Raps und Rübsen, Sonnenblumen, Sojabohnen und Öl-Lein (Leinsamen)**. Die weltweit bedeutendsten Ölsaaten sind Sojabohnen und Raps. In Deutschland haben Raps und Rübsen den größten Anteil am Anbau von Ölsaaten. Darauf folgen Sonnenblumen und Sojabohnen. Bei der Ölgewinnung bleiben Ölkuchen und –schrote als Nebenprodukt, auch Koppelprodukt genannt, übrig. Diese verfüttern Landwirtinnen und Landwirte als eiweißreiches Futtermittel an Nutztiere." (BMEL, o. J.). 
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Rapspflanze.png" alt="Dei Rapspflanze" style="width:90%;">
+</p>
 (Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-c)
 
 - **Blüte:** Sie lockt im Frühling Bienen an und blüht von Ende April bis Anfang Mai, circa 3 Wochen lang (Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-c)
