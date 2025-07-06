@@ -10,7 +10,9 @@ title: "Ölsaatenanbau"
 ## Anbauflächen und -regionen
 - In Deutschland werden auf 1,178 Millionen Hektar Raps (fast ausschließlich Winterraps) angebaut (BLE, 2024). Dies entspricht ungefähr 7% der landwirtschaftlichen Nutzfläche in Deutschland (BMEL, o. J.).
 - Mecklenburg-Vorpommern hat die größte Anbaufläche von Raps in Deutschland (205.400 Hektar), gefolgt von Sachsen-Anhalt (137.200 Hektar), **Niedersachsen (115.000 Hektar)**, und Sachsen (113.000 Hektar) (BLE, 2024, S. 9).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Raps-Anbauflaeche.png" alt="Winterrapsanbaufläche in Deutschland" style="width:90%;">
+</p>
 
 
 ## Rapszahlen
@@ -19,7 +21,9 @@ title: "Ölsaatenanbau"
 - Der mittlere Erzeugerpreis für Raps lag 2023/2024 bei 409€/Tonne, welches einen deutlichen Rückgang zum Vorjahr darstellt (-46%) (BLE, 2024).
 - Auf einem Hektar Raps ist ein durchschnittlicher Ertrag von 3,4 Tonnen Rapssamen, woraus 1.450 Liter Rapsöl entstehen, die wiederum 1.400 Liter Biodiesel liefern (Bundesinformationszentrum Landwirtschaft, 2024). 
 - Diese Daten werden ebenfalls in einer Abbildung des OVID dargestellt (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 6):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="1-Hektar-Raps.png" alt="Was wird aus einem Hektar Raps" style="width:90%;">
+</p>
 
 
 <br>
