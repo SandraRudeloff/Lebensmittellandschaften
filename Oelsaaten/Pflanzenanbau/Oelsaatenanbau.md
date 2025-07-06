@@ -22,7 +22,7 @@ title: "Ölsaatenanbau"
 - Auf einem Hektar Raps ist ein durchschnittlicher Ertrag von 3,4 Tonnen Rapssamen, woraus 1.450 Liter Rapsöl entstehen, die wiederum 1.400 Liter Biodiesel liefern (Bundesinformationszentrum Landwirtschaft, 2024). 
 - Diese Daten werden ebenfalls in einer Abbildung des OVID dargestellt (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 6):
 <p align="center">
-  <img src="1-Hektar-Raps.png" alt="Was wird aus einem Hektar Raps" style="width:90%;">
+  <img src="1-Hektar-Raps.png" alt="Was wird aus einem Hektar Raps" style="width:55%;">
 </p>
 
 
