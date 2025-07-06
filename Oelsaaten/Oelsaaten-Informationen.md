@@ -28,7 +28,7 @@ title: "Ölsaaten Informationen"
 "Ölsaaten sind Pflanzen, deren Samen der Erzeugung von Öl dienen. Dazu zählen unter anderem **Raps und Rübsen, Sonnenblumen, Sojabohnen und Öl-Lein (Leinsamen)**. Die weltweit bedeutendsten Ölsaaten sind Sojabohnen und Raps. In Deutschland haben Raps und Rübsen den größten Anteil am Anbau von Ölsaaten. Darauf folgen Sonnenblumen und Sojabohnen. Bei der Ölgewinnung bleiben Ölkuchen und –schrote als Nebenprodukt, auch Koppelprodukt genannt, übrig. Diese verfüttern Landwirtinnen und Landwirte als eiweißreiches Futtermittel an Nutztiere." (BMEL, o. J.). 
 
 <p align="center">
-  <img src="Rapspflanze.png" alt="Dei Rapspflanze" style="width:90%;">
+  <img src="Rapspflanze.png" alt="Dei Rapspflanze" style="width:40%;">
 </p>
 (Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-c)
 
