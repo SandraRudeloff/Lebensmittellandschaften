@@ -38,6 +38,6 @@ Zuletzt wird das Öl bei hohen Temperaturen zwischen 180°C und 270°C unter Vak
 
 ## Referenzen
 - BLE. (2024). *Bericht zur Markt- und Versorgungslage Ölsaaten, Öle und Fette—2024.* <https://www.bmel-statistik.de/fileadmin/daten/0611030-2024.pdf>
-- i.m.a - information.medien.agrar e.V. (2022). *Ölsaaten im Alltag entdecken.* lebens.mittel.punkt, 50. <https://www.ima-agrar.de/wissen/unterrichtsbausteine/attachment/580/24>
+- i.m.a - information.medien.agrar e.V. (2022). Ölsaaten im Alltag entdecken. *lebens.mittel.punkt, 50.* <https://www.ima-agrar.de/wissen/unterrichtsbausteine/attachment/580/24>
 - OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V. (o. J.-b). *Die Pflanzenölraffination.* Ovid-Verband.de. Abgerufen 12. Juni 2025, von <https://www.ovid-verband.de/unsere-themen/verarbeitung/pflanzenoelraffination?zu_Pflanzen%C3%B6lraffination=&cHash=6db67af8efc85e4990fbf307d56f6ed0>
 - Union zur Förderung von Oel- und Proteinpflanzen e. V. (o. J.-c). *Raps – vom Feld in unseren Alltag.* UFOP.de. Abgerufen 12. Juni 2025, von <https://www.ufop.de/agrar-info/verbraucher-info/steckbriefe/raps/>
