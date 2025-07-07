@@ -5,14 +5,18 @@ title: "Verarbeitungsschritte"
 - Die Verarbeitung von Ölsaaten wird fast ausschließlich in Ölmühlen zur Öl- und Schrotgewinnung durchgeführt (99%) und nur in einem sehr geringen Maß (1%) direkt zur Mischfutterherstellung (BLE 2024). Die Mischfutterhersteller benutzen meist Nebenprodukte der Ölmühlen (z. B. Schrot und Ölkuchen) und nicht frisch geerntete Ölsaaten, weshalb die Prozentzahl so gering bei der direkten Verarbeitung ist (BLE, 2024).
 - 2023 wurden 9,5 Millionen Tonnen Raps verarbeitet (ungefähr 1/3 aus heimischer Ernte). Daraus entstanden 4,2 Millionen Tonnen Rapsöl, wovon ungefähr 1/4 für Nahrungszwecke im Inland verwendet wurde. Der Rest wurde für Energie, Futteröle und die Industrie genutzt (Bundesinformationszentrum Landwirtschaft, 2024).
 - Nachfolgende Grafik zeigt einen Überblick über die Mengen bei der Verarbeitung von Ölsaaten und Raps, sowie die Herstellungsmengen von Rohöl und Rapsöl in Deutschland:
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oelsaaten-Verarbeitung-Entwicklung.png" alt="Entwicklung der Verarbeitung von Ölsaaten und der Herstellung von Öl bei deutschen Ölmühlen in 1000 t von 2017 bis 2023" style="width:90%;">
+</p>
 
 (BLE, 2024, S. 19).
 
 
 ## Akteurs Infos / Regionale Verteilung
 - Im Norden Deutschlands sind die meisten Verarbeitungsbetriebe für Ölsaaten angesiedelt, welches in der folgenden Tabelle detailliert beschrieben wird (BLE, 2024, S. 20):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oelsaaten-Verarbeitung-Regionen.png" alt="Ölsaatenverarbeitung nach Regionen in Ölmühlen und bei Mischfutterherstellern in t und Anzahl der Betriebe, 2023" style="width:90%;">
+</p>
 
 - 6 der 121 meldenden Betriebe haben einen Marktanteil von 61,9% (BLE, 2024).
 - 86% der Betriebsstandorte verarbeiten lediglich 2,8% der Saaten (BLE, 2024).
