@@ -10,7 +10,9 @@ title: "Weiterverarbeitungsschritte"
 - Industrielle Verwertung - 3,42 Millionen Tonnen (60,1%) - Biodiesel, Oleo-chemische Produkte, Hydraulik- und Schmieröle
 
 - Raps wird zu verschiedenen Produkten weiterverarbeitet, die folgende Grafik stellt eine Übersicht dar (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 12):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Uebersicht-Rapsindustrie.png" alt="Übersicht der Rapsindustrie in Deutschland" style="width:90%;">
+</p>
 
 
 In 80% aller Produkte des täglichen Bedarfs sind Ölsaaten (i.m.a - information.medien.agrar e.V., 2022; OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018). Hier sind einige Beispiele:
@@ -20,7 +22,9 @@ In 80% aller Produkte des täglichen Bedarfs sind Ölsaaten (i.m.a - information
 - Biodiesel, und
 - Futtermittel.
 
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Weiterverarbeitung-von-Raps.png" alt="Produkte zu denen Raps/Rapsöl weiterverarbeitet wird in Deutschland" style="width:90%;">
+</p>
 
 
 (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 5).
