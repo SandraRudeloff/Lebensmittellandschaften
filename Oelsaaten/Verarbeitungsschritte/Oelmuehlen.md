@@ -9,13 +9,17 @@ title: "Ölmühlen"
 2. **Extraktionsöl**
 
 - Die folgende Grafik zeigt eine Übersicht über die Schritte beider Verfahren, welche im weiteren Verlauf detaillierter beschrieben werden (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., o. J.-a):
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Prozess_Oelsaatenverarbeitung.jpg" alt="Prozess der Ölsaatenverarbeitung" style="width:90%;">
+</p>
 
 
 ## Pressöl
 - Bei diesem Verfahren wird das Öl durch mechanischen Druck und einer Temperatur von maximal 40°C in Ölmühlen (meist dezentral) aus der Saat gepresst. Dabei entsteht ein natives Öl und Presskuchen (Nebenprodukt, auch Rapskuchen genannt) (BLE, 2024; Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-c).
 - Bei dem Pressölverfahren werden zwischen 88-90% des Öls extrahiert (Thuneke & Remmele, 2007).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oil-Production-Steps.png" alt="Herstellungsschritte von Pressöl" style="width:90%;">
+</p>
 
 (Thuneke & Remmele, 2007, S. 3).
 
@@ -26,15 +30,21 @@ title: "Ölmühlen"
 - Extraktionsöl wird mit Chemikalien (Hexane) hergestellt, welches bei der Herstellung von Pressöl nicht gebraucht wird (Engelmann et al., 2014). Damit Hexan nicht im Öl ist, muss dieses dann erhitzt werden, denn erst bei hohen Temperaturen verdampft Hexan. Dies verändert auch die Qualität des übrigbleibenden Schrots (Frauenhofer CBP, 2023).
 - Bitterstoffe aus den Schalen bleiben im Schrot (Frauenhofer CBP, 2023).
 - Am Ende hat man Öl mit Begleitstoffen und Extraktionsschrot (BLE, 2024).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oil-Production-Steps.png" alt="Rapsimporte nach Deutschland nach Ländern" style="width:90%;">
+</p>
 
 (Thuneke & Remmele, 2007, S. 3).
 
 
 ## Ölmühlen Zahlen und Standorte
 - In Deutschland gibt es 13 industrielle und 300 dezentrale Ölmühlen, diese werden auf der folgenden Karte dargestellt (Thuneke & Remmele, 2007, S. 2 & 3):
-**BILD EINFÜGEN**
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Oelmuehlen-Standorte.png" alt="Standorte von industriellen und dezentralen Ölmühlen in Deutschland" style="width:90%;">
+</p>
+<p align="center">
+  <img src="Oelmuehlen-Informationen.png" alt="Weitere Informationen über Ölmühlen in Deutschland" style="width:90%;">
+</p>
 
 - Weitere Infos über Ölmühlen Akteure sind auf der Seite "Verarbeitungsschritte", da die oben genannten Informationen bereits etwas älter sind.
 
