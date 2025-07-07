@@ -31,7 +31,7 @@ title: "Ölmühlen"
 - Bitterstoffe aus den Schalen bleiben im Schrot (Frauenhofer CBP, 2023).
 - Am Ende hat man Öl mit Begleitstoffen und Extraktionsschrot (BLE, 2024).
 <p align="center">
-  <img src="Oil-Production-Steps.png" alt="Rapsimporte nach Deutschland nach Ländern" style="width:90%;">
+  <img src="Oil-Production-Steps-2.png" alt="Rapsimporte nach Deutschland nach Ländern" style="width:90%;">
 </p>
 
 (Thuneke & Remmele, 2007, S. 3).
