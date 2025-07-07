@@ -42,12 +42,12 @@ title: "Ölsaaten Informationen"
 - Raps wächst besser, wenn es während des Anbaus mindestens einmal unter 5°C ist. Dies nennt sich **Vernalisation**, eine positive Reaktion auf Kältereize (Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-a).
 - Die optimalen Gegebenheiten von Raps können anhand der 40-9-2 Regel erklärt werden: 40% Ölgehalt, 9% Feuchte, und 2% Besatz (BLE, 2024).
 - Das "Rapsjahr" (Union zur Förderung von Oel- und Proteinpflanzen e. V., o. J.-a):
-
-August-September: Aussaat
-November-Februar: Überwintern
-Februar-März: Schossen - Düngung mit Stickstoff, welches ein schnelles Wachstum fördert
-April-Mai: Blüte - drei bis vier Wochen lang blüht der Raps, dann werden aus den Blüten kleine grüne Schoten, in denen die Rapskörner wachsen. In diesem Zusammenhang wirft der Raps seine Blätter auf den Boden ab. 
-Juli: Ernte - Circa 2 Monate nach der Blüte wird der Raps geerntet. Wo vorher grüne Schoten waren, sind nun dünne bräunliche Schoten, die bis zu 10cm lang sind. Sie haben jeweils 15-18 millimetergroße kugelige Samen, die bei völliger Reife schwarz sind. Raps wird mit einem Mähdrescher geerntet. 
+<br>
+August-September: Aussaat <br>
+November-Februar: Überwintern <br>
+Februar-März: Schossen - Düngung mit Stickstoff, welches ein schnelles Wachstum fördert <br>
+April-Mai: Blüte - drei bis vier Wochen lang blüht der Raps, dann werden aus den Blüten kleine grüne Schoten, in denen die Rapskörner wachsen. In diesem Zusammenhang wirft der Raps seine Blätter auf den Boden ab. <br>
+Juli: Ernte - Circa 2 Monate nach der Blüte wird der Raps geerntet. Wo vorher grüne Schoten waren, sind nun dünne bräunliche Schoten, die bis zu 10cm lang sind. Sie haben jeweils 15-18 millimetergroße kugelige Samen, die bei völliger Reife schwarz sind. Raps wird mit einem Mähdrescher geerntet. <br>
 
 
 ## Rapsöl
