@@ -5,7 +5,9 @@ title: "Industrielle Zwecke"
 - Rapsöl wird verwendet als Schmierstoff, Farbe, und in Kosmetika (Bundesinformationszentrum Landwirtschaft, 2024) sowie in Sonnencreme, Kettenfett, Druckfarbe, Waschmittel, und Kerzenwachs (i.m.a - information.medien.agrar e.V., 2022).
 - 13% der verarbeiteten Rohstoffe in der Chemie sind biogener Herkunft. 50% (887,000 Tonnen) davon sind Pflanzenöle. Sie sind zunehmend auch relevant für die Kunststoff-Produktion (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018).
 - 90% der Schmierstoffe sind mit Bioschmierstoffen aus Pflanzenöl abgedeckt (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018).
-**BILD EINFÜGEN**
+<p align="center">
+  <img src="Weiterverarbeitung-Industrielle-Zwecke.png" alt="Pflanzenöle sind in Chemie und Technik gefragt" style="width:90%;">
+</p>
 
 (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 10).
 
