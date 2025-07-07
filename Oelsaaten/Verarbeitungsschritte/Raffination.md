@@ -5,7 +5,10 @@ title: "Raffination"
 - Die Raffination ist die Entfernung von unerwünschten Saatbestandteilen (freie Fettsäuren), Fettbegleitstoffe (Lecithin), und unerwünschten Geschmacks- und Geruchsstoffen. Das Ziel ist die Gewinnung eines geschmacklich neutralen, haltbaren Öls (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., o. J.-b).
 - Je nach Verwendung muss das Öl der Ölmühlen einer Raffination unterzogen werden. Hier gibt es vier große Verarbeitungsschritte (BLE, 2024): Entschleimung, Bleichung, Entsäuerung, und Desodierung.
 - Der Raffinationsprozess kann noch in weitere einzelne Schritte unterteilt werden, die in der folgenden Grafik dargestellt sind (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., o. J.-b):
-**BILD EINFÜGEN**
+
+<p align="center">
+  <img src="Prozess-Raffination.jpg" alt="Prozess der Raffination von Pflanzenöl" style="width:90%;">
+</p>
 
 
 
