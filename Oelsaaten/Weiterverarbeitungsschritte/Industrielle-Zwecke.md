@@ -6,7 +6,7 @@ title: "Industrielle Zwecke"
 - 13% der verarbeiteten Rohstoffe in der Chemie sind biogener Herkunft. 50% (887,000 Tonnen) davon sind Pflanzenöle. Sie sind zunehmend auch relevant für die Kunststoff-Produktion (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018).
 - 90% der Schmierstoffe sind mit Bioschmierstoffen aus Pflanzenöl abgedeckt (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018).
 <p align="center">
-  <img src="Weiterverarbeitung-Industrielle-Zwecke.png" alt="Pflanzenöle sind in Chemie und Technik gefragt" style="width:90%;">
+  <img src="Weiterverarbeitung-Industrielle-Zwecke.png" alt="Pflanzenöle sind in Chemie und Technik gefragt" style="width:120%;">
 </p>
 
 (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 10).
