@@ -3,11 +3,11 @@ title: "Weiterverarbeitungsschritte"
 ---
 
 
-## Wichtigste Nutzungsrichtungen (2023) (BLE, 2024)
+## Wichtigste Nutzungsrichtungen (2023)
 
 - Nahrungsverbrauch - 1,8 Millionen Tonnen (31,9%) - Margarine, Speiseöl
 - Mischfutter zugesetzt - 8% von insgesamt 5,65 Millionen Tonnen - 0,452 Millionen Tonnen
-- Industrielle Verwertung - 3,42 Millionen Tonnen (60,1%) - Biodiesel, Oleo-chemische Produkte, Hydraulik- und Schmieröle
+- Industrielle Verwertung - 3,42 Millionen Tonnen (60,1%) - Biodiesel, Oleo-chemische Produkte, Hydraulik- und Schmieröle (BLE, 2024).
 
 - Raps wird zu verschiedenen Produkten weiterverarbeitet, die folgende Grafik stellt eine Übersicht dar (OVID Verband der Ölsaatenverarbeitenden Industrie in Deutschland e. V., 2018, S. 12):
 <p align="center">
