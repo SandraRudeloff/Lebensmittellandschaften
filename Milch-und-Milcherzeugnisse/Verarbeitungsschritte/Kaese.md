@@ -9,7 +9,6 @@ title: "Käse"
   <img src="Milch-Kaese.png" alt="Herstellung von Käse" style="width:90%;">
 </p>
 
-- Weitere Infos über Lab sind unter der Seite "Historische Schwierigkeiten" zu finden.
 
 
 <br>
