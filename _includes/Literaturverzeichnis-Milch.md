@@ -4,15 +4,22 @@
 - BLE. (2024a). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
 - BLE. (2024b, Dezember 16). *2024: Milchpreise pro Monat.* <https://www.ble.de/DE/BZL/Daten-Berichte/Milch-Milcherzeugnisse/_functions/TabelleMilchpreiseMonat2024.html>
 - BLE. (2025). *Bericht zur Markt- und Versorgungslage mit Fleisch 2025.* <https://www.bmel-statistik.de/fileadmin/daten/0611090-2025.pdf>
-- BMEL. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
+- BMEL. (2023, Mai 4). *Rinder.* BMEL. <https://www.bmel.de/DE/themen/tiere/nutztiere/rinder/rinder.html>
+- BMEL. (2025a, Januar 17). *Maul- und Klauenseuche (MKS).* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/mks.html>
+- BMEL. (2025b, Mai 12). *BSE - Bovine Spongiforme Enzephalopathie.* BMEL. <https://www.bmel.de/DE/themen/tiere/tiergesundheit/tierseuchen/bse.html>
 - Börgermann, B. (2021, Oktober 22). Kosten steigen, Milchindustrie ist besorgt. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/kosten-steigen-milchindustrie-besorgt/>
 - Börgermann, B. (2022, Oktober 21). Schwierige Rahmenbedingungen und steigende Kosten in der Milchbranche. *MIV Milchindustrie-Verband e.V.* <https://milchindustrie.de/pressemitteilungen/steigende-kosten-in-der-milchbranche/>
+- Bundesinformationszentrum Landwirtschaft. (2025, Juni 26). *30 Liter Milch gibt eine Kuh am Tag.* Landwirtschaft.de. <https://www.landwirtschaft.de/infothek/landwirtschaft-in-zahlen/tier/30-liter-milch-gibt-eine-kuh-am-tag>
+- Deutscher Bauernverband. (2021). *Zucht von Milchkühen.* <https://www.bauernverband.de/fileadmin/user_upload/dbv/faktenchecks/Zucht_von_Milchkuehen/2021_Faktencheck_Zucht_von_Milchkuehen_26.08.2021.pdf>
+- Deutscher Bauernverband (with Pascher, D. P., & Rukwied, J.). (2023). *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage). Deutscher Bauernverband e.V. <https://magazin.diemayrei.de/storage/media/1ee9439f-5412-69f0-b9b1-5254a201e2da/DBV_SB_2024-web.pdf>
 - Fink-Keßler, A. (2018). *Milcherzeuger in der Wertschöpfungskette Milch und Wirkungen der Exportorientierung. Büro für Agrar- und Regionalentwicklung.* <https://www.germanwatch.org/sites/default/files/Milchstudie_Germanwatch_Bericht_final2.pdf>
 - *Freies Lehrbuch Biologie: 07.01 Bakterien und Milchprodukte.* (2021, November 1). <https://hoffmeister.it/index.php/freies-biologiebuch-fuer-schueler-und-studenten/97-freies-lehrbuch-biologie-07-01-bakterien-und-milchprodukte>
 - Harms, R. (2023, Juni 30). *Vollkostenauswertung Milch WJ 2021/22.* <https://www.lwk-niedersachsen.de/lwk/news/40591_Vollkostenauswertung_Milch_WJ_202122>
 - Landwirtschaft verstehen. (o. J.). *Milcherzeugnis-Herstellung: Die umfangreich köstliche Vielfalt der Milcherzeugnisse.* Abgerufen 5. Dezember 2024, von <https://www.landwirtschaft-verstehen.at/landwirtschaft-fuer-alle/weg-der-lebensmittel/milch-und-milchprodukte/milcherzeugnis-herstellung>
+- Martens, H., Heesen, S., Bothmann, C., Götz, H.-J., & Richter, T. (2022). *Leistungen der Milchkühe und deren Gesundheitsrisiken* (Verbändeübergreifende ad hoc-Arbeitsgruppe „Tierschutz in der Nutztierzucht“). Bundestierärztekammer e. V. <https://www.bundestieraerztekammer.de/btk/dtbl/archiv/artikel.php?we_objectID=2859>
 - Milch Industrie Verband. (2020). *Milch und mehr – die deutsche Milchwirtschaft auf einen Blick.* <https://milchindustrie.de/wp-content/uploads/2017/10/Fakten_Milch_September_2017_A4.pdf>
 - MIV Milchindustrie-Verband e.V. (o. J.-a). *Frischmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/frischmilch/>
+- MIV Milchindustrie-Verband e.V. (o. J.-b). *Milchleistung / Laktation* [Milkipedia]. MIV Milchindustrie-Verband e.V. Abgerufen 12. Juli 2025, von <https://milchindustrie.de/milkipedia/milchleistung/>
 - MIV Milchindustrie-Verband e.V. (o. J.-c). *Mindesthaltbarkeitsdatum.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/mindesthaltbarkeitsdatum/>
 - MIV Milchindustrie-Verband e.V. (o. J.-d). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
 - MIV Milchindustrie-Verband e.V. (o. J.-e). *Pasteurisierung.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/pasteurisierung/>
