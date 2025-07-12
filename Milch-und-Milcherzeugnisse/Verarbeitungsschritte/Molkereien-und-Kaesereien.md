@@ -7,7 +7,7 @@ title: "Molkereien und Käsereien"
 - "Die Rohstoffe Milch und Rahm werden von den Molkereien bearbeitet und/oder verarbeitet und die Zwischenprodukte in die weiterverarbeitende Industrie geleitet oder die Endprodukte über den Handel den Verbrauchern zugeführt." (BLE, 2024, S. 148).
 
 ## Akteurs Infos
-- Die folgenden beiden Grafiken zeigen die größten Molkereien in Deutschland sowie Weltweit 2022 (Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft, 2023, S. 32):
+- Die folgenden beiden Grafiken zeigen die größten Molkereien in Deutschland sowie Weltweit 2022 (Deutscher Bauernverband, 2023, S. 32):
 
 <p align="center">
   <img src="Milch-Molkereien.png" alt="Die größsten Molkereien in Deutschland" style="width:50%;">
