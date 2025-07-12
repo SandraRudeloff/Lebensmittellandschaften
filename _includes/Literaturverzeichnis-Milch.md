@@ -13,15 +13,14 @@
 - Landwirtschaft verstehen. (o. J.). *Milcherzeugnis-Herstellung: Die umfangreich köstliche Vielfalt der Milcherzeugnisse.* Abgerufen 5. Dezember 2024, von <https://www.landwirtschaft-verstehen.at/landwirtschaft-fuer-alle/weg-der-lebensmittel/milch-und-milchprodukte/milcherzeugnis-herstellung>
 - Milch Industrie Verband. (2020). *Milch und mehr – die deutsche Milchwirtschaft auf einen Blick.* <https://milchindustrie.de/wp-content/uploads/2017/10/Fakten_Milch_September_2017_A4.pdf>
 - MIV Milchindustrie-Verband e.V. (o. J.-a). *Frischmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/frischmilch/>
-- MIV Milchindustrie-Verband e.V. (o. J.-b). *Mindesthaltbarkeitsdatum.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/mindesthaltbarkeitsdatum/>
-- MIV Milchindustrie-Verband e.V. (o. J.-c). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
-- MIV Milchindustrie-Verband e.V. (o. J.-d). *Pasteurisierung.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/pasteurisierung/>
-- MIV Milchindustrie-Verband e.V. (o. J.-e). *Rohmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/rohmilch/>
+- MIV Milchindustrie-Verband e.V. (o. J.-c). *Mindesthaltbarkeitsdatum.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/mindesthaltbarkeitsdatum/>
+- MIV Milchindustrie-Verband e.V. (o. J.-d). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
+- MIV Milchindustrie-Verband e.V. (o. J.-e). *Pasteurisierung.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/pasteurisierung/>
+- MIV Milchindustrie-Verband e.V. (o. J.-f). *Rohmilch.* MIV Milchindustrie-Verband e.V. Abgerufen 17. Dezember 2024, von <https://milchindustrie.de/milkipedia/rohmilch/>
 - MIV Milchindustrie-Verband e.V. (2022). *Geschäftsbericht 2021/22.* <https://milchindustrie.de/geschaeftsberichte/2021-2022/epaper/ausgabe.pdf>
 - MIV Milchindustrie-Verband e.V. (2024). *Geschäftsbericht 2023/24.* <https://milchindustrie.de/wp-content/uploads/2024/09/MIV_Geschaeftsbericht_23-24_komplett_DS_komprimiert.pdf>
 - Niedersächsisches Landesamt für Verbraucherschutz und Lebensmittelsicherheit. (2025, Januar 17). *Maul- und Klauenseuche (MKS).* <https://tierseucheninfo.niedersachsen.de/startseite/tierseuchen_tierkrankheiten/schwein/maul_und_klauenseuche/maul_und_klauenseuche/maul-und-klauenseuche-mks-21655.html>
 - Sabersky, A. (2023, Februar). Ohne Lab gibt es keinen Käse. *Slow Food Magazin.* <https://www.oekom.de/_files_media/zeitschriften/artikel/SFM_2023_02_70.pdf>
-- *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage) (with Pascher, D. P., & Rukwied, J.). (2023). Deutscher Bauernverband e.V.
 - Unsere Bayerischen Bauern. (o. J.). *Haltbarkeit der Milch.* Unsere Bayerischen Bauern. Abgerufen 17. Dezember 2024, von <https://unsere-bauern.de/erzeugnisse/haltbarkeit-der-milch/>
 - Zinke, O. (2024, Januar 17). *Milchpreise sind nicht fair - Ist der Milchmarkt kaputt? - Die Diskussion* [Text]. agrarheute.com. <https://www.agrarheute.com/markt/milch/milchpreise-fair-milchmarkt-kaputt-diskussion-615402>
 
