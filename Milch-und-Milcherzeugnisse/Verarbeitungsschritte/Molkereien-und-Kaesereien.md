@@ -1,5 +1,5 @@
 ---
-title: "Exporteure"
+title: "Molkereien und Käsereien"
 ---
 
 - Der Unterschied zwischen Molkereien und Käsereien liegt darin, dass Käsereien nur Käse produzieren und Molkereien auch andere Produkte neben Käse, wie zum Beispiel Sahne, Butter und Joghurt (MIV Milchindustrie-Verband e.V., o. J.-d).
