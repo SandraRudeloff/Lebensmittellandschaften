@@ -28,4 +28,4 @@ title: "Molkereien und Käsereien"
 ## Referenzen
 - BLE. (2024). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
 - MIV Milchindustrie-Verband e.V. (o. J.-d). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
-- *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage) (with Pascher, D. P., & Rukwied, J.). (2023). Deutscher Bauernverband e.V.
+- Deutscher Bauernverband (with Pascher, D. P., & Rukwied, J.). (2023). *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage). Deutscher Bauernverband e.V. <https://magazin.diemayrei.de/storage/media/1ee9439f-5412-69f0-b9b1-5254a201e2da/DBV_SB_2024-web.pdf>
