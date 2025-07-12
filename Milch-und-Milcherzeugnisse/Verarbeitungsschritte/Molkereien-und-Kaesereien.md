@@ -2,8 +2,8 @@
 title: "Exporteure"
 ---
 
-- Der Unterschied zwischen Molkereien und Käsereien liegt darin, dass Käsereien nur Käse produzieren und Molkereien auch andere Produkte neben Käse, wie zum Beispiel Sahne, Butter und Joghurt (MIV Milchindustrie-Verband e.V., o. J.-c).
-- Die Milch wird mit Milchsammeltankwagen bei den Milcherzeugern abgeholt und zu den Molkereien transportiert. In der Molkerei wird dann die Milch zu verschiedenen Milchprodukten verarbeitet (MIV Milchindustrie-Verband e.V., o. J.-c).
+- Der Unterschied zwischen Molkereien und Käsereien liegt darin, dass Käsereien nur Käse produzieren und Molkereien auch andere Produkte neben Käse, wie zum Beispiel Sahne, Butter und Joghurt (MIV Milchindustrie-Verband e.V., o. J.-d).
+- Die Milch wird mit Milchsammeltankwagen bei den Milcherzeugern abgeholt und zu den Molkereien transportiert. In der Molkerei wird dann die Milch zu verschiedenen Milchprodukten verarbeitet (MIV Milchindustrie-Verband e.V., o. J.-d).
 - "Die Rohstoffe Milch und Rahm werden von den Molkereien bearbeitet und/oder verarbeitet und die Zwischenprodukte in die weiterverarbeitende Industrie geleitet oder die Endprodukte über den Handel den Verbrauchern zugeführt." (BLE, 2024, S. 148).
 
 ## Akteurs Infos
@@ -27,5 +27,5 @@ title: "Exporteure"
 
 ## Referenzen
 - BLE. (2024). *Bericht zur Markt- und Versorgungslage mit Milch und Milcherzeugnissen.* <https://www.bmel-statistik.de/fileadmin/daten/0611100-2024.pdf>
-- MIV Milchindustrie-Verband e.V. (o. J.-c). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
+- MIV Milchindustrie-Verband e.V. (o. J.-d). *Molkerei.* MIV Milchindustrie-Verband e.V. Abgerufen 16. Dezember 2024, von <https://milchindustrie.de/milkipedia/molkerei/>
 - *Situationsbericht 2023/24 Trends und Fakten zur Landwirtschaft* (1. Auflage) (with Pascher, D. P., & Rukwied, J.). (2023). Deutscher Bauernverband e.V.
